@@ -1,5 +1,5 @@
 {
-	"directory": "URL",
+	"directory": "https://raw.githubusercontent.com/slowe/flight-data-DSA/master/data/",
 	"lastupdate": "2020-01-10",
 	"dates": ["2020-01-11"],
 	"emissions": [69759],
