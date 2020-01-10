@@ -1,0 +1,68 @@
+{
+	"from": {"n":"Doncaster Sheffield","IATA":"DSA","geo":[-1.01155,53.48100],"cc":"GB","continent":"EU"},
+	"flights": [{
+		"id":"TOM3638",
+		"time":"2020-01-11T08:00Z",
+		"airline":"tui"
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Alicante","IATA":"ALC","geo":[-0.55738,38.28710],"cc":"ES","continent":"EU"},
+		"km":1691,
+		"emissions":{"f":11.5,"kg":19455}
+	},{
+		"id":"W62216",
+		"time":"2020-01-11T13:25Z",
+		"airline":"wizz"
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Budapest","IATA":"BUD","geo":[19.26162,47.43304],"cc":"HU","continent":"EU"},
+		"km":1579,
+		"emissions":{"f":12.6,"kg":19900,"placeholder":true}
+	},{
+		"id":"W61916",
+		"time":"2020-01-11T14:45Z",
+		"airline":"wizz"
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Poznan","IATA":"POZ","geo":[16.82884,52.41433],"cc":"PL","continent":"EU"},
+		"km":1199,
+		"emissions":{"f":12.6,"kg":15112,"placeholder":true}
+	},{
+		"id":"TOM3688",
+		"time":"2020-01-11T16:00Z",
+		"airline":"tui"
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Las Palmas","IATA":"LPA","geo":[-15.38935,27.93894],"cc":"ES","continent":"EU"},
+		"km":3077,
+		"emissions":{"f":10.3,"kg":31702}
+	},{
+		"id":"WZZ5014",
+		"time":"2020-01-11T19:50Z",
+		"airline":"wizz"
+		"aircraft":{"code":"A321","name":"AIRBUS A321"},
+		"to":{"n":"Krakow","IATA":"KRK","geo":[19.79374,50.07549],"cc":"PL","continent":"EU"},
+		"km":1476,
+		"emissions":{"f":12.6,"kg":18602}
+	},{
+		"id":"W61016",
+		"time":"2020-01-11T19:55Z",
+		"airline":"wizz"
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Katowice","IATA":"KTW","geo":[19.07403,50.47083],"cc":"PL","continent":"EU"},
+		"km":1412,
+		"emissions":{"f":12.6,"kg":17795,"placeholder":true}
+	},{
+		"id":"W62510",
+		"time":"2020-01-11T19:55Z",
+		"airline":"wizz"
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Riga","IATA":"RIX","geo":[23.97981,56.92208],"cc":"LV","continent":"EU"},
+		"km":1623,
+		"emissions":{"f":12.6,"kg":20453,"placeholder":true}
+	},{
+		"id":"W63314",
+		"time":"2020-01-11T22:05Z",
+		"airline":"wizz"
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Cluj Napoca","IATA":"CLJ","geo":[23.68701,46.78206],"cc":"RO","continent":"EU"},
+		"km":1901,
+		"emissions":{"f":12.6,"kg":23957,"placeholder":true}
+	}]
+}
