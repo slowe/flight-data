@@ -1,6 +1,14 @@
 {
 	"from": {"n":"Newcastle Airport","ICAO":"EGNT","IATA":"NCL","geo":[-1.69167,55.03750],"cc":"GB","continent":"EU"},
 	"flights":[{
+		"id":"UAE36",
+		"time":"2020-01-15T13:00:00+0000",
+		"airline":"Emirates",
+		"aircraft":{"code":"B77W","name":"BOEING 777-300ER"},
+		"to":{"n":"Dubai Int'l","ICAO":"OMDB","IATA":"DXB","geo":[55.36440,25.25280],"cc":"AE","continent":"AS"},
+		"km":5554,
+		"emissions":{"f":30.6,"kg":169961}
+	},{
 		"id":"BAW1335",
 		"time":"2020-01-15T16:55:00+0000",
 		"airline":"British Airways",
