@@ -3,7 +3,7 @@
 	"flights": [{
 		"id":"TOM3734",
 		"time":"2020-01-12T06:00Z",
-		"airline":"tui"
+		"airline":"tui",
 		"aircraft":{"code":"B738","name":"BOEING 737-800"},
 		"to":{"n":"Malaga","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
 		"km":1890,
@@ -11,7 +11,7 @@
 	},{
 		"id":"TOM3772",
 		"time":"2020-01-12T14:20Z",
-		"airline":"tui"
+		"airline":"tui",
 		"aircraft":{"code":"B738","name":"BOEING 737-800"},
 		"to":{"n":"Arrecife","IATA":"ACE","geo":[-13.60520,28.94550],"cc":"ES","continent":"EU"},
 		"km":2917,
@@ -19,7 +19,7 @@
 	},{
 		"id":"W61016",
 		"time":"2020-01-12T21:20Z",
-		"airline":"wizz"
+		"airline":"wizz",
 		"aircraft":{"code":"","name":""},
 		"to":{"n":"Katowice","IATA":"KTW","geo":[19.08000,50.47430],"cc":"PL","continent":"EU"},
 		"km":1412,
@@ -27,7 +27,7 @@
 	},{
 		"id":"W61816",
 		"time":"2020-01-12T22:05Z",
-		"airline":"wizz"
+		"airline":"wizz",
 		"aircraft":{"code":"","name":""},
 		"to":{"n":"Wroclaw","IATA":"WRO","geo":[16.88580,51.10270],"cc":"PL","continent":"EU"},
 		"km":1243,
@@ -35,7 +35,7 @@
 	},{
 		"id":"W61616",
 		"time":"2020-01-12T22:10Z",
-		"airline":"wizz"
+		"airline":"wizz",
 		"aircraft":{"code":"","name":""},
 		"to":{"n":"Gdansk","IATA":"GDN","geo":[18.46620,54.37760],"cc":"PL","continent":"EU"},
 		"km":1276,
@@ -43,7 +43,7 @@
 	},{
 		"id":"W63016",
 		"time":"2020-01-12T22:15Z",
-		"airline":"wizz"
+		"airline":"wizz",
 		"aircraft":{"code":"","name":""},
 		"to":{"n":"Bucharest","IATA":"OTP","geo":[26.08500,44.57111],"cc":"RO","continent":"$cols[7]"},
 		"km":2194,
@@ -51,7 +51,7 @@
 	},{
 		"id":"WZZ7856",
 		"time":"2020-01-12T22:20Z",
-		"airline":"wizz"
+		"airline":"wizz",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Debrecen","IATA":"4297","geo":[21.61530,47.48890],"cc":"HU","continent":"$cols[7]"},
 		"km":1726,
