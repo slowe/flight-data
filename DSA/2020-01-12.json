@@ -1,11 +1,11 @@
 {
-	"from": {"n":"Doncaster Sheffield","IATA":"DSA","geo":[-1.01066,53.48054],"cc":"GB","continent":"$cols[7]"},
+	"from": {"n":"Doncaster Sheffield","IATA":"DSA","geo":[-1.01066,53.48054],"cc":"GB","continent":"EU"},
 	"flights": [{
 		"id":"TOM3734",
 		"time":"2020-01-12T06:00Z",
 		"airline":"tui"
 		"aircraft":{"code":"B738","name":"BOEING 737-800"},
-		"to":{"n":"Malaga","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"$cols[7]"},
+		"to":{"n":"Malaga","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
 		"km":1890,
 		"emissions":{"f":11.5,"kg":21738}
 	},{
@@ -13,7 +13,7 @@
 		"time":"2020-01-12T14:20Z",
 		"airline":"tui"
 		"aircraft":{"code":"B738","name":"BOEING 737-800"},
-		"to":{"n":"Arrecife","IATA":"ACE","geo":[-13.60520,28.94550],"cc":"ES","continent":"$cols[7]"},
+		"to":{"n":"Arrecife","IATA":"ACE","geo":[-13.60520,28.94550],"cc":"ES","continent":"EU"},
 		"km":2917,
 		"emissions":{"f":11.5,"kg":33554}
 	},{
@@ -21,7 +21,7 @@
 		"time":"2020-01-12T21:20Z",
 		"airline":"wizz"
 		"aircraft":{"code":"","name":""},
-		"to":{"n":"Katowice","IATA":"KTW","geo":[19.08000,50.47430],"cc":"PL","continent":"$cols[7]"},
+		"to":{"n":"Katowice","IATA":"KTW","geo":[19.08000,50.47430],"cc":"PL","continent":"EU"},
 		"km":1412,
 		"emissions":{"f":12.6,"kg":17798,"placeholder":true}
 	},{
@@ -29,7 +29,7 @@
 		"time":"2020-01-12T22:05Z",
 		"airline":"wizz"
 		"aircraft":{"code":"","name":""},
-		"to":{"n":"Wroclaw","IATA":"WRO","geo":[16.88580,51.10270],"cc":"PL","continent":"$cols[7]"},
+		"to":{"n":"Wroclaw","IATA":"WRO","geo":[16.88580,51.10270],"cc":"PL","continent":"EU"},
 		"km":1243,
 		"emissions":{"f":12.6,"kg":15667,"placeholder":true}
 	},{
@@ -37,7 +37,7 @@
 		"time":"2020-01-12T22:10Z",
 		"airline":"wizz"
 		"aircraft":{"code":"","name":""},
-		"to":{"n":"Gdansk","IATA":"GDN","geo":[18.46620,54.37760],"cc":"PL","continent":"$cols[7]"},
+		"to":{"n":"Gdansk","IATA":"GDN","geo":[18.46620,54.37760],"cc":"PL","continent":"EU"},
 		"km":1276,
 		"emissions":{"f":12.6,"kg":16083,"placeholder":true}
 	},{
