@@ -1,0 +1,28 @@
+{
+	"from": {"n":"Doncaster Sheffield","IATA":"DSA","geo":[-1.01066,53.48054],"cc":"GB","continent":"$cols[7]"},
+	"flights": [{
+		"id":"TOM3492",
+		"time":"2020-01-16T09:35Z",
+		"airline":"tui"
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Arrecife","IATA":"ACE","geo":[-13.60520,28.94550],"cc":"ES","continent":"$cols[7]"},
+		"km":2917,
+		"emissions":{"f":11.5,"kg":33554}
+	},{
+		"id":"W61916",
+		"time":"2020-01-16T14:45Z",
+		"airline":"wizz"
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Poznan","IATA":"POZ","geo":[16.82630,52.42100],"cc":"PL","continent":"$cols[7]"},
+		"km":1199,
+		"emissions":{"f":12.6,"kg":15107,"placeholder":true}
+	},{
+		"id":"W61016",
+		"time":"2020-01-16T19:55Z",
+		"airline":"wizz"
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Katowice","IATA":"2613","geo":[19.08000,50.47430],"cc":"PL","continent":"$cols[7]"},
+		"km":1412,
+		"emissions":{"f":12.6,"kg":17798,"placeholder":true}
+	}]
+}
