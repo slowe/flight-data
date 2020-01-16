@@ -824,5 +824,37 @@
 		"to":{"n":"Jersey","ICAO":"EGJJ","IATA":"JER","geo":[-2.19551,49.20790],"cc":"JE","continent":"EU"},
 		"km":299,
 		"emissions":{"f":6.1,"kg":1827}
+	},{
+		"id":"SUS8212",
+		"time":"2020-01-16T19:05:00+0000",
+		"airline":"Sun Air of Scandinavia",
+		"aircraft":{"code":"J328","name":""},
+		"to":{"n":"Billund","ICAO":"EKBI","IATA":"BLL","geo":[9.15178,55.74030],"cc":"DK","continent":"EU"},
+		"km":765,
+		"emissions":{"f":11.1,"kg":8495,"placeholder":true}
+	},{
+		"id":"BEE1344",
+		"time":"2020-01-16T19:15:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
+		"km":542,
+		"emissions":{"f":7.1,"kg":3850}
+	},{
+		"id":"CFE8710",
+		"time":"2020-01-16T19:15:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
+		"km":542,
+		"emissions":{"f":12.5,"kg":6777}
+	},{
+		"id":"CFE4459",
+		"time":"2020-01-16T19:30:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Rotterdam","ICAO":"EHRD","IATA":"RTM","geo":[4.43722,51.95690],"cc":"NL","continent":"EU"},
+		"km":309,
+		"emissions":{"f":12.5,"kg":3875}
 	}]
 }
