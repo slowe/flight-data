@@ -1,7 +1,7 @@
 {
 	"directory": "https://raw.githubusercontent.com/slowe/flight-data/master/NCL/",
 	"lastupdate": "2020-01-16",
-	"dates": ["2020-01-16","2020-01-15"],
-	"emissions": [546861,250139],
-	"flights": [43,12]
+	"dates": ["2020-01-15","2020-01-16"],
+	"emissions": [250139,546861],
+	"flights": [12,43]
 }

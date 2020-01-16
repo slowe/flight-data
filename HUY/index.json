@@ -1,7 +1,7 @@
 {
 	"directory": "https://raw.githubusercontent.com/slowe/flight-data/master/HUY/",
 	"lastupdate": "2020-01-16",
-	"dates": ["2020-01-16","2020-01-15"],
-	"emissions": [21108,8616],
-	"flights": [5,2]
+	"dates": ["2020-01-15","2020-01-16"],
+	"emissions": [8616,21108],
+	"flights": [2,5]
 }
