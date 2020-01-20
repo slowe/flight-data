@@ -2,6 +2,6 @@
 	"directory": "https://raw.githubusercontent.com/slowe/flight-data/master/LCY/",
 	"lastupdate": "2020-01-20",
 	"dates": ["2020-01-16","2020-01-17","2020-01-18","2020-01-19","2020-01-20"],
-	"emissions": [876818,885603,276975,554583,398800],
-	"flights": [118,117,31,69,51]
+	"emissions": [876818,885603,276975,554583,529585],
+	"flights": [118,117,31,69,68]
 }
