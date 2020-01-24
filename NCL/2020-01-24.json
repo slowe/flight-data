@@ -344,5 +344,13 @@
 		"to":{"n":"Exeter Int'l","ICAO":"EGTE","IATA":"EXT","geo":[-3.41389,50.73440],"cc":"GB","continent":"EU"},
 		"km":530,
 		"emissions":{"f":7.1,"kg":3770}
+	},{
+		"id":"RYR175",
+		"time":"2020-01-24T21:15:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"km":445,
+		"emissions":{"f":15.1,"kg":6730}
 	}]
 }
