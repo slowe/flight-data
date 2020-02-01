@@ -1,0 +1,20 @@
+{
+	"from": {"n":"London City Airport","ICAO":"EGLC","IATA":"LCY","geo":[0.055278,51.505299],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"BAW1",
+		"time":"2020-02-02T12:35:00+0000",
+		"airline":"British Airways",
+		"aircraft":{"code":"A318","name":""},
+		"to":{"n":"Shannon","ICAO":"EINN","IATA":"SNN","geo":[-8.92482,52.70200],"cc":"IE","continent":"EU"},
+		"km":624,
+		"emissions":{"f":11.1,"kg":6928,"placeholder":true}
+	},{
+		"id":"CFE2283",
+		"time":"2020-02-02T12:40:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Geneva Cointrin Int'l","ICAO":"LSGG","IATA":"GVA","geo":[6.10895,46.23810],"cc":"CH","continent":"EU"},
+		"km":736,
+		"emissions":{"f":12.5,"kg":9212}
+	}]
+}
