@@ -1,0 +1,84 @@
+{
+	"from": {"n":"Newcastle Airport","ICAO":"EGNT","IATA":"NCL","geo":[-1.69167,55.03750],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"KLM952",
+		"time":"2020-02-05T05:50:00+0000",
+		"airline":"KLM",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"km":436,
+		"emissions":{"f":15.1,"kg":6596}
+	},{
+		"id":"HOP1559",
+		"time":"2020-02-05T06:00:00+0000",
+		"airline":"HOP!",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
+		"km":692,
+		"emissions":{"f":12.5,"kg":8661}
+	},{
+		"id":"LOG542",
+		"time":"2020-02-05T06:15:00+0000",
+		"airline":"",
+		"aircraft":{"code":"E135","name":""},
+		"to":{"n":"Brussels","ICAO":"EBBR","IATA":"BRU","geo":[4.48444,50.90140],"cc":"BE","continent":"EU"},
+		"km":549,
+		"emissions":{"f":11.1,"kg":6101,"placeholder":true}
+	},{
+		"id":"EZE7650",
+		"time":"2020-02-05T06:45:00+0000",
+		"airline":"Eastern Airways",
+		"aircraft":{"code":"JS41","name":""},
+		"to":{"n":"Aberdeen","ICAO":"EGPD","IATA":"ABZ","geo":[-2.19778,57.20190],"cc":"GB","continent":"EU"},
+		"km":276,
+		"emissions":{"f":11.1,"kg":3073,"placeholder":true}
+	},{
+		"id":"LOG1",
+		"time":"2020-02-05T06:50:00+0000",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Aberdeen","ICAO":"EGPD","IATA":"ABZ","geo":[-2.19778,57.20190],"cc":"GB","continent":"EU"},
+		"km":276,
+		"emissions":{"f":11.1,"kg":3073,"placeholder":true}
+	},{
+		"id":"BAW1321",
+		"time":"2020-02-05T07:00:00+0000",
+		"airline":"British Airways",
+		"aircraft":{"code":"A321","name":"AIRBUS A321"},
+		"to":{"n":"London Heathrow","ICAO":"EGLL","IATA":"LHR","geo":[-0.46194,51.47060],"cc":"GB","continent":"EU"},
+		"km":398,
+		"emissions":{"f":17.6,"kg":7009}
+	},{
+		"id":"BEE142",
+		"time":"2020-02-05T08:50:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"Southampton","ICAO":"EGHI","IATA":"SOU","geo":[-1.35680,50.95030],"cc":"GB","continent":"EU"},
+		"km":463,
+		"emissions":{"f":7.1,"kg":3294}
+	},{
+		"id":"KLM958",
+		"time":"2020-02-05T09:25:00+0000",
+		"airline":"KLM",
+		"aircraft":{"code":"B737","name":""},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"km":436,
+		"emissions":{"f":11.1,"kg":4849,"placeholder":true}
+	},{
+		"id":"EXS521",
+		"time":"2020-02-05T09:30:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"El Matorral","ICAO":"GCFV","IATA":"FUE","geo":[-13.86380,28.45270],"cc":"ES","continent":"EU"},
+		"km":3162,
+		"emissions":{"f":11.5,"kg":36365}
+	},{
+		"id":"LOG543",
+		"time":"2020-02-05T10:39:10+0000",
+		"airline":"",
+		"aircraft":{"code":"E135","name":""},
+		"to":{"n":"Aberdeen","ICAO":"EGPD","IATA":"ABZ","geo":[-2.19778,57.20190],"cc":"GB","continent":"EU"},
+		"km":276,
+		"emissions":{"f":11.1,"kg":3073,"placeholder":true}
+	}]
+}
