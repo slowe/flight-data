@@ -1,0 +1,44 @@
+{
+	"from": {"n":"Newcastle Airport","ICAO":"EGNT","IATA":"NCL","geo":[-1.69167,55.03750],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"HOP1559",
+		"time":"2020-02-06T06:00:00+0000",
+		"airline":"HOP!",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
+		"km":692,
+		"emissions":{"f":12.5,"kg":8661}
+	},{
+		"id":"LOG542",
+		"time":"2020-02-06T06:15:00+0000",
+		"airline":"",
+		"aircraft":{"code":"E135","name":""},
+		"to":{"n":"Brussels","ICAO":"EBBR","IATA":"BRU","geo":[4.48444,50.90140],"cc":"BE","continent":"EU"},
+		"km":549,
+		"emissions":{"f":11.1,"kg":6101,"placeholder":true}
+	},{
+		"id":"EZE7650",
+		"time":"2020-02-06T06:45:00+0000",
+		"airline":"Eastern Airways",
+		"aircraft":{"code":"JS41","name":""},
+		"to":{"n":"Aberdeen","ICAO":"EGPD","IATA":"ABZ","geo":[-2.19778,57.20190],"cc":"GB","continent":"EU"},
+		"km":276,
+		"emissions":{"f":11.1,"kg":3073,"placeholder":true}
+	},{
+		"id":"EZY547",
+		"time":"2020-02-06T06:45:00+0000",
+		"airline":"easyJet",
+		"aircraft":{"code":"A319","name":"AIRBUS A319"},
+		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
+		"km":400,
+		"emissions":{"f":14.9,"kg":5967}
+	},{
+		"id":"EZY6465",
+		"time":"2020-02-06T06:45:00+0000",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Geneva Cointrin Int'l","ICAO":"LSGG","IATA":"GVA","geo":[6.10895,46.23810],"cc":"CH","continent":"EU"},
+		"km":1069,
+		"emissions":{"f":11.3,"kg":12083}
+	}]
+}
