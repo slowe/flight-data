@@ -1,0 +1,28 @@
+{
+	"from": {"n":"Robin Hood Doncaster Sheffield Airport","ICAO":"EGCN","IATA":"DSA","geo":[-1.01066,53.48054],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"TOM3492",
+		"time":"2020-02-06T09:25:00+0000",
+		"airline":"Thomson Airways",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Arrecife (Lanzarote)","ICAO":"GCRR","IATA":"ACE","geo":[-13.60520,28.94550],"cc":"ES","continent":"EU"},
+		"km":2947,
+		"emissions":{"f":11.5,"kg":33898}
+	},{
+		"id":"WZZ1916",
+		"time":"2020-02-06T14:45:00+0000",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Poznań-Ławica","ICAO":"EPPO","IATA":"POZ","geo":[16.82630,52.42100],"cc":"PL","continent":"EU"},
+		"km":1132,
+		"emissions":{"f":11.3,"kg":12792}
+	},{
+		"id":"WZZ1016",
+		"time":"2020-02-06T19:55:00+0000",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Int'l Katowice in Pyrzowice","ICAO":"EPKT","IATA":"KTW","geo":[19.08000,50.47430],"cc":"PL","continent":"EU"},
+		"km":1345,
+		"emissions":{"f":11.3,"kg":15209}
+	}]
+}
