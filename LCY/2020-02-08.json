@@ -1,0 +1,156 @@
+{
+	"from": {"n":"London City Airport","ICAO":"EGLC","IATA":"LCY","geo":[0.05528,51.50530],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"BAW8461",
+		"time":"2020-02-08T06:35:00+0000",
+		"airline":"British Airways",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Ibiza","ICAO":"LEIB","IATA":"IBZ","geo":[1.37312,38.87290],"cc":"ES","continent":"EU"},
+		"km":1410,
+		"emissions":{"f":10.2,"kg":14385}
+	},{
+		"id":"CFE8461",
+		"time":"2020-02-08T06:35:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Ibiza","ICAO":"LEIB","IATA":"IBZ","geo":[1.37312,38.87290],"cc":"ES","continent":"EU"},
+		"km":1410,
+		"emissions":{"f":10.2,"kg":14385}
+	},{
+		"id":"CFE7301",
+		"time":"2020-02-08T06:40:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E170","name":"EMB ERJ170 (170-100)"},
+		"to":{"n":"Linate","ICAO":"LIML","IATA":"LIN","geo":[9.27674,45.44510],"cc":"IT","continent":"EU"},
+		"km":959,
+		"emissions":{"f":10.6,"kg":10173}
+	},{
+		"id":"CFE8741",
+		"time":"2020-02-08T06:45:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Chambery Aix","ICAO":"LFLB","IATA":"CMF","geo":[5.88023,45.63810],"cc":"FR","continent":"EU"},
+		"km":783,
+		"emissions":{"f":12.5,"kg":9789}
+	},{
+		"id":"CFE2281",
+		"time":"2020-02-08T06:50:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Geneva Cointrin Int'l","ICAO":"LSGG","IATA":"GVA","geo":[6.10895,46.23810],"cc":"CH","continent":"EU"},
+		"km":736,
+		"emissions":{"f":12.5,"kg":9212}
+	},{
+		"id":"CFE3279",
+		"time":"2020-02-08T06:55:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Amerigo Vespucci (Florence)","ICAO":"LIRQ","IATA":"FLR","geo":[11.20510,43.81000],"cc":"IT","continent":"EU"},
+		"km":1197,
+		"emissions":{"f":10.2,"kg":12213}
+	},{
+		"id":"CFE7339",
+		"time":"2020-02-08T07:00:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E170","name":"EMB ERJ170 (170-100)"},
+		"to":{"n":"Václav Havel Airport","ICAO":"LKPR","IATA":"PRG","geo":[14.26000,50.10080],"cc":"CZ","continent":"EU"},
+		"km":1013,
+		"emissions":{"f":8.9,"kg":9022}
+	},{
+		"id":"CYL225",
+		"time":"2020-02-08T07:00:00+0000",
+		"airline":"Alitalia CityLiner",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Linate","ICAO":"LIML","IATA":"LIN","geo":[9.27674,45.44510],"cc":"IT","continent":"EU"},
+		"km":959,
+		"emissions":{"f":12.5,"kg":11997}
+	},{
+		"id":"CFE8491",
+		"time":"2020-02-08T07:05:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Tegel Int'l","ICAO":"EDDT","IATA":"TXL","geo":[13.28770,52.55970],"cc":"DE","continent":"EU"},
+		"km":916,
+		"emissions":{"f":12.5,"kg":11453}
+	},{
+		"id":"SWR443",
+		"time":"2020-02-08T07:20:00+0000",
+		"airline":"Swiss International Air Lines",
+		"aircraft":{"code":"BCS1","name":""},
+		"to":{"n":"Geneva Cointrin Int'l","ICAO":"LSGG","IATA":"GVA","geo":[6.10895,46.23810],"cc":"CH","continent":"EU"},
+		"km":736,
+		"emissions":{"f":11.1,"kg":8180,"placeholder":true}
+	},{
+		"id":"CFE8475",
+		"time":"2020-02-08T07:35:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Nice Cote d'Azur","ICAO":"LFMN","IATA":"NCE","geo":[7.21587,43.65840],"cc":"FR","continent":"EU"},
+		"km":1026,
+		"emissions":{"f":10.2,"kg":10473}
+	},{
+		"id":"CFE8497",
+		"time":"2020-02-08T08:00:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E170","name":"EMB ERJ170 (170-100)"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"km":339,
+		"emissions":{"f":10.6,"kg":3594}
+	},{
+		"id":"LOT288",
+		"time":"2020-02-08T08:00:00+0000",
+		"airline":"LOT Polish Airlines",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Warsaw Frederic Chopin","ICAO":"EPWA","IATA":"WAW","geo":[20.96710,52.16570],"cc":"PL","continent":"EU"},
+		"km":1439,
+		"emissions":{"f":10.2,"kg":14679}
+	},{
+		"id":"CFE3291",
+		"time":"2020-02-08T08:10:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Munich Int'l","ICAO":"EDDM","IATA":"MUC","geo":[11.69030,48.13780],"cc":"DE","continent":"EU"},
+		"km":918,
+		"emissions":{"f":12.5,"kg":11477}
+	},{
+		"id":"LGL4592",
+		"time":"2020-02-08T08:30:00+0000",
+		"airline":"Luxair",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"Luxembourg Int'l","ICAO":"ELLX","IATA":"LUX","geo":[6.20444,49.62333],"cc":"LU","continent":"EU"},
+		"km":485,
+		"emissions":{"f":7.1,"kg":3450}
+	},{
+		"id":"BEE1352",
+		"time":"2020-02-08T08:35:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"George Best Belfast City","ICAO":"EGAC","IATA":"BHD","geo":[-5.87250,54.61810],"cc":"GB","continent":"EU"},
+		"km":523,
+		"emissions":{"f":7.1,"kg":3717}
+	},{
+		"id":"KLM986",
+		"time":"2020-02-08T08:40:00+0000",
+		"airline":"KLM",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"km":339,
+		"emissions":{"f":12.5,"kg":4239}
+	},{
+		"id":"CYL217",
+		"time":"2020-02-08T09:00:00+0000",
+		"airline":"Alitalia CityLiner",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Linate","ICAO":"LIML","IATA":"LIN","geo":[9.27674,45.44510],"cc":"IT","continent":"EU"},
+		"km":959,
+		"emissions":{"f":12.5,"kg":11997}
+	},{
+		"id":"LOT2202",
+		"time":"2020-02-08T09:15:00+0000",
+		"airline":"LOT Polish Airlines",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Budapest Ferenc Liszt International Airport","ICAO":"LHBP","IATA":"BUD","geo":[19.26109,47.42976],"cc":"HU","continent":"EU"},
+		"km":1460,
+		"emissions":{"f":10.2,"kg":14896}
+	}]
+}
