@@ -1,0 +1,28 @@
+{
+	"from": {"n":"Durham Tees Valley Airport","ICAO":"EGNV","IATA":"MME","geo":[-1.4294099807739258,54.50920104980469],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"EZE7637",
+		"time":"2020-02-09T17:06:40+0000",
+		"airline":"Eastern Airways",
+		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
+		"to":{"n":"Humberside","ICAO":"EGNJ","IATA":"HUY","geo":[-0.35083,53.57440],"cc":"GB","continent":"EU"},
+		"km":106,
+		"emissions":{"f":6.1,"kg":650}
+	},{
+		"id":"KLM1538",
+		"time":"2020-02-09T17:15:00+0000",
+		"airline":"KLM",
+		"aircraft":{"code":"E75L","name":""},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"km":399,
+		"emissions":{"f":11.1,"kg":4438,"placeholder":true}
+	},{
+		"id":"EZE7636",
+		"time":"2020-02-09T19:40:00+0000",
+		"airline":"Eastern Airways",
+		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
+		"to":{"n":"Aberdeen","ICAO":"EGPD","IATA":"ABZ","geo":[-2.19778,57.20190],"cc":"GB","continent":"EU"},
+		"km":329,
+		"emissions":{"f":6.1,"kg":2011}
+	}]
+}
