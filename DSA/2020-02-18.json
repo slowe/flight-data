@@ -1,5 +1,5 @@
 {
-	"from": {"n":"Robin Hood Doncaster Sheffield Airport","ICAO":"EGCN","IATA":"DSA","geo":[-1.01065635681,53.4805378105],"cc":"GB","continent":"EU"},
+	"from": {"n":"Robin Hood Doncaster Sheffield Airport","ICAO":"EGCN","IATA":"DSA","geo":[-1.01066,53.48054],"cc":"GB","continent":"EU"},
 	"flights":[{
 		"id":"TOM3260",
 		"time":"2020-02-18T05:50:00+0000",
