@@ -1,6 +1,6 @@
 {
 	"directory": "https://raw.githubusercontent.com/slowe/flight-data/master/LPL/",
-	"lastupdate": "2020-02-19T22:00:14+0000",
+	"lastupdate": "2020-02-19T23:00:12+0000",
 	"dates": ["2020-02-19","2020-02-20"],
 	"emissions": [179041,158906],
 	"flights": [16,14]
