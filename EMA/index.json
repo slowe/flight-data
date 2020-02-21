@@ -1,6 +1,6 @@
 {
 	"directory": "https://raw.githubusercontent.com/slowe/flight-data/master/EMA/",
-	"lastupdate": "2020-02-21T21:00:13+0000",
+	"lastupdate": "2020-02-21T22:00:12+0000",
 	"dates": ["2020-02-19","2020-02-20","2020-02-21","2020-02-22"],
 	"emissions": [84052,432118,542857,576044],
 	"flights": [9,18,32,26]
