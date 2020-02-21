@@ -1,5 +1,5 @@
 {
-	"from": {"n":"East Midlands Airport","ICAO":"EGNX","IATA":"EMA","geo":[-1.32806003094,52.8311004639],"cc":"GB","continent":"EU"},
+	"from": {"n":"East Midlands Airport","ICAO":"EGNX","IATA":"EMA","geo":[-1.32806,52.83110],"cc":"GB","continent":"EU"},
 	"flights":[{
 		"id":"UPS232",
 		"time":"2020-02-21T04:25:00+0000",
@@ -240,5 +240,21 @@
 		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
 		"km":410,
 		"emissions":{"f":11.1,"kg":4553,"placeholder":true}
+	},{
+		"id":"RYR537",
+		"time":"2020-02-21T21:10:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"km":423,
+		"emissions":{"f":15.1,"kg":6399}
+	},{
+		"id":"LOG238",
+		"time":"2020-02-21T21:20:00+0000",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
+		"km":444,
+		"emissions":{"f":11.1,"kg":4928,"placeholder":true}
 	}]
 }

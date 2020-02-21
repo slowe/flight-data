@@ -1,0 +1,212 @@
+{
+	"from": {"n":"East Midlands Airport","ICAO":"EGNX","IATA":"EMA","geo":[-1.32806,52.83110],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"RYR1296",
+		"time":"2020-02-22T06:15:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Sofia Airport","ICAO":"LBSF","IATA":"SOF","geo":[23.41144,42.69669],"cc":"BG","continent":"EU"},
+		"km":2069,
+		"emissions":{"f":11.5,"kg":23794}
+	},{
+		"id":"UPS232",
+		"time":"2020-02-22T06:17:00+0000",
+		"airline":"UPS Airlines",
+		"aircraft":{"code":"B763","name":"BOEING 767-300ER/F"},
+		"to":{"n":"Philadelphia Intl","ICAO":"KPHL","IATA":"PHL","geo":[-75.24110,39.87190],"cc":"US","continent":"NA"},
+		"km":5680,
+		"emissions":{"f":19.1,"kg":108491}
+	},{
+		"id":"RYR535",
+		"time":"2020-02-22T06:30:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"km":423,
+		"emissions":{"f":15.1,"kg":6399}
+	},{
+		"id":"EXS691",
+		"time":"2020-02-22T06:35:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Grenoble Saint-Geoirs","ICAO":"LFLS","IATA":"GNB","geo":[5.32937,45.36290],"cc":"FR","continent":"EU"},
+		"km":917,
+		"emissions":{"f":15.1,"kg":13847}
+	},{
+		"id":"EXS605",
+		"time":"2020-02-22T06:45:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
+		"km":1832,
+		"emissions":{"f":11.5,"kg":21073}
+	},{
+		"id":"EXS641",
+		"time":"2020-02-22T07:00:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Alicante","ICAO":"LEAL","IATA":"ALC","geo":[-0.55816,38.28220],"cc":"ES","continent":"EU"},
+		"km":1620,
+		"emissions":{"f":11.5,"kg":18632}
+	},{
+		"id":"RYR3152",
+		"time":"2020-02-22T07:15:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Tenerife South (Reina Sofia)","ICAO":"GCTS","IATA":"TFS","geo":[-16.57250,28.04450],"cc":"ES","continent":"EU"},
+		"km":3078,
+		"emissions":{"f":11.5,"kg":35408}
+	},{
+		"id":"RYR3172",
+		"time":"2020-02-22T08:00:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Arrecife (Lanzarote)","ICAO":"GCRR","IATA":"ACE","geo":[-13.60520,28.94550],"cc":"ES","continent":"EU"},
+		"km":2883,
+		"emissions":{"f":11.5,"kg":33163}
+	},{
+		"id":"LOG362",
+		"time":"2020-02-22T08:30:00+0000",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
+		"km":410,
+		"emissions":{"f":11.1,"kg":4553,"placeholder":true}
+	},{
+		"id":"BEE361",
+		"time":"2020-02-22T08:50:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"km":327,
+		"emissions":{"f":7.1,"kg":2325}
+	},{
+		"id":"EXS697",
+		"time":"2020-02-22T08:55:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Salzburg (W. A. Mozart)","ICAO":"LOWS","IATA":"SZG","geo":[13.00430,47.79330],"cc":"AT","continent":"EU"},
+		"km":1078,
+		"emissions":{"f":11.5,"kg":12407}
+	},{
+		"id":"RYR4053",
+		"time":"2020-02-22T09:30:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Modlin","ICAO":"EPMO","IATA":"WMI","geo":[20.65180,52.45110],"cc":"PL","continent":"EU"},
+		"km":1390,
+		"emissions":{"f":11.5,"kg":15995}
+	},{
+		"id":"EXS633",
+		"time":"2020-02-22T09:35:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Tenerife South (Reina Sofia)","ICAO":"GCTS","IATA":"TFS","geo":[-16.57250,28.04450],"cc":"ES","continent":"EU"},
+		"km":3078,
+		"emissions":{"f":11.5,"kg":35408}
+	},{
+		"id":"RYR1724",
+		"time":"2020-02-22T09:35:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Krakow Int'l","ICAO":"EPKK","IATA":"KRK","geo":[19.78480,50.07770],"cc":"PL","continent":"EU"},
+		"km":1401,
+		"emissions":{"f":11.5,"kg":16116}
+	},{
+		"id":"EXS631",
+		"time":"2020-02-22T10:00:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Arrecife (Lanzarote)","ICAO":"GCRR","IATA":"ACE","geo":[-13.60520,28.94550],"cc":"ES","continent":"EU"},
+		"km":2883,
+		"emissions":{"f":11.5,"kg":33163}
+	},{
+		"id":"BEE362",
+		"time":"2020-02-22T11:25:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"George Best Belfast City","ICAO":"EGAC","IATA":"BHD","geo":[-5.87250,54.61810],"cc":"GB","continent":"EU"},
+		"km":434,
+		"emissions":{"f":7.1,"kg":3087}
+	},{
+		"id":"EXS613",
+		"time":"2020-02-22T12:30:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"El Matorral","ICAO":"GCFV","IATA":"FUE","geo":[-13.86380,28.45270],"cc":"ES","continent":"EU"},
+		"km":2943,
+		"emissions":{"f":11.5,"kg":33854}
+	},{
+		"id":"BEE364",
+		"time":"2020-02-22T13:25:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"George Best Belfast City","ICAO":"EGAC","IATA":"BHD","geo":[-5.87250,54.61810],"cc":"GB","continent":"EU"},
+		"km":434,
+		"emissions":{"f":7.1,"kg":3087}
+	},{
+		"id":"RYR1702",
+		"time":"2020-02-22T14:00:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Orio al Serio Int'l","ICAO":"LIME","IATA":"BGY","geo":[9.70417,45.67390],"cc":"IT","continent":"EU"},
+		"km":1062,
+		"emissions":{"f":11.5,"kg":12214}
+	},{
+		"id":"RYR3701",
+		"time":"2020-02-22T14:10:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"El Matorral","ICAO":"GCFV","IATA":"FUE","geo":[-13.86380,28.45270],"cc":"ES","continent":"EU"},
+		"km":2943,
+		"emissions":{"f":11.5,"kg":33854}
+	},{
+		"id":"EXS651",
+		"time":"2020-02-22T14:55:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Tenerife South (Reina Sofia)","ICAO":"GCTS","IATA":"TFS","geo":[-16.57250,28.04450],"cc":"ES","continent":"EU"},
+		"km":3078,
+		"emissions":{"f":11.5,"kg":35408}
+	},{
+		"id":"EXS671",
+		"time":"2020-02-22T15:05:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Geneva Cointrin Int'l","ICAO":"LSGG","IATA":"GVA","geo":[6.10895,46.23810],"cc":"CH","continent":"EU"},
+		"km":855,
+		"emissions":{"f":15.1,"kg":12921}
+	},{
+		"id":"ETD912",
+		"time":"2020-02-22T15:20:00+0000",
+		"airline":"Etihad Airways",
+		"aircraft":{"code":"B772","name":""},
+		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
+		"km":670,
+		"emissions":{"f":11.1,"kg":7446,"placeholder":true}
+	},{
+		"id":"RYR4458",
+		"time":"2020-02-22T16:10:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
+		"km":1832,
+		"emissions":{"f":11.5,"kg":21073}
+	},{
+		"id":"RYR9085",
+		"time":"2020-02-22T17:45:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Alicante","ICAO":"LEAL","IATA":"ALC","geo":[-0.55816,38.28220],"cc":"ES","continent":"EU"},
+		"km":1620,
+		"emissions":{"f":11.5,"kg":18632}
+	},{
+		"id":"RYR6571",
+		"time":"2020-02-22T17:55:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Treviso (Sant'Angelo)","ICAO":"LIPH","IATA":"TSF","geo":[12.19440,45.64840],"cc":"IT","continent":"EU"},
+		"km":1190,
+		"emissions":{"f":11.5,"kg":13694}
+	}]
+}
