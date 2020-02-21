@@ -1,0 +1,36 @@
+{
+	"from": {"n":"London City Airport","ICAO":"EGLC","IATA":"LCY","geo":[0.05528,51.50530],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"CFE8461",
+		"time":"2020-02-22T06:25:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Ibiza","ICAO":"LEIB","IATA":"IBZ","geo":[1.37312,38.87290],"cc":"ES","continent":"EU"},
+		"km":1410,
+		"emissions":{"f":10.2,"kg":14385}
+	},{
+		"id":"BAW8461",
+		"time":"2020-02-22T06:35:00+0000",
+		"airline":"British Airways",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Ibiza","ICAO":"LEIB","IATA":"IBZ","geo":[1.37312,38.87290],"cc":"ES","continent":"EU"},
+		"km":1410,
+		"emissions":{"f":10.2,"kg":14385}
+	},{
+		"id":"CFE8741",
+		"time":"2020-02-22T06:45:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Chambery Aix","ICAO":"LFLB","IATA":"CMF","geo":[5.88023,45.63810],"cc":"FR","continent":"EU"},
+		"km":783,
+		"emissions":{"f":12.5,"kg":9789}
+	},{
+		"id":"CFE7301",
+		"time":"2020-02-22T06:50:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E170","name":"EMB ERJ170 (170-100)"},
+		"to":{"n":"Linate","ICAO":"LIML","IATA":"LIN","geo":[9.27674,45.44510],"cc":"IT","continent":"EU"},
+		"km":959,
+		"emissions":{"f":10.6,"kg":10173}
+	}]
+}
