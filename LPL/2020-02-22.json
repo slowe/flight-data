@@ -1,0 +1,52 @@
+{
+	"from": {"n":"Liverpool John Lennon Airport","ICAO":"EGGP","IATA":"LPL","geo":[-2.84972,53.33360],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"EZY7279",
+		"time":"2020-02-22T05:55:00+0000",
+		"airline":"easyJet",
+		"aircraft":{"code":"A319","name":"AIRBUS A319"},
+		"to":{"n":"Geneva Cointrin Int'l","ICAO":"LSGG","IATA":"GVA","geo":[6.10895,46.23810],"cc":"CH","continent":"EU"},
+		"km":902,
+		"emissions":{"f":14.9,"kg":13454}
+	},{
+		"id":"RYR9895",
+		"time":"2020-02-22T06:00:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Cork Int'l","ICAO":"EICK","IATA":"ORK","geo":[-8.49111,51.84130],"cc":"IE","continent":"EU"},
+		"km":597,
+		"emissions":{"f":15.1,"kg":9021}
+	},{
+		"id":"EZY7179",
+		"time":"2020-02-22T06:25:00+0000",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
+		"km":1886,
+		"emissions":{"f":11.3,"kg":21323}
+	},{
+		"id":"EZY7061",
+		"time":"2020-02-22T06:30:00+0000",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Marco Polo Int'l (Marco Polo Venice)","ICAO":"LIPZ","IATA":"VCE","geo":[12.35190,45.50530],"cc":"IT","continent":"EU"},
+		"km":1245,
+		"emissions":{"f":11.3,"kg":14074}
+	},{
+		"id":"RYR3811",
+		"time":"2020-02-22T06:30:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Arrecife (Lanzarote)","ICAO":"GCRR","IATA":"ACE","geo":[-13.60520,28.94550],"cc":"ES","continent":"EU"},
+		"km":2933,
+		"emissions":{"f":11.5,"kg":33731}
+	},{
+		"id":"EZY601",
+		"time":"2020-02-22T06:58:20+0000",
+		"airline":"easyJet",
+		"aircraft":{"code":"A319","name":"AIRBUS A319"},
+		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
+		"km":432,
+		"emissions":{"f":14.9,"kg":6444}
+	}]
+}
