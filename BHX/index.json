@@ -1,6 +1,6 @@
 {
 	"directory": "https://raw.githubusercontent.com/slowe/flight-data/master/BHX/",
-	"lastupdate": "2020-02-22T20:00:13+0000",
+	"lastupdate": "2020-02-22T21:00:14+0000",
 	"dates": ["2020-02-19","2020-02-20","2020-02-21","2020-02-22","2020-02-23"],
 	"emissions": [590965,2289236,2338241,2340150,72226],
 	"flights": [38,124,132,114,6]
