@@ -1,0 +1,52 @@
+{
+	"from": {"n":"Birmingham International Airport","ICAO":"EGBB","IATA":"BHX","geo":[-1.74803,52.45390],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"KLM1420",
+		"time":"2020-02-23T06:05:00+0000",
+		"airline":"KLM",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"km":324,
+		"emissions":{"f":15.1,"kg":4893}
+	},{
+		"id":"DLH959",
+		"time":"2020-02-23T06:15:00+0000",
+		"airline":"Lufthansa",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
+		"km":654,
+		"emissions":{"f":15,"kg":9820}
+	},{
+		"id":"BEE3001",
+		"time":"2020-02-23T06:25:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"E75L","name":""},
+		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
+		"km":423,
+		"emissions":{"f":11.1,"kg":4696,"placeholder":true}
+	},{
+		"id":"DLH2513",
+		"time":"2020-02-23T06:40:00+0000",
+		"airline":"Lufthansa",
+		"aircraft":{"code":"A321","name":"AIRBUS A321"},
+		"to":{"n":"Munich Int'l","ICAO":"EDDM","IATA":"MUC","geo":[11.69030,48.13780],"cc":"DE","continent":"EU"},
+		"km":958,
+		"emissions":{"f":17.6,"kg":16870}
+	},{
+		"id":"BEE7111",
+		"time":"2020-02-23T07:30:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"E75L","name":""},
+		"to":{"n":"Malpensa Int'l","ICAO":"LIMC","IATA":"MXP","geo":[8.72811,45.63060],"cc":"IT","continent":"EU"},
+		"km":989,
+		"emissions":{"f":11.1,"kg":10987,"placeholder":true}
+	},{
+		"id":"RYR3901",
+		"time":"2020-02-23T07:45:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Malta Int'l (Luqa)","ICAO":"LMML","IATA":"MLA","geo":[14.47750,35.85750],"cc":"MT","continent":"EU"},
+		"km":2170,
+		"emissions":{"f":11.5,"kg":24960}
+	}]
+}
