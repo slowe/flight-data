@@ -344,5 +344,37 @@
 		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
 		"km":416,
 		"emissions":{"f":15.1,"kg":6287}
+	},{
+		"id":"EZY617",
+		"time":"2020-02-24T19:58:20+0000",
+		"airline":"easyJet",
+		"aircraft":{"code":"A319","name":"AIRBUS A319"},
+		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
+		"km":432,
+		"emissions":{"f":14.9,"kg":6444}
+	},{
+		"id":"STK610",
+		"time":"2020-02-24T20:22:30+0000",
+		"airline":"Stobart Air",
+		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
+		"to":{"n":"Isle of Man","ICAO":"EGNS","IATA":"IOM","geo":[-4.62389,54.08330],"cc":"IM","continent":"EU"},
+		"km":315,
+		"emissions":{"f":6.1,"kg":1927}
+	},{
+		"id":"WZZ3698",
+		"time":"2020-02-24T21:50:00+0000",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Iasi Int'l","ICAO":"LRIA","IATA":"IAS","geo":[27.62060,47.17850],"cc":"RO","continent":"EU"},
+		"km":2066,
+		"emissions":{"f":11.3,"kg":23350}
+	},{
+		"id":"RYR449",
+		"time":"2020-02-24T22:09:10+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"km":416,
+		"emissions":{"f":15.1,"kg":6287}
 	}]
 }
