@@ -1,0 +1,20 @@
+{
+	"from": {"n":"Birmingham International Airport","ICAO":"EGBB","IATA":"BHX","geo":[-1.74803,52.45390],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"DLH959",
+		"time":"2020-02-26T05:55:00+0000",
+		"airline":"Lufthansa",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
+		"km":654,
+		"emissions":{"f":15,"kg":9820}
+	},{
+		"id":"KLM1420",
+		"time":"2020-02-26T06:05:00+0000",
+		"airline":"KLM",
+		"aircraft":{"code":"B739","name":""},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"km":324,
+		"emissions":{"f":11.1,"kg":3597,"placeholder":true}
+	}]
+}
