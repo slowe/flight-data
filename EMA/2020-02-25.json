@@ -128,5 +128,77 @@
 		"to":{"n":"Modlin","ICAO":"EPMO","IATA":"WMI","geo":[20.65180,52.45110],"cc":"PL","continent":"EU"},
 		"km":1390,
 		"emissions":{"f":11.5,"kg":15995}
+	},{
+		"id":"LOG236",
+		"time":"2020-02-25T16:25:00+0000",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
+		"km":444,
+		"emissions":{"f":11.1,"kg":4928,"placeholder":true}
+	},{
+		"id":"RYR7622",
+		"time":"2020-02-25T16:30:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Rzeszow/Jasionka","ICAO":"EPRZ","IATA":"RZE","geo":[22.01900,50.11000],"cc":"PL","continent":"EU"},
+		"km":1550,
+		"emissions":{"f":11.5,"kg":17827}
+	},{
+		"id":"BEE366",
+		"time":"2020-02-25T16:55:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"George Best Belfast City","ICAO":"EGAC","IATA":"BHD","geo":[-5.87250,54.61810],"cc":"GB","continent":"EU"},
+		"km":434,
+		"emissions":{"f":7.1,"kg":3087}
+	},{
+		"id":"LOG366",
+		"time":"2020-02-25T17:05:00+0000",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
+		"km":410,
+		"emissions":{"f":11.1,"kg":4553,"placeholder":true}
+	},{
+		"id":"RYR9085",
+		"time":"2020-02-25T17:45:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Alicante","ICAO":"LEAL","IATA":"ALC","geo":[-0.55816,38.28220],"cc":"ES","continent":"EU"},
+		"km":1620,
+		"emissions":{"f":11.5,"kg":18632}
+	},{
+		"id":"BEE368",
+		"time":"2020-02-25T19:50:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"George Best Belfast City","ICAO":"EGAC","IATA":"BHD","geo":[-5.87250,54.61810],"cc":"GB","continent":"EU"},
+		"km":434,
+		"emissions":{"f":7.1,"kg":3087}
+	},{
+		"id":"LOG238",
+		"time":"2020-02-25T19:55:00+0000",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
+		"km":444,
+		"emissions":{"f":11.1,"kg":4928,"placeholder":true}
+	},{
+		"id":"LOG368",
+		"time":"2020-02-25T20:30:00+0000",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
+		"km":410,
+		"emissions":{"f":11.1,"kg":4553,"placeholder":true}
+	},{
+		"id":"RYR537",
+		"time":"2020-02-25T21:10:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"km":423,
+		"emissions":{"f":15.1,"kg":6399}
 	}]
 }

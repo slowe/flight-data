@@ -1,0 +1,60 @@
+{
+	"from": {"n":"East Midlands Airport","ICAO":"EGNX","IATA":"EMA","geo":[-1.32806,52.83110],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"RYR3701",
+		"time":"2020-02-26T05:55:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"El Matorral","ICAO":"GCFV","IATA":"FUE","geo":[-13.86380,28.45270],"cc":"ES","continent":"EU"},
+		"km":2943,
+		"emissions":{"f":11.5,"kg":33854}
+	},{
+		"id":"RYR4458",
+		"time":"2020-02-26T06:15:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
+		"km":1832,
+		"emissions":{"f":11.5,"kg":21073}
+	},{
+		"id":"RYR1664",
+		"time":"2020-02-26T06:20:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Riga Int'l","ICAO":"EVRA","IATA":"RIX","geo":[23.97110,56.92360],"cc":"LV","continent":"EU"},
+		"km":1591,
+		"emissions":{"f":11.5,"kg":18308}
+	},{
+		"id":"LOG232",
+		"time":"2020-02-26T08:30:00+0000",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
+		"km":444,
+		"emissions":{"f":11.1,"kg":4928,"placeholder":true}
+	},{
+		"id":"LOG362",
+		"time":"2020-02-26T08:30:00+0000",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
+		"km":410,
+		"emissions":{"f":11.1,"kg":4553,"placeholder":true}
+	},{
+		"id":"BEE361",
+		"time":"2020-02-26T08:50:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"km":327,
+		"emissions":{"f":7.1,"kg":2325}
+	},{
+		"id":"ETD914",
+		"time":"2020-02-26T09:25:00+0000",
+		"airline":"Etihad Airways",
+		"aircraft":{"code":"B772","name":""},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"km":327,
+		"emissions":{"f":11.1,"kg":3635,"placeholder":true}
+	}]
+}
