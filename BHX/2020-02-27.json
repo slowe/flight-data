@@ -1,0 +1,36 @@
+{
+	"from": {"n":"Birmingham International Airport","ICAO":"EGBB","IATA":"BHX","geo":[-1.74803,52.45390],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"DLH959",
+		"time":"2020-02-27T05:55:00+0000",
+		"airline":"Lufthansa",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
+		"km":654,
+		"emissions":{"f":15,"kg":9820}
+	},{
+		"id":"TOM566",
+		"time":"2020-02-27T06:00:00+0000",
+		"airline":"Thomson Airways",
+		"aircraft":{"code":"B752","name":"BOEING 757-200"},
+		"to":{"n":"Al Massira","ICAO":"GMAD","IATA":"AGA","geo":[-9.41307,30.32500],"cc":"MA","continent":"AF"},
+		"km":2580,
+		"emissions":{"f":14.7,"kg":37935}
+	},{
+		"id":"KLM1420",
+		"time":"2020-02-27T06:05:00+0000",
+		"airline":"KLM",
+		"aircraft":{"code":"B739","name":""},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"km":324,
+		"emissions":{"f":11.1,"kg":3597,"placeholder":true}
+	},{
+		"id":"BCY2050",
+		"time":"2020-02-27T06:10:00+0000",
+		"airline":"CityJet",
+		"aircraft":{"code":"CRJ9","name":""},
+		"to":{"n":"Brussels","ICAO":"EBBR","IATA":"BRU","geo":[4.48444,50.90140],"cc":"BE","continent":"EU"},
+		"km":354,
+		"emissions":{"f":11.1,"kg":3934,"placeholder":true}
+	}]
+}
