@@ -360,5 +360,213 @@
 		"to":{"n":"George Best Belfast City","ICAO":"EGAC","IATA":"BHD","geo":[-5.87250,54.61810],"cc":"GB","continent":"EU"},
 		"km":456,
 		"emissions":{"f":7.1,"kg":3244}
+	},{
+		"id":"THY1968",
+		"time":"2020-02-26T11:10:00+0000",
+		"airline":"Turkish Airlines",
+		"aircraft":{"code":"B739","name":"BOEING 737-900"},
+		"to":{"n":"Istanbul Airport","ICAO":"LTFM","IATA":"IST","geo":[28.75194,41.27528],"cc":"TR","continent":"AS"},
+		"km":2493,
+		"emissions":{"f":12.9,"kg":32163}
+	},{
+		"id":"BEE508",
+		"time":"2020-02-26T11:20:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"Jersey","ICAO":"EGJJ","IATA":"JER","geo":[-2.19551,49.20790],"cc":"JE","continent":"EU"},
+		"km":392,
+		"emissions":{"f":7.1,"kg":2789}
+	},{
+		"id":"BEE1857",
+		"time":"2020-02-26T11:40:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"E75L","name":""},
+		"to":{"n":"Tegel Int'l","ICAO":"EDDT","IATA":"TXL","geo":[13.28770,52.55970],"cc":"DE","continent":"EU"},
+		"km":899,
+		"emissions":{"f":11.1,"kg":9980,"placeholder":true}
+	},{
+		"id":"EIN3265",
+		"time":"2020-02-26T11:55:00+0000",
+		"airline":"Aer Lingus",
+		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"km":434,
+		"emissions":{"f":6.1,"kg":2648}
+	},{
+		"id":"STK3265",
+		"time":"2020-02-26T11:55:00+0000",
+		"airline":"Stobart Air",
+		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"km":434,
+		"emissions":{"f":6.1,"kg":2648}
+	},{
+		"id":"BEE3005",
+		"time":"2020-02-26T12:05:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"E75L","name":""},
+		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
+		"km":423,
+		"emissions":{"f":11.1,"kg":4696,"placeholder":true}
+	},{
+		"id":"RYR665",
+		"time":"2020-02-26T12:05:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"km":434,
+		"emissions":{"f":15.1,"kg":6554}
+	},{
+		"id":"BEE7045",
+		"time":"2020-02-26T12:25:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"E75L","name":""},
+		"to":{"n":"Dusseldorf Int'l","ICAO":"EDDL","IATA":"DUS","geo":[6.76678,51.28950],"cc":"DE","continent":"EU"},
+		"km":482,
+		"emissions":{"f":11.1,"kg":5357,"placeholder":true}
+	},{
+		"id":"BEE786",
+		"time":"2020-02-26T12:35:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
+		"km":477,
+		"emissions":{"f":7.1,"kg":3391}
+	},{
+		"id":"EZY1492",
+		"time":"2020-02-26T12:45:00+0000",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Geneva Cointrin Int'l","ICAO":"LSGG","IATA":"GVA","geo":[6.10895,46.23810],"cc":"CH","continent":"EU"},
+		"km":820,
+		"emissions":{"f":15,"kg":12314}
+	},{
+		"id":"BEE107",
+		"time":"2020-02-26T13:05:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"E75L","name":""},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"km":324,
+		"emissions":{"f":11.1,"kg":3597,"placeholder":true}
+	},{
+		"id":"BEE846",
+		"time":"2020-02-26T13:05:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
+		"km":446,
+		"emissions":{"f":7.1,"kg":3172}
+	},{
+		"id":"AUA466",
+		"time":"2020-02-26T13:15:00+0000",
+		"airline":"Austrian Airlines",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Vienna Int'l (Schwechat)","ICAO":"LOWW","IATA":"VIE","geo":[16.56970,48.11030],"cc":"AT","continent":"EU"},
+		"km":1270,
+		"emissions":{"f":10.2,"kg":12957}
+	},{
+		"id":"LGW9333",
+		"time":"2020-02-26T13:15:00+0000",
+		"airline":"",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"Dusseldorf Int'l","ICAO":"EDDL","IATA":"DUS","geo":[6.76678,51.28950],"cc":"DE","continent":"EU"},
+		"km":482,
+		"emissions":{"f":7.1,"kg":3427}
+	},{
+		"id":"DLH955",
+		"time":"2020-02-26T13:20:00+0000",
+		"airline":"Lufthansa",
+		"aircraft":{"code":"32N","name":""},
+		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
+		"km":654,
+		"emissions":{"f":11.1,"kg":7267,"placeholder":true}
+	},{
+		"id":"KLM1426",
+		"time":"2020-02-26T13:20:00+0000",
+		"airline":"KLM",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"km":324,
+		"emissions":{"f":12.5,"kg":4051}
+	},{
+		"id":"RYR9163",
+		"time":"2020-02-26T13:20:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Barcelona Int'l","ICAO":"LEBL","IATA":"BCN","geo":[2.07846,41.29710],"cc":"ES","continent":"EU"},
+		"km":1251,
+		"emissions":{"f":11.5,"kg":14396}
+	},{
+		"id":"EIN3273",
+		"time":"2020-02-26T13:30:00+0000",
+		"airline":"Aer Lingus",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"km":434,
+		"emissions":{"f":11.1,"kg":4818,"placeholder":true}
+	},{
+		"id":"STK3273",
+		"time":"2020-02-26T13:30:00+0000",
+		"airline":"Stobart Air",
+		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"km":434,
+		"emissions":{"f":6.1,"kg":2648}
+	},{
+		"id":"UAE40",
+		"time":"2020-02-26T13:30:00+0000",
+		"airline":"Emirates",
+		"aircraft":{"code":"A388","name":"AIRBUS A380-800"},
+		"to":{"n":"Dubai Int'l","ICAO":"OMDB","IATA":"DXB","geo":[55.36440,25.25280],"cc":"AE","continent":"AS"},
+		"km":5493,
+		"emissions":{"f":47,"kg":258173}
+	},{
+		"id":"VLG8753",
+		"time":"2020-02-26T13:40:00+0000",
+		"airline":"Vueling",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Barcelona Int'l","ICAO":"LEBL","IATA":"BCN","geo":[2.07846,41.29710],"cc":"ES","continent":"EU"},
+		"km":1251,
+		"emissions":{"f":11.3,"kg":14146}
+	},{
+		"id":"TOM492",
+		"time":"2020-02-26T14:05:00+0000",
+		"airline":"Thomson Airways",
+		"aircraft":{"code":"B788","name":"BOEING 787-800 DREAMLINER"},
+		"to":{"n":"Langkawi Int'l","ICAO":"WMKL","IATA":"LGK","geo":[99.72870,6.32973],"cc":"MY","continent":"AS"},
+		"km":10113,
+		"emissions":{"f":18.4,"kg":186097}
+	},{
+		"id":"BEE109",
+		"time":"2020-02-26T14:40:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"km":324,
+		"emissions":{"f":7.1,"kg":2301}
+	},{
+		"id":"AFR1065",
+		"time":"2020-02-26T14:45:00+0000",
+		"airline":"Air France",
+		"aircraft":{"code":"A318","name":""},
+		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
+		"km":423,
+		"emissions":{"f":11.1,"kg":4696,"placeholder":true}
+	},{
+		"id":"BEE788",
+		"time":"2020-02-26T15:05:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
+		"km":477,
+		"emissions":{"f":7.1,"kg":3391}
+	},{
+		"id":"BEE408",
+		"time":"2020-02-26T15:10:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"George Best Belfast City","ICAO":"EGAC","IATA":"BHD","geo":[-5.87250,54.61810],"cc":"GB","continent":"EU"},
+		"km":456,
+		"emissions":{"f":7.1,"kg":3244}
 	}]
 }
