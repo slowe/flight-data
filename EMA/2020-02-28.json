@@ -1,0 +1,28 @@
+{
+	"from": {"n":"East Midlands Airport","ICAO":"EGNX","IATA":"EMA","geo":[-1.32806,52.83110],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"EXS641",
+		"time":"2020-02-28T05:55:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Alicante","ICAO":"LEAL","IATA":"ALC","geo":[-0.55816,38.28220],"cc":"ES","continent":"EU"},
+		"km":1620,
+		"emissions":{"f":11.5,"kg":18632}
+	},{
+		"id":"RYR1638",
+		"time":"2020-02-28T06:35:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Berlin","ICAO":"EDDB","IATA":"SXF","geo":[13.52250,52.38000],"cc":"DE","continent":"EU"},
+		"km":914,
+		"emissions":{"f":15.1,"kg":13804}
+	},{
+		"id":"RYR535",
+		"time":"2020-02-28T06:40:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"km":423,
+		"emissions":{"f":15.1,"kg":6399}
+	}]
+}
