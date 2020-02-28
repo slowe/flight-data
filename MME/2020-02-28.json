@@ -6,7 +6,7 @@
 		"airline":"KLM",
 		"aircraft":{"code":"E170","name":"EMB ERJ170 (170-100)"},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
-		"km":399,
+		"dist":{"km":399,"type":"gc"},
 		"emissions":{"f":10.6,"kg":4238}
 	},{
 		"id":"EZE7630",
@@ -14,7 +14,7 @@
 		"airline":"Eastern Airways",
 		"aircraft":{"code":"JS41","name":""},
 		"to":{"n":"Aberdeen","ICAO":"EGPD","IATA":"ABZ","geo":[-2.19778,57.20190],"cc":"GB","continent":"EU"},
-		"km":329,
+		"dist":{"km":329,"type":"gc"},
 		"emissions":{"f":11.1,"kg":3659,"placeholder":true}
 	},{
 		"id":"KLM1534",
@@ -22,7 +22,7 @@
 		"airline":"KLM",
 		"aircraft":{"code":"E170","name":"EMB ERJ170 (170-100)"},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
-		"km":399,
+		"dist":{"km":399,"type":"gc"},
 		"emissions":{"f":10.6,"kg":4238}
 	},{
 		"id":"EZE7632",
@@ -30,7 +30,7 @@
 		"airline":"Eastern Airways",
 		"aircraft":{"code":"JS41","name":""},
 		"to":{"n":"Aberdeen","ICAO":"EGPD","IATA":"ABZ","geo":[-2.19778,57.20190],"cc":"GB","continent":"EU"},
-		"km":329,
+		"dist":{"km":329,"type":"gc"},
 		"emissions":{"f":11.1,"kg":3659,"placeholder":true}
 	},{
 		"id":"EZE7631",
@@ -38,7 +38,7 @@
 		"airline":"Eastern Airways",
 		"aircraft":{"code":"JS41","name":""},
 		"to":{"n":"Cardiff Int'l","ICAO":"EGFF","IATA":"CWL","geo":[-3.34333,51.39670],"cc":"GB","continent":"EU"},
-		"km":412,
+		"dist":{"km":412,"type":"gc"},
 		"emissions":{"f":11.1,"kg":4580,"placeholder":true}
 	},{
 		"id":"KLM1538",
@@ -46,7 +46,7 @@
 		"airline":"KLM",
 		"aircraft":{"code":"E170","name":"EMB ERJ170 (170-100)"},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
-		"km":399,
+		"dist":{"km":399,"type":"gc"},
 		"emissions":{"f":10.6,"kg":4238}
 	}]
 }

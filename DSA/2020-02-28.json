@@ -6,7 +6,7 @@
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A321","name":"AIRBUS A321"},
 		"to":{"n":"Warsaw Frederic Chopin","ICAO":"EPWA","IATA":"WAW","geo":[20.96710,52.16570],"cc":"PL","continent":"EU"},
-		"km":1412,
+		"dist":{"km":1412,"type":"gc"},
 		"emissions":{"f":12.6,"kg":17801}
 	},{
 		"id":"WZZ8010",
@@ -14,7 +14,7 @@
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A321","name":"AIRBUS A321"},
 		"to":{"n":"Vilnius Int'l","ICAO":"EYVI","IATA":"VNO","geo":[25.28580,54.63410],"cc":"LT","continent":"EU"},
-		"km":1648,
+		"dist":{"km":1648,"type":"gc"},
 		"emissions":{"f":12.6,"kg":20767}
 	},{
 		"id":"WZZ1616",
@@ -22,7 +22,7 @@
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Gdansk Lech Walesa","ICAO":"EPGD","IATA":"GDN","geo":[18.46620,54.37760],"cc":"PL","continent":"EU"},
-		"km":1210,
+		"dist":{"km":1210,"type":"gc"},
 		"emissions":{"f":11.3,"kg":13684}
 	},{
 		"id":"WZZ3016",
@@ -30,7 +30,7 @@
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A321","name":"AIRBUS A321"},
 		"to":{"n":"Bucharest Henri Coandă Int'l","ICAO":"LROP","IATA":"OTP","geo":[26.08500,44.57111],"cc":"RO","continent":"EU"},
-		"km":2129,
+		"dist":{"km":2129,"type":"gc"},
 		"emissions":{"f":12.6,"kg":26838}
 	}]
 }
