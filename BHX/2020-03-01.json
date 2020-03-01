@@ -6,7 +6,7 @@
 		"airline":"Lufthansa",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
-		"dist":{"km":767,"type":"gc"},
+		"dist":{"km":52168344,"type":"gc"},
 		"emissions":{"kg":10929}
 	},{
 		"id":"KLM1420",
@@ -14,7 +14,7 @@
 		"airline":"KLM",
 		"aircraft":{"code":"B737","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
-		"dist":{"km":442,"type":"gc"},
+		"dist":{"km":52163384,"type":"gc"},
 		"emissions":{"kg":7156}
 	},{
 		"id":"RYR1121",
@@ -22,7 +22,7 @@
 		"airline":"Ryanair",
 		"aircraft":{"code":"B738","name":"BOEING 737-800"},
 		"to":{"n":"Tenerife South (Reina Sofia)","ICAO":"GCTS","IATA":"TFS","geo":[-16.57250,28.04450],"cc":"ES","continent":"EU"},
-		"dist":{"km":2981,"type":"gc"},
+		"dist":{"km":52164032,"type":"gc"},
 		"emissions":{"kg":31877}
 	},{
 		"id":"TOM7742",
@@ -30,7 +30,7 @@
 		"airline":"Thomson Airways",
 		"aircraft":{"code":"B752","name":"BOEING 757-200"},
 		"to":{"n":"Turin Int'l (Torino Caselle)","ICAO":"LIMF","IATA":"TRN","geo":[7.64963,45.20080],"cc":"IT","continent":"EU"},
-		"dist":{"km":1059,"type":"gc"},
+		"dist":{"km":52177504,"type":"gc"},
 		"emissions":{"kg":17711}
 	},{
 		"id":"TOM7748",
@@ -38,7 +38,7 @@
 		"airline":"Thomson Airways",
 		"aircraft":{"code":"B738","name":"BOEING 737-800"},
 		"to":{"n":"Toulouse-Blagnac","ICAO":"LFBO","IATA":"TLS","geo":[1.36382,43.62910],"cc":"FR","continent":"EU"},
-		"dist":{"km":1009,"type":"gc"},
+		"dist":{"km":52181912,"type":"gc"},
 		"emissions":{"kg":13370}
 	},{
 		"id":"TOM7750",
@@ -46,7 +46,7 @@
 		"airline":"Thomson Airways",
 		"aircraft":{"code":"B738","name":"BOEING 737-800"},
 		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
-		"dist":{"km":1769,"type":"gc"},
+		"dist":{"km":52178272,"type":"gc"},
 		"emissions":{"kg":20507}
 	},{
 		"id":"BEE101",
@@ -54,7 +54,7 @@
 		"airline":"Flybe",
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
-		"dist":{"km":442,"type":"gc"},
+		"dist":{"km":52168992,"type":"gc"},
 		"emissions":{"kg":8995}
 	},{
 		"id":"EXS1297",
@@ -62,7 +62,7 @@
 		"airline":"Jet2.com",
 		"aircraft":{"code":"B738","name":"BOEING 737-800"},
 		"to":{"n":"Turin Int'l (Torino Caselle)","ICAO":"LIMF","IATA":"TRN","geo":[7.64963,45.20080],"cc":"IT","continent":"EU"},
-		"dist":{"km":1059,"type":"gc"},
+		"dist":{"km":52169760,"type":"gc"},
 		"emissions":{"kg":13844}
 	},{
 		"id":"BEE3001",
@@ -70,7 +70,7 @@
 		"airline":"Flybe",
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
-		"dist":{"km":488,"type":"gc"},
+		"dist":{"km":52436064,"type":"gc"},
 		"emissions":{"kg":0}
 	},{
 		"id":"DLH2513",
@@ -78,7 +78,7 @@
 		"airline":"Lufthansa",
 		"aircraft":{"code":"32N","name":""},
 		"to":{"n":"Munich Int'l","ICAO":"EDDM","IATA":"MUC","geo":[11.69030,48.13780],"cc":"DE","continent":"EU"},
-		"dist":{"km":1067,"type":"gc"},
+		"dist":{"km":52436712,"type":"gc"},
 		"emissions":{"kg":15915}
 	},{
 		"id":"RYR1448",
@@ -86,7 +86,7 @@
 		"airline":"Ryanair",
 		"aircraft":{"code":"B738","name":"BOEING 737-800"},
 		"to":{"n":"Arrecife (Lanzarote)","ICAO":"GCRR","IATA":"ACE","geo":[-13.60520,28.94550],"cc":"ES","continent":"EU"},
-		"dist":{"km":2793,"type":"gc"},
+		"dist":{"km":52437360,"type":"gc"},
 		"emissions":{"kg":30110}
 	},{
 		"id":"EXS1215",
@@ -94,7 +94,7 @@
 		"airline":"Jet2.com",
 		"aircraft":{"code":"B738","name":"BOEING 737-800"},
 		"to":{"n":"Alicante","ICAO":"LEAL","IATA":"ALC","geo":[-0.55816,38.28220],"cc":"ES","continent":"EU"},
-		"dist":{"km":1580,"type":"gc"},
+		"dist":{"km":52446560,"type":"gc"},
 		"emissions":{"kg":18730}
 	},{
 		"id":"BEE7111",
@@ -102,7 +102,7 @@
 		"airline":"Flybe",
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Malpensa Int'l","ICAO":"LIMC","IATA":"MXP","geo":[8.72811,45.63060],"cc":"IT","continent":"EU"},
-		"dist":{"km":1075,"type":"gc"},
+		"dist":{"km":52447208,"type":"gc"},
 		"emissions":{"kg":0}
 	},{
 		"id":"RYR3901",
@@ -110,7 +110,7 @@
 		"airline":"Ryanair",
 		"aircraft":{"code":"B738","name":"BOEING 737-800"},
 		"to":{"n":"Malta Int'l (Luqa)","ICAO":"LMML","IATA":"MLA","geo":[14.47750,35.85750],"cc":"MT","continent":"EU"},
-		"dist":{"km":2245,"type":"gc"},
+		"dist":{"km":52449728,"type":"gc"},
 		"emissions":{"kg":24970}
 	},{
 		"id":"EXS1231",
@@ -118,7 +118,7 @@
 		"airline":"Jet2.com",
 		"aircraft":{"code":"B738","name":"BOEING 737-800"},
 		"to":{"n":"Grenoble Saint-Geoirs","ICAO":"LFLS","IATA":"GNB","geo":[5.32937,45.36290],"cc":"FR","continent":"EU"},
-		"dist":{"km":943,"type":"gc"},
+		"dist":{"km":52442152,"type":"gc"},
 		"emissions":{"kg":12751}
 	},{
 		"id":"RYR663",
@@ -126,7 +126,7 @@
 		"airline":"Ryanair",
 		"aircraft":{"code":"B738","name":"BOEING 737-800"},
 		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
-		"dist":{"km":321,"type":"gc"},
+		"dist":{"km":52180760,"type":"gc"},
 		"emissions":{"kg":6923}
 	},{
 		"id":"WZZ3316",
@@ -134,7 +134,7 @@
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Cluj-Napoca Int'l (Someşeni)","ICAO":"LRCL","IATA":"CLJ","geo":[23.68620,46.78520],"cc":"RO","continent":"EU"},
-		"dist":{"km":1927,"type":"gc"},
+		"dist":{"km":52463800,"type":"gc"},
 		"emissions":{"kg":21757}
 	},{
 		"id":"EXS1271",
@@ -142,7 +142,7 @@
 		"airline":"Jet2.com",
 		"aircraft":{"code":"B738","name":"BOEING 737-800"},
 		"to":{"n":"Paphos Int'l","ICAO":"LCPH","IATA":"PFO","geo":[32.48570,34.71800],"cc":"CY","continent":"AS"},
-		"dist":{"km":3343,"type":"gc"},
+		"dist":{"km":52463248,"type":"gc"},
 		"emissions":{"kg":35276}
 	},{
 		"id":"TOM740",
@@ -150,7 +150,7 @@
 		"airline":"Thomson Airways",
 		"aircraft":{"code":"B752","name":"BOEING 757-200"},
 		"to":{"n":"Rabil","ICAO":"GVBA","IATA":"BVC","geo":[-22.88890,16.13650],"cc":"CV","continent":"AF"},
-		"dist":{"km":4449,"type":"gc"},
+		"dist":{"km":52457424,"type":"gc"},
 		"emissions":{"kg":64393}
 	},{
 		"id":"EIN3701",
@@ -158,7 +158,7 @@
 		"airline":"Aer Lingus",
 		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
 		"to":{"n":"Cork Int'l","ICAO":"EICK","IATA":"ORK","geo":[-8.49111,51.84130],"cc":"IE","continent":"EU"},
-		"dist":{"km":465,"type":"gc"},
+		"dist":{"km":52461736,"type":"gc"},
 		"emissions":{"kg":2708}
 	},{
 		"id":"EXS1237",
@@ -166,7 +166,7 @@
 		"airline":"Jet2.com",
 		"aircraft":{"code":"B738","name":"BOEING 737-800"},
 		"to":{"n":"Geneva Cointrin Int'l","ICAO":"LSGG","IATA":"GVA","geo":[6.10895,46.23810],"cc":"CH","continent":"EU"},
-		"dist":{"km":895,"type":"gc"},
+		"dist":{"km":52171392,"type":"gc"},
 		"emissions":{"kg":12303}
 	},{
 		"id":"STK3701",
@@ -174,7 +174,7 @@
 		"airline":"Stobart Air",
 		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
 		"to":{"n":"Cork Int'l","ICAO":"EICK","IATA":"ORK","geo":[-8.49111,51.84130],"cc":"IE","continent":"EU"},
-		"dist":{"km":465,"type":"gc"},
+		"dist":{"km":52188936,"type":"gc"},
 		"emissions":{"kg":2708}
 	},{
 		"id":"DLH953",
@@ -182,7 +182,7 @@
 		"airline":"Lufthansa",
 		"aircraft":{"code":"32Q","name":""},
 		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
-		"dist":{"km":767,"type":"gc"},
+		"dist":{"km":52183280,"type":"gc"},
 		"emissions":{"kg":12588}
 	},{
 		"id":"BEE784",
@@ -240,5 +240,189 @@
 		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
 		"dist":{"km":488,"type":"gc"},
 		"emissions":{"kg":3676}
+	},{
+		"id":"EXS1293",
+		"time":"2020-03-01T10:00:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Tenerife South (Reina Sofia)","ICAO":"GCTS","IATA":"TFS","geo":[-16.57250,28.04450],"cc":"ES","continent":"EU"},
+		"dist":{"km":2981,"type":"gc"},
+		"emissions":{"kg":31877}
+	},{
+		"id":"BEE831",
+		"time":"2020-03-01T10:05:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"Inverness","ICAO":"EGPE","IATA":"INV","geo":[-4.04750,57.54250],"cc":"GB","continent":"EU"},
+		"dist":{"km":585,"type":"gc"},
+		"emissions":{"kg":4149}
+	},{
+		"id":"BEE105",
+		"time":"2020-03-01T10:10:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":442,"type":"gc"},
+		"emissions":{"kg":3454}
+	},{
+		"id":"BCY2534",
+		"time":"2020-03-01T10:35:00+0000",
+		"airline":"CityJet",
+		"aircraft":{"code":"CRJ9","name":""},
+		"to":{"n":"Copenhagen","ICAO":"EKCH","IATA":"CPH","geo":[12.65600,55.61790],"cc":"DK","continent":"EU"},
+		"dist":{"km":1003,"type":"gc"},
+		"emissions":{"kg":8689}
+	},{
+		"id":"BEE653",
+		"time":"2020-03-01T10:40:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"E75L","name":""},
+		"to":{"n":"Knock Int'l","ICAO":"EIKN","IATA":"NOC","geo":[-8.81849,53.91030],"cc":"IE","continent":"EU"},
+		"dist":{"km":498,"type":"gc"},
+		"emissions":{"kg":9614}
+	},{
+		"id":"IBS3635",
+		"time":"2020-03-01T10:45:00+0000",
+		"airline":"Iberia Express",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Barajas Int'l","ICAO":"LEMD","IATA":"MAD","geo":[-3.56264,40.47193],"cc":"ES","continent":"EU"},
+		"dist":{"km":1340,"type":"gc"},
+		"emissions":{"kg":16283}
+	},{
+		"id":"TOM762",
+		"time":"2020-03-01T10:45:00+0000",
+		"airline":"Thomson Airways",
+		"aircraft":{"code":"B789","name":"BOEING 787-900 DREAMLINER"},
+		"to":{"n":"Grantley Adams Int'l","ICAO":"TBPB","IATA":"BGI","geo":[-59.49250,13.07460],"cc":"BB","continent":"NA"},
+		"dist":{"km":6707,"type":"gc"},
+		"emissions":{"kg":135722}
+	},{
+		"id":"BEE3203",
+		"time":"2020-03-01T11:05:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"E75L","name":""},
+		"to":{"n":"Lyon","ICAO":"LFLL","IATA":"LYS","geo":[5.08111,45.72556],"cc":"FR","continent":"EU"},
+		"dist":{"km":898,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"RYR2156",
+		"time":"2020-03-01T11:05:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
+		"dist":{"km":1769,"type":"gc"},
+		"emissions":{"kg":20507}
+	},{
+		"id":"THY1968",
+		"time":"2020-03-01T11:10:00+0000",
+		"airline":"Turkish Airlines",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Istanbul Airport","ICAO":"LTFM","IATA":"IST","geo":[28.75194,41.27528],"cc":"TR","continent":"AS"},
+		"dist":{"km":2606,"type":"gc"},
+		"emissions":{"kg":28358}
+	},{
+		"id":"BEE508",
+		"time":"2020-03-01T11:20:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"Jersey","ICAO":"EGJJ","IATA":"JER","geo":[-2.19551,49.20790],"cc":"JE","continent":"EU"},
+		"dist":{"km":362,"type":"gc"},
+		"emissions":{"kg":3065}
+	},{
+		"id":"STK404",
+		"time":"2020-03-01T11:35:00+0000",
+		"airline":"Stobart Air",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"George Best Belfast City","ICAO":"EGAC","IATA":"BHD","geo":[-5.87250,54.61810],"cc":"GB","continent":"EU"},
+		"dist":{"km":363,"type":"gc"},
+		"emissions":{"kg":5699}
+	},{
+		"id":"BEE324",
+		"time":"2020-03-01T11:50:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"Aberdeen","ICAO":"EGPD","IATA":"ABZ","geo":[-2.19778,57.20190],"cc":"GB","continent":"EU"},
+		"dist":{"km":529,"type":"gc"},
+		"emissions":{"kg":3877}
+	},{
+		"id":"EZY1492",
+		"time":"2020-03-01T11:50:00+0000",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Geneva Cointrin Int'l","ICAO":"LSGG","IATA":"GVA","geo":[6.10895,46.23810],"cc":"CH","continent":"EU"},
+		"dist":{"km":895,"type":"gc"},
+		"emissions":{"kg":12126}
+	},{
+		"id":"EIN3265",
+		"time":"2020-03-01T11:55:00+0000",
+		"airline":"Aer Lingus",
+		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":321,"type":"gc"},
+		"emissions":{"kg":2133}
+	},{
+		"id":"STK3265",
+		"time":"2020-03-01T11:55:00+0000",
+		"airline":"Stobart Air",
+		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":321,"type":"gc"},
+		"emissions":{"kg":2133}
+	},{
+		"id":"RYR665",
+		"time":"2020-03-01T12:05:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":321,"type":"gc"},
+		"emissions":{"kg":6923}
+	},{
+		"id":"RYR2152",
+		"time":"2020-03-01T12:10:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Alicante","ICAO":"LEAL","IATA":"ALC","geo":[-0.55816,38.28220],"cc":"ES","continent":"EU"},
+		"dist":{"km":1580,"type":"gc"},
+		"emissions":{"kg":18730}
+	},{
+		"id":"RYR8514",
+		"time":"2020-03-01T12:15:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Porto / Oporto","ICAO":"LPPR","IATA":"OPO","geo":[-8.68139,41.24810],"cc":"PT","continent":"EU"},
+		"dist":{"km":1352,"type":"gc"},
+		"emissions":{"kg":16597}
+	},{
+		"id":"BEE107",
+		"time":"2020-03-01T12:40:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"E75L","name":""},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":442,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"EXS1239",
+		"time":"2020-03-01T12:45:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Antalya","ICAO":"LTAI","IATA":"AYT","geo":[30.80050,36.89870],"cc":"TR","continent":"AS"},
+		"dist":{"km":3063,"type":"gc"},
+		"emissions":{"kg":32648}
+	},{
+		"id":"BEE786",
+		"time":"2020-03-01T12:50:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
+		"dist":{"km":418,"type":"gc"},
+		"emissions":{"kg":3338}
+	},{
+		"id":"TOM7762",
+		"time":"2020-03-01T12:50:00+0000",
+		"airline":"Thomson Airways",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Arrecife (Lanzarote)","ICAO":"GCRR","IATA":"ACE","geo":[-13.60520,28.94550],"cc":"ES","continent":"EU"},
+		"dist":{"km":2793,"type":"gc"},
+		"emissions":{"kg":30110}
 	}]
 }
