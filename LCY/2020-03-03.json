@@ -262,7 +262,7 @@
 		"airline":"Blue Islands",
 		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
 		"to":{"n":"Jersey","ICAO":"EGJJ","IATA":"JER","geo":[-2.19551,49.20790],"cc":"JE","continent":"EU"},
-		"dist":{"km":301,"type":"gc"},
+		"dist":{"km":5977,"type":"gc"},
 		"emissions":{"kg":2052}
 	},{
 		"id":"LOT2202",
@@ -390,7 +390,7 @@
 		"airline":"BA CityFlyer",
 		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
 		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
-		"dist":{"km":543,"type":"gc"},
+		"dist":{"km":6108,"type":"gc"},
 		"emissions":{"kg":7061}
 	},{
 		"id":"CFE3273",
@@ -398,7 +398,7 @@
 		"airline":"BA CityFlyer",
 		"aircraft":{"code":"E170","name":"EMB ERJ170 (170-100)"},
 		"to":{"n":"Dusseldorf Int'l","ICAO":"EDDL","IATA":"DUS","geo":[6.76678,51.28950],"cc":"DE","continent":"EU"},
-		"dist":{"km":466,"type":"gc"},
+		"dist":{"km":4980,"type":"gc"},
 		"emissions":{"kg":5388}
 	},{
 		"id":"CFE3279",
@@ -406,7 +406,7 @@
 		"airline":"BA CityFlyer",
 		"aircraft":{"code":"E170","name":"EMB ERJ170 (170-100)"},
 		"to":{"n":"Amerigo Vespucci (Florence)","ICAO":"LIRQ","IATA":"FLR","geo":[11.20510,43.81000],"cc":"IT","continent":"EU"},
-		"dist":{"km":1194,"type":"gc"},
+		"dist":{"km":4486,"type":"gc"},
 		"emissions":{"kg":10176}
 	},{
 		"id":"CFE7339",
@@ -414,7 +414,7 @@
 		"airline":"BA CityFlyer",
 		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
 		"to":{"n":"Václav Havel Airport","ICAO":"LKPR","IATA":"PRG","geo":[14.26000,50.10080],"cc":"CZ","continent":"EU"},
-		"dist":{"km":1009,"type":"gc"},
+		"dist":{"km":4146,"type":"gc"},
 		"emissions":{"kg":10594}
 	},{
 		"id":"LGL4594",
@@ -422,7 +422,7 @@
 		"airline":"Luxair",
 		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
 		"to":{"n":"Luxembourg Int'l","ICAO":"ELLX","IATA":"LUX","geo":[6.20444,49.62333],"cc":"LU","continent":"EU"},
-		"dist":{"km":482,"type":"gc"},
+		"dist":{"km":5042,"type":"gc"},
 		"emissions":{"kg":3649}
 	},{
 		"id":"CFE2210",
@@ -430,7 +430,7 @@
 		"airline":"BA CityFlyer",
 		"aircraft":{"code":"E170","name":"EMB ERJ170 (170-100)"},
 		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
-		"dist":{"km":568,"type":"gc"},
+		"dist":{"km":6226,"type":"gc"},
 		"emissions":{"kg":6060}
 	},{
 		"id":"CFE2289",
@@ -438,7 +438,7 @@
 		"airline":"BA CityFlyer",
 		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
-		"dist":{"km":335,"type":"gc"},
+		"dist":{"km":5203,"type":"gc"},
 		"emissions":{"kg":5483}
 	},{
 		"id":"CYL215",
@@ -446,7 +446,7 @@
 		"airline":"Alitalia CityLiner",
 		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
 		"to":{"n":"Linate","ICAO":"LIML","IATA":"LIN","geo":[9.27674,45.44510],"cc":"IT","continent":"EU"},
-		"dist":{"km":956,"type":"gc"},
+		"dist":{"km":4700,"type":"gc"},
 		"emissions":{"kg":10192}
 	},{
 		"id":"CFE8765",
@@ -454,7 +454,7 @@
 		"airline":"BA CityFlyer",
 		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
 		"to":{"n":"Zurich (Kloten)","ICAO":"LSZH","IATA":"ZRH","geo":[8.54917,47.46470],"cc":"CH","continent":"EU"},
-		"dist":{"km":760,"type":"gc"},
+		"dist":{"km":4781,"type":"gc"},
 		"emissions":{"kg":8705}
 	},{
 		"id":"CFE8453",
@@ -462,7 +462,7 @@
 		"airline":"BA CityFlyer",
 		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
-		"dist":{"km":335,"type":"gc"},
+		"dist":{"km":5203,"type":"gc"},
 		"emissions":{"kg":5483}
 	},{
 		"id":"EIN285",
@@ -470,7 +470,7 @@
 		"airline":"Aer Lingus",
 		"aircraft":{"code":"RJ85","name":"AVROLINER RJ85"},
 		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
-		"dist":{"km":478,"type":"gc"},
+		"dist":{"km":6431,"type":"gc"},
 		"emissions":{"kg":7635}
 	},{
 		"id":"CFE4455",
@@ -478,7 +478,7 @@
 		"airline":"BA CityFlyer",
 		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
 		"to":{"n":"Rotterdam","ICAO":"EHRD","IATA":"RTM","geo":[4.43722,51.95690],"cc":"NL","continent":"EU"},
-		"dist":{"km":306,"type":"gc"},
+		"dist":{"km":5239,"type":"gc"},
 		"emissions":{"kg":5262}
 	},{
 		"id":"CFE8493",
@@ -486,7 +486,7 @@
 		"airline":"BA CityFlyer",
 		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
 		"to":{"n":"Tegel Int'l","ICAO":"EDDT","IATA":"TXL","geo":[13.28770,52.55970],"cc":"DE","continent":"EU"},
-		"dist":{"km":912,"type":"gc"},
+		"dist":{"km":4254,"type":"gc"},
 		"emissions":{"kg":9856}
 	},{
 		"id":"SWR435",
@@ -494,7 +494,7 @@
 		"airline":"Swiss International Air Lines",
 		"aircraft":{"code":"BCS1","name":""},
 		"to":{"n":"Geneva Cointrin Int'l","ICAO":"LSGG","IATA":"GVA","geo":[6.10895,46.23810],"cc":"CH","continent":"EU"},
-		"dist":{"km":734,"type":"gc"},
+		"dist":{"km":5053,"type":"gc"},
 		"emissions":{"kg":9929}
 	},{
 		"id":"CFE4464",
@@ -502,7 +502,7 @@
 		"airline":"BA CityFlyer",
 		"aircraft":{"code":"E170","name":"EMB ERJ170 (170-100)"},
 		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
-		"dist":{"km":478,"type":"gc"},
+		"dist":{"km":6431,"type":"gc"},
 		"emissions":{"kg":5469}
 	},{
 		"id":"CFE3293",
@@ -510,7 +510,7 @@
 		"airline":"BA CityFlyer",
 		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
 		"to":{"n":"Munich Int'l","ICAO":"EDDM","IATA":"MUC","geo":[11.69030,48.13780],"cc":"DE","continent":"EU"},
-		"dist":{"km":914,"type":"gc"},
+		"dist":{"km":4432,"type":"gc"},
 		"emissions":{"kg":9871}
 	},{
 		"id":"CYL227",
@@ -518,7 +518,7 @@
 		"airline":"Alitalia CityLiner",
 		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
 		"to":{"n":"Linate","ICAO":"LIML","IATA":"LIN","geo":[9.27674,45.44510],"cc":"IT","continent":"EU"},
-		"dist":{"km":956,"type":"gc"},
+		"dist":{"km":4700,"type":"gc"},
 		"emissions":{"kg":10192}
 	},{
 		"id":"CFE8726",
@@ -526,7 +526,7 @@
 		"airline":"BA CityFlyer",
 		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
 		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
-		"dist":{"km":568,"type":"gc"},
+		"dist":{"km":6226,"type":"gc"},
 		"emissions":{"kg":7251}
 	},{
 		"id":"CFE4466",
@@ -534,7 +534,7 @@
 		"airline":"BA CityFlyer",
 		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
 		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
-		"dist":{"km":478,"type":"gc"},
+		"dist":{"km":6431,"type":"gc"},
 		"emissions":{"kg":6570}
 	},{
 		"id":"CFE8716",
@@ -542,7 +542,7 @@
 		"airline":"BA CityFlyer",
 		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
 		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
-		"dist":{"km":543,"type":"gc"},
+		"dist":{"km":6108,"type":"gc"},
 		"emissions":{"kg":7061}
 	},{
 		"id":"CFE8734",
@@ -550,7 +550,7 @@
 		"airline":"BA CityFlyer",
 		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
 		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
-		"dist":{"km":621,"type":"gc"},
+		"dist":{"km":4779,"type":"gc"},
 		"emissions":{"kg":7648}
 	},{
 		"id":"LOG3286",
@@ -609,6 +609,14 @@
 		"dist":{"km":1194,"type":"gc"},
 		"emissions":{"kg":10176}
 	},{
+		"id":"CFE8767",
+		"time":"2020-03-03T15:55:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Zurich (Kloten)","ICAO":"LSZH","IATA":"ZRH","geo":[8.54917,47.46470],"cc":"CH","continent":"EU"},
+		"dist":{"km":760,"type":"gc"},
+		"emissions":{"kg":8705}
+	},{
 		"id":"LGL4596",
 		"time":"2020-03-03T15:55:00+0000",
 		"airline":"Luxair",
@@ -616,5 +624,173 @@
 		"to":{"n":"Luxembourg Int'l","ICAO":"ELLX","IATA":"LUX","geo":[6.20444,49.62333],"cc":"LU","continent":"EU"},
 		"dist":{"km":482,"type":"gc"},
 		"emissions":{"kg":3649}
+	},{
+		"id":"CFE2212",
+		"time":"2020-03-03T16:00:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
+		"dist":{"km":568,"type":"gc"},
+		"emissions":{"kg":7251}
+	},{
+		"id":"BEE1358",
+		"time":"2020-03-03T16:15:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"George Best Belfast City","ICAO":"EGAC","IATA":"BHD","geo":[-5.87250,54.61810],"cc":"GB","continent":"EU"},
+		"dist":{"km":526,"type":"gc"},
+		"emissions":{"kg":3862}
+	},{
+		"id":"CFE4457",
+		"time":"2020-03-03T16:30:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Rotterdam","ICAO":"EHRD","IATA":"RTM","geo":[4.43722,51.95690],"cc":"NL","continent":"EU"},
+		"dist":{"km":306,"type":"gc"},
+		"emissions":{"kg":5262}
+	},{
+		"id":"CFE8738",
+		"time":"2020-03-03T17:00:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
+		"dist":{"km":621,"type":"gc"},
+		"emissions":{"kg":7648}
+	},{
+		"id":"CFE8459",
+		"time":"2020-03-03T17:05:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E170","name":"EMB ERJ170 (170-100)"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":335,"type":"gc"},
+		"emissions":{"kg":4525}
+	},{
+		"id":"KLM990",
+		"time":"2020-03-03T17:05:00+0000",
+		"airline":"KLM",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":335,"type":"gc"},
+		"emissions":{"kg":5483}
+	},{
+		"id":"CFE8712",
+		"time":"2020-03-03T17:10:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
+		"dist":{"km":543,"type":"gc"},
+		"emissions":{"kg":7061}
+	},{
+		"id":"SWR465",
+		"time":"2020-03-03T17:10:00+0000",
+		"airline":"Swiss International Air Lines",
+		"aircraft":{"code":"BCS1","name":""},
+		"to":{"n":"Zurich (Kloten)","ICAO":"LSZH","IATA":"ZRH","geo":[8.54917,47.46470],"cc":"CH","continent":"EU"},
+		"dist":{"km":760,"type":"gc"},
+		"emissions":{"kg":10164}
+	},{
+		"id":"CLH935",
+		"time":"2020-03-03T17:15:00+0000",
+		"airline":"Lufthansa CityLine",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
+		"dist":{"km":621,"type":"gc"},
+		"emissions":{"kg":7648}
+	},{
+		"id":"CFE4472",
+		"time":"2020-03-03T17:20:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":478,"type":"gc"},
+		"emissions":{"kg":6570}
+	},{
+		"id":"BEE1308",
+		"time":"2020-03-03T17:25:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"Exeter Int'l","ICAO":"EGTE","IATA":"EXT","geo":[-3.41389,50.73440],"cc":"GB","continent":"EU"},
+		"dist":{"km":257,"type":"gc"},
+		"emissions":{"kg":2550}
+	},{
+		"id":"BEE1342",
+		"time":"2020-03-03T17:30:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
+		"dist":{"km":543,"type":"gc"},
+		"emissions":{"kg":3947}
+	},{
+		"id":"EIN289",
+		"time":"2020-03-03T17:30:00+0000",
+		"airline":"Aer Lingus",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":478,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"KLM994",
+		"time":"2020-03-03T17:50:00+0000",
+		"airline":"KLM",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":335,"type":"gc"},
+		"emissions":{"kg":5483}
+	},{
+		"id":"CFE8728",
+		"time":"2020-03-03T18:00:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
+		"dist":{"km":568,"type":"gc"},
+		"emissions":{"kg":7251}
+	},{
+		"id":"BEE1390",
+		"time":"2020-03-03T18:05:00+0000",
+		"airline":"Flybe",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"George Best Belfast City","ICAO":"EGAC","IATA":"BHD","geo":[-5.87250,54.61810],"cc":"GB","continent":"EU"},
+		"dist":{"km":526,"type":"gc"},
+		"emissions":{"kg":3862}
+	},{
+		"id":"CFE4468",
+		"time":"2020-03-03T18:05:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E170","name":"EMB ERJ170 (170-100)"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":478,"type":"gc"},
+		"emissions":{"kg":5469}
+	},{
+		"id":"CFE8708",
+		"time":"2020-03-03T18:05:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
+		"dist":{"km":543,"type":"gc"},
+		"emissions":{"kg":7061}
+	},{
+		"id":"CFE8769",
+		"time":"2020-03-03T18:15:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Zurich (Kloten)","ICAO":"LSZH","IATA":"ZRH","geo":[8.54917,47.46470],"cc":"CH","continent":"EU"},
+		"dist":{"km":760,"type":"gc"},
+		"emissions":{"kg":8705}
+	},{
+		"id":"CLH937",
+		"time":"2020-03-03T18:15:00+0000",
+		"airline":"Lufthansa CityLine",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
+		"dist":{"km":621,"type":"gc"},
+		"emissions":{"kg":7648}
+	},{
+		"id":"SWR467",
+		"time":"2020-03-03T18:20:00+0000",
+		"airline":"Swiss International Air Lines",
+		"aircraft":{"code":"BCS1","name":""},
+		"to":{"n":"Zurich (Kloten)","ICAO":"LSZH","IATA":"ZRH","geo":[8.54917,47.46470],"cc":"CH","continent":"EU"},
+		"dist":{"km":760,"type":"gc"},
+		"emissions":{"kg":10164}
 	}]
 }
