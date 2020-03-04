@@ -6,7 +6,7 @@
 		"airline":"Ryanair",
 		"aircraft":{"code":"B738","name":"BOEING 737-800"},
 		"to":{"n":"Arrecife (Lanzarote)","ICAO":"GCRR","IATA":"ACE","geo":[-13.60520,28.94550],"cc":"ES","continent":"EU"},
-		"dist":{"km":7454,"type":"gc"},
+		"dist":{"km":2853,"type":"gc"},
 		"emissions":{"kg":30674}
 	},{
 		"id":"EZY601",
@@ -14,7 +14,7 @@
 		"airline":"easyJet",
 		"aircraft":{"code":"A319","name":"AIRBUS A319"},
 		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
-		"dist":{"km":6633,"type":"gc"},
+		"dist":{"km":264,"type":"gc"},
 		"emissions":{"kg":5891}
 	},{
 		"id":"EZY7067",
@@ -22,7 +22,7 @@
 		"airline":"easyJet",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Nice Cote d'Azur","ICAO":"LFMN","IATA":"NCE","geo":[7.21587,43.65840],"cc":"FR","continent":"EU"},
-		"dist":{"km":5141,"type":"gc"},
+		"dist":{"km":1305,"type":"gc"},
 		"emissions":{"kg":15952}
 	},{
 		"id":"EZY7251",
@@ -30,7 +30,7 @@
 		"airline":"easyJet",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Krakow Int'l","ICAO":"EPKK","IATA":"KRK","geo":[19.78480,50.07770],"cc":"PL","continent":"EU"},
-		"dist":{"km":3746,"type":"gc"},
+		"dist":{"km":1595,"type":"gc"},
 		"emissions":{"kg":18658}
 	},{
 		"id":"EZY7279",
@@ -38,7 +38,7 @@
 		"airline":"easyJet",
 		"aircraft":{"code":"A319","name":"AIRBUS A319"},
 		"to":{"n":"Geneva Cointrin Int'l","ICAO":"LSGG","IATA":"GVA","geo":[6.10895,46.23810],"cc":"CH","continent":"EU"},
-		"dist":{"km":5264,"type":"gc"},
+		"dist":{"km":1017,"type":"gc"},
 		"emissions":{"kg":12550}
 	},{
 		"id":"EZY7179",
@@ -54,7 +54,7 @@
 		"airline":"easyJet",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
-		"dist":{"km":5413,"type":"gc"},
+		"dist":{"km":524,"type":"gc"},
 		"emissions":{"kg":8666}
 	},{
 		"id":"RYR9886",
