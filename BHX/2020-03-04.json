@@ -735,7 +735,7 @@
 		"aircraft":{"code":"32N","name":""},
 		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
 		"dist":{"km":767,"type":"gc"},
-		"emissions":{"kg":12588}
+		"emissions":{"kg":0}
 	},{
 		"id":"RYR673",
 		"time":"2020-03-04T18:15:00+0000",
