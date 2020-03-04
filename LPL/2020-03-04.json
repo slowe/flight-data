@@ -240,5 +240,13 @@
 		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
 		"dist":{"km":227,"type":"gc"},
 		"emissions":{"kg":6036}
+	},{
+		"id":"WZZ1612",
+		"time":"2020-03-04T22:10:00+0000",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Gdansk Lech Walesa","ICAO":"EPGD","IATA":"GDN","geo":[18.46620,54.37760],"cc":"PL","continent":"EU"},
+		"dist":{"km":1398,"type":"gc"},
+		"emissions":{"kg":16824}
 	}]
 }

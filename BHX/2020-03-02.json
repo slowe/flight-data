@@ -87,7 +87,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Dusseldorf Int'l","ICAO":"EDDL","IATA":"DUS","geo":[6.76678,51.28950],"cc":"DE","continent":"EU"},
 		"dist":{"km":599,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":10727}
 	},{
 		"id":"BEE780",
 		"time":"2020-03-02T07:00:00+0000",
@@ -135,7 +135,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Stuttgart Echterdingen","ICAO":"EDDS","IATA":"STR","geo":[9.22196,48.68990],"cc":"DE","continent":"EU"},
 		"dist":{"km":880,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":13842}
 	},{
 		"id":"EXS1309",
 		"time":"2020-03-02T07:30:00+0000",
@@ -471,7 +471,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
 		"dist":{"km":488,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":9499}
 	},{
 		"id":"RYR665",
 		"time":"2020-03-02T12:05:00+0000",
@@ -487,7 +487,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Dusseldorf Int'l","ICAO":"EDDL","IATA":"DUS","geo":[6.76678,51.28950],"cc":"DE","continent":"EU"},
 		"dist":{"km":599,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":10727}
 	},{
 		"id":"BEE786",
 		"time":"2020-03-02T12:35:00+0000",
@@ -639,7 +639,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":442,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":8995}
 	},{
 		"id":"RYR671",
 		"time":"2020-03-02T14:45:00+0000",
@@ -799,7 +799,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
 		"dist":{"km":488,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":9499}
 	},{
 		"id":"BEE790",
 		"time":"2020-03-02T17:25:00+0000",
@@ -831,7 +831,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Stuttgart Echterdingen","ICAO":"EDDS","IATA":"STR","geo":[9.22196,48.68990],"cc":"DE","continent":"EU"},
 		"dist":{"km":880,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":13842}
 	},{
 		"id":"KLM1432",
 		"time":"2020-03-02T17:35:00+0000",
@@ -879,7 +879,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":442,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":8995}
 	},{
 		"id":"SWR425",
 		"time":"2020-03-02T18:50:00+0000",

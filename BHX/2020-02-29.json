@@ -103,7 +103,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Malpensa Int'l","ICAO":"LIMC","IATA":"MXP","geo":[8.72811,45.63060],"cc":"IT","continent":"EU"},
 		"dist":{"km":1075,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":16006}
 	},{
 		"id":"EXS1203",
 		"time":"2020-02-29T07:00:00+0000",
@@ -127,7 +127,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Tegel Int'l","ICAO":"EDDT","IATA":"TXL","geo":[13.28770,52.55970],"cc":"DE","continent":"EU"},
 		"dist":{"km":1016,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":15357}
 	},{
 		"id":"RYR734",
 		"time":"2020-02-29T07:10:00+0000",
@@ -159,7 +159,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":442,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":8995}
 	},{
 		"id":"EXS1371",
 		"time":"2020-02-29T07:25:00+0000",
@@ -423,7 +423,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"George Best Belfast City","ICAO":"EGAC","IATA":"BHD","geo":[-5.87250,54.61810],"cc":"GB","continent":"EU"},
 		"dist":{"km":363,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":8123}
 	},{
 		"id":"BEE107",
 		"time":"2020-02-29T11:35:00+0000",
@@ -479,7 +479,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Chambery Aix","ICAO":"LFLB","IATA":"CMF","geo":[5.88023,45.63810],"cc":"FR","continent":"EU"},
 		"dist":{"km":939,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":14503}
 	},{
 		"id":"BEE7045",
 		"time":"2020-02-29T12:15:00+0000",
@@ -511,7 +511,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Geneva Cointrin Int'l","ICAO":"LSGG","IATA":"GVA","geo":[6.10895,46.23810],"cc":"CH","continent":"EU"},
 		"dist":{"km":895,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":14009}
 	},{
 		"id":"EXS1259",
 		"time":"2020-02-29T12:40:00+0000",

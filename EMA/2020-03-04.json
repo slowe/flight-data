@@ -6,7 +6,7 @@
 		"airline":"Ryanair",
 		"aircraft":{"code":"B738","name":"BOEING 737-800"},
 		"to":{"n":"El Matorral","ICAO":"GCFV","IATA":"FUE","geo":[-13.86380,28.45270],"cc":"ES","continent":"EU"},
-		"dist":{"km":7425,"type":"gc"},
+		"dist":{"km":2903,"type":"gc"},
 		"emissions":{"kg":31142}
 	},{
 		"id":"RYR4458",
@@ -14,7 +14,7 @@
 		"airline":"Ryanair",
 		"aircraft":{"code":"B738","name":"BOEING 737-800"},
 		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
-		"dist":{"km":6383,"type":"gc"},
+		"dist":{"km":1815,"type":"gc"},
 		"emissions":{"kg":20936}
 	},{
 		"id":"RYR1664",
@@ -22,7 +22,7 @@
 		"airline":"Ryanair",
 		"aircraft":{"code":"B738","name":"BOEING 737-800"},
 		"to":{"n":"Riga Int'l","ICAO":"EVRA","IATA":"RIX","geo":[23.97110,56.92360],"cc":"LV","continent":"EU"},
-		"dist":{"km":3215,"type":"gc"},
+		"dist":{"km":1672,"type":"gc"},
 		"emissions":{"kg":19593}
 	},{
 		"id":"LOG232",
@@ -30,7 +30,7 @@
 		"airline":"",
 		"aircraft":{"code":"E145","name":""},
 		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
-		"dist":{"km":6375,"type":"gc"},
+		"dist":{"km":393,"type":"gc"},
 		"emissions":{"kg":3576}
 	},{
 		"id":"LOG362",
@@ -38,7 +38,7 @@
 		"airline":"",
 		"aircraft":{"code":"E145","name":""},
 		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
-		"dist":{"km":6257,"type":"gc"},
+		"dist":{"km":371,"type":"gc"},
 		"emissions":{"kg":3480}
 	},{
 		"id":"BEE361",

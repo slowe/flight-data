@@ -7,7 +7,7 @@
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Poznań-Ławica","ICAO":"EPPO","IATA":"POZ","geo":[16.82630,52.42100],"cc":"PL","continent":"EU"},
 		"dist":{"km":1198,"type":"gc"},
-		"emissions":{"kg":12792}
+		"emissions":{"kg":14958}
 	},{
 		"id":"WZZ1016",
 		"time":"2020-02-27T19:55:00+0000",
@@ -15,6 +15,6 @@
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Int'l Katowice in Pyrzowice","ICAO":"EPKT","IATA":"KTW","geo":[19.08000,50.47430],"cc":"PL","continent":"EU"},
 		"dist":{"km":1412,"type":"gc"},
-		"emissions":{"kg":15209}
+		"emissions":{"kg":16950}
 	}]
 }

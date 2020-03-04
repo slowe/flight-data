@@ -7,7 +7,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":478,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":9389}
 	},{
 		"id":"EZE7630",
 		"time":"2020-03-04T06:35:00+0000",
@@ -23,7 +23,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":478,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":9389}
 	},{
 		"id":"EZE7632",
 		"time":"2020-03-04T12:15:00+0000",
@@ -47,7 +47,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":478,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":9389}
 	},{
 		"id":"EZE7636",
 		"time":"2020-03-04T17:15:00+0000",
