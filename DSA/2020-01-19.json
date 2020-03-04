@@ -6,47 +6,47 @@
 		"airline":"Thomson Airways",
 		"aircraft":{"code":"B738","name":"BOEING 737-800"},
 		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
-		"km":1902,
-		"emissions":{"f":11.5,"kg":21884}
+		"dist":{"km":1890,"type":"gc"},
+		"emissions":{"kg":21637}
 	},{
 		"id":"WZZ1016",
 		"time":"2020-01-19T21:20:00+0000",
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Int'l Katowice in Pyrzowice","ICAO":"EPKT","IATA":"KTW","geo":[19.08000,50.47430],"cc":"PL","continent":"EU"},
-		"km":1345,
-		"emissions":{"f":11.3,"kg":15209}
+		"dist":{"km":1412,"type":"gc"},
+		"emissions":{"kg":16950}
 	},{
 		"id":"WZZ1816",
 		"time":"2020-01-19T22:05:00+0000",
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Copernicus Wrocław","ICAO":"EPWR","IATA":"WRO","geo":[16.88580,51.10270],"cc":"PL","continent":"EU"},
-		"km":1176,
-		"emissions":{"f":11.3,"kg":13297}
+		"dist":{"km":1243,"type":"gc"},
+		"emissions":{"kg":15373}
 	},{
 		"id":"WZZ1616",
 		"time":"2020-01-19T22:10:00+0000",
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Gdansk Lech Walesa","ICAO":"EPGD","IATA":"GDN","geo":[18.46620,54.37760],"cc":"PL","continent":"EU"},
-		"km":1210,
-		"emissions":{"f":11.3,"kg":13684}
+		"dist":{"km":1276,"type":"gc"},
+		"emissions":{"kg":15680}
 	},{
 		"id":"WZZ3016",
 		"time":"2020-01-19T22:15:00+0000",
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A321","name":"AIRBUS A321"},
 		"to":{"n":"Bucharest Henri Coandă Int'l","ICAO":"LROP","IATA":"OTP","geo":[26.08500,44.57111],"cc":"RO","continent":"EU"},
-		"km":2129,
-		"emissions":{"f":12.6,"kg":26838}
+		"dist":{"km":2194,"type":"gc"},
+		"emissions":{"kg":28396}
 	},{
 		"id":"WZZ7856",
 		"time":"2020-01-19T22:20:00+0000",
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Debrecen Int'l","ICAO":"LHDC","IATA":"DEB","geo":[21.61530,47.48890],"cc":"HU","continent":"EU"},
-		"km":1661,
-		"emissions":{"f":11.3,"kg":18776}
+		"dist":{"km":1726,"type":"gc"},
+		"emissions":{"kg":19879}
 	}]
 }

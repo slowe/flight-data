@@ -1,20 +1,20 @@
 {
-	"from": {"n":"Durham Tees Valley Airport","ICAO":"EGNV","IATA":"MME","geo":[-1.4294099807739258,54.50920104980469],"cc":"GB","continent":"EU"},
+	"from": {"n":"Durham Tees Valley Airport","ICAO":"EGNV","IATA":"MME","geo":[-1.42941,54.50920],"cc":"GB","continent":"EU"},
 	"flights":[{
 		"id":"EZE7636",
 		"time":"2020-01-17T17:15:00+0000",
 		"airline":"Eastern Airways",
 		"aircraft":{"code":"JS41","name":""},
 		"to":{"n":"Aberdeen","ICAO":"EGPD","IATA":"ABZ","geo":[-2.19778,57.20190],"cc":"GB","continent":"EU"},
-		"km":329,
-		"emissions":{"f":11.1,"kg":3659,"placeholder":true}
+		"dist":{"km":303,"type":"gc"},
+		"emissions":{"kg":1399,"placeholder":true}
 	},{
 		"id":"KLM1538",
 		"time":"2020-01-17T17:15:00+0000",
 		"airline":"KLM",
 		"aircraft":{"code":"E170","name":"EMB ERJ170 (170-100)"},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
-		"km":399,
-		"emissions":{"f":10.6,"kg":4238}
+		"dist":{"km":478,"type":"gc"},
+		"emissions":{"kg":5464}
 	}]
 }

@@ -1,52 +1,52 @@
 {
-	"from": {"n":"Robin Hood Doncaster Sheffield Airport","ICAO":"EGCN","IATA":"DSA","geo":[-1.01065635681,53.4805378105],"cc":"GB","continent":"EU"},
+	"from": {"n":"Robin Hood Doncaster Sheffield Airport","ICAO":"EGCN","IATA":"DSA","geo":[-1.01066,53.48054],"cc":"GB","continent":"EU"},
 	"flights":[{
 		"id":"WZZ2216",
 		"time":"2020-02-08T13:25:00+0000",
 		"airline":"Wizz Air",
 		"aircraft":{"code":"32Q","name":""},
 		"to":{"n":"Budapest Ferenc Liszt International Airport","ICAO":"LHBP","IATA":"BUD","geo":[19.26109,47.42976],"cc":"HU","continent":"EU"},
-		"km":1515,
-		"emissions":{"f":11.8,"kg":17886,"placeholder":true}
+		"dist":{"km":1579,"type":"gc"},
+		"emissions":{"kg":21587,"placeholder":true}
 	},{
 		"id":"WZZ1916",
 		"time":"2020-02-08T14:45:00+0000",
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Poznań-Ławica","ICAO":"EPPO","IATA":"POZ","geo":[16.82630,52.42100],"cc":"PL","continent":"EU"},
-		"km":1132,
-		"emissions":{"f":11.3,"kg":12792}
+		"dist":{"km":1198,"type":"gc"},
+		"emissions":{"kg":14958}
 	},{
 		"id":"WZZ5014",
 		"time":"2020-02-08T19:50:00+0000",
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A321","name":"AIRBUS A321"},
 		"to":{"n":"Krakow Int'l","ICAO":"EPKK","IATA":"KRK","geo":[19.78480,50.07770],"cc":"PL","continent":"EU"},
-		"km":1409,
-		"emissions":{"f":12.6,"kg":17755}
+		"dist":{"km":1475,"type":"gc"},
+		"emissions":{"kg":20436}
 	},{
 		"id":"WZZ1016",
 		"time":"2020-02-08T19:55:00+0000",
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Int'l Katowice in Pyrzowice","ICAO":"EPKT","IATA":"KTW","geo":[19.08000,50.47430],"cc":"PL","continent":"EU"},
-		"km":1345,
-		"emissions":{"f":11.3,"kg":15209}
+		"dist":{"km":1412,"type":"gc"},
+		"emissions":{"kg":16950}
 	},{
 		"id":"WZZ2510",
 		"time":"2020-02-08T19:55:00+0000",
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Riga Int'l","ICAO":"EVRA","IATA":"RIX","geo":[23.97110,56.92360],"cc":"LV","continent":"EU"},
-		"km":1561,
-		"emissions":{"f":11.3,"kg":17644}
+		"dist":{"km":1622,"type":"gc"},
+		"emissions":{"kg":18911}
 	},{
 		"id":"WZZ3314",
 		"time":"2020-02-08T22:05:00+0000",
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Cluj-Napoca Int'l (Someşeni)","ICAO":"LRCL","IATA":"CLJ","geo":[23.68620,46.78520],"cc":"RO","continent":"EU"},
-		"km":1836,
-		"emissions":{"f":11.3,"kg":20747}
+		"dist":{"km":1901,"type":"gc"},
+		"emissions":{"kg":21507}
 	}]
 }
