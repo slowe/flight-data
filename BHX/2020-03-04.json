@@ -568,5 +568,13 @@
 		"to":{"n":"George Best Belfast City","ICAO":"EGAC","IATA":"BHD","geo":[-5.87250,54.61810],"cc":"GB","continent":"EU"},
 		"dist":{"km":363,"type":"gc"},
 		"emissions":{"kg":3071}
+	},{
+		"id":"RYR4509",
+		"time":"2020-03-04T15:10:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Modlin","ICAO":"EPMO","IATA":"WMI","geo":[20.65180,52.45110],"cc":"PL","continent":"EU"},
+		"dist":{"km":1513,"type":"gc"},
+		"emissions":{"kg":18103}
 	}]
 }
