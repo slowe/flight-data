@@ -1,0 +1,36 @@
+{
+	"from": {"n":"Liverpool John Lennon Airport","ICAO":"EGGP","IATA":"LPL","geo":[-2.84972,53.33360],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"EZY7215",
+		"time":"2020-03-06T05:50:00+0000",
+		"airline":"easyJet",
+		"aircraft":{"code":"A319","name":"AIRBUS A319"},
+		"to":{"n":"Naples Int'l (Capodichino)","ICAO":"LIRN","IATA":"NAP","geo":[14.29080,40.88600],"cc":"IT","continent":"EU"},
+		"dist":{"km":1889,"type":"gc"},
+		"emissions":{"kg":20266}
+	},{
+		"id":"EZY7251",
+		"time":"2020-03-06T06:05:00+0000",
+		"airline":"easyJet",
+		"aircraft":{"code":"A319","name":"AIRBUS A319"},
+		"to":{"n":"Krakow Int'l","ICAO":"EPKK","IATA":"KRK","geo":[19.78480,50.07770],"cc":"PL","continent":"EU"},
+		"dist":{"km":1595,"type":"gc"},
+		"emissions":{"kg":17666}
+	},{
+		"id":"RYR9646",
+		"time":"2020-03-06T06:15:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Krakow Int'l","ICAO":"EPKK","IATA":"KRK","geo":[19.78480,50.07770],"cc":"PL","continent":"EU"},
+		"dist":{"km":1595,"type":"gc"},
+		"emissions":{"kg":18874}
+	},{
+		"id":"EZY7179",
+		"time":"2020-03-06T06:35:00+0000",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
+		"dist":{"km":1858,"type":"gc"},
+		"emissions":{"kg":21114}
+	}]
+}
