@@ -1,0 +1,20 @@
+{
+	"from": {"n":"East Midlands Airport","ICAO":"EGNX","IATA":"EMA","geo":[-1.32806,52.83110],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"RYR1296",
+		"time":"2020-03-07T06:05:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Sofia Airport","ICAO":"LBSF","IATA":"SOF","geo":[23.41144,42.69669],"cc":"BG","continent":"EU"},
+		"dist":{"km":2151,"type":"gc"},
+		"emissions":{"kg":24089}
+	},{
+		"id":"RYR535",
+		"time":"2020-03-07T06:20:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":336,"type":"gc"},
+		"emissions":{"kg":7061}
+	}]
+}
