@@ -1,0 +1,44 @@
+{
+	"from": {"n":"","ICAO":"RJX7","IATA":"","geo":[0.00000,0.00000],"cc":"","continent":""},
+	"flights":[{
+		"id":"KLM1482",
+		"time":"2020-03-06T06:10:00+0000",
+		"airline":"KLM",
+		"aircraft":{"code":"E75L","name":""},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":5839,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"KLM1486",
+		"time":"2020-03-06T10:35:00+0000",
+		"airline":"KLM",
+		"aircraft":{"code":"E75L","name":""},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":5839,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"EZE7642",
+		"time":"2020-03-06T10:45:00+0000",
+		"airline":"Eastern Airways",
+		"aircraft":{"code":"JS41","name":""},
+		"to":{"n":"Aberdeen","ICAO":"EGPD","IATA":"ABZ","geo":[-2.19778,57.20190],"cc":"GB","continent":"EU"},
+		"dist":{"km":6370,"type":"gc"},
+		"emissions":{"kg":18809}
+	},{
+		"id":"KLM1490",
+		"time":"2020-03-06T17:10:00+0000",
+		"airline":"KLM",
+		"aircraft":{"code":"E75L","name":""},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":5839,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"EZE7646",
+		"time":"2020-03-06T17:25:00+0000",
+		"airline":"Eastern Airways",
+		"aircraft":{"code":"JS41","name":""},
+		"to":{"n":"Aberdeen","ICAO":"EGPD","IATA":"ABZ","geo":[-2.19778,57.20190],"cc":"GB","continent":"EU"},
+		"dist":{"km":6370,"type":"gc"},
+		"emissions":{"kg":18809}
+	}]
+}
