@@ -39,7 +39,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Malpensa Int'l","ICAO":"LIMC","IATA":"MXP","geo":[8.72811,45.63060],"cc":"IT","continent":"EU"},
 		"dist":{"km":1075,"type":"gc"},
-		"emissions":{"kg":16006}
+		"emissions":{"kg":0}
 	},{
 		"id":"EXS1309",
 		"time":"2020-03-06T06:20:00+0000",
@@ -55,7 +55,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
 		"dist":{"km":488,"type":"gc"},
-		"emissions":{"kg":9499}
+		"emissions":{"kg":0}
 	},{
 		"id":"BEE101",
 		"time":"2020-03-06T06:35:00+0000",
@@ -127,7 +127,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Stuttgart Echterdingen","ICAO":"EDDS","IATA":"STR","geo":[9.22196,48.68990],"cc":"DE","continent":"EU"},
 		"dist":{"km":880,"type":"gc"},
-		"emissions":{"kg":13842}
+		"emissions":{"kg":0}
 	},{
 		"id":"EXS1215",
 		"time":"2020-03-06T07:15:00+0000",
@@ -143,7 +143,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":442,"type":"gc"},
-		"emissions":{"kg":8995}
+		"emissions":{"kg":0}
 	},{
 		"id":"EIN263",
 		"time":"2020-03-06T08:00:00+0000",
@@ -311,7 +311,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":442,"type":"gc"},
-		"emissions":{"kg":8995}
+		"emissions":{"kg":0}
 	},{
 		"id":"BCY2038",
 		"time":"2020-03-06T10:50:00+0000",
@@ -399,7 +399,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
 		"dist":{"km":488,"type":"gc"},
-		"emissions":{"kg":9499}
+		"emissions":{"kg":0}
 	},{
 		"id":"RYR665",
 		"time":"2020-03-06T12:05:00+0000",
@@ -463,7 +463,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":442,"type":"gc"},
-		"emissions":{"kg":8995}
+		"emissions":{"kg":0}
 	},{
 		"id":"EXS1265",
 		"time":"2020-03-06T13:10:00+0000",
@@ -671,7 +671,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":442,"type":"gc"},
-		"emissions":{"kg":8995}
+		"emissions":{"kg":0}
 	},{
 		"id":"THY1970",
 		"time":"2020-03-06T16:20:00+0000",
@@ -719,7 +719,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Tegel Int'l","ICAO":"EDDT","IATA":"TXL","geo":[13.28770,52.55970],"cc":"DE","continent":"EU"},
 		"dist":{"km":1016,"type":"gc"},
-		"emissions":{"kg":15357}
+		"emissions":{"kg":0}
 	},{
 		"id":"BEE3009",
 		"time":"2020-03-06T17:10:00+0000",
@@ -727,7 +727,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
 		"dist":{"km":488,"type":"gc"},
-		"emissions":{"kg":9499}
+		"emissions":{"kg":0}
 	},{
 		"id":"EZY196",
 		"time":"2020-03-06T17:10:00+0000",
@@ -791,7 +791,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Stuttgart Echterdingen","ICAO":"EDDS","IATA":"STR","geo":[9.22196,48.68990],"cc":"DE","continent":"EU"},
 		"dist":{"km":880,"type":"gc"},
-		"emissions":{"kg":13842}
+		"emissions":{"kg":0}
 	},{
 		"id":"DLH957",
 		"time":"2020-03-06T18:10:00+0000",
@@ -895,7 +895,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":442,"type":"gc"},
-		"emissions":{"kg":8995}
+		"emissions":{"kg":0}
 	},{
 		"id":"UAE38",
 		"time":"2020-03-06T20:50:00+0000",
@@ -912,5 +912,29 @@
 		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
 		"dist":{"km":418,"type":"gc"},
 		"emissions":{"kg":3338}
+	},{
+		"id":"EIN3709",
+		"time":"2020-03-06T21:00:00+0000",
+		"airline":"Aer Lingus",
+		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
+		"to":{"n":"Cork Int'l","ICAO":"EICK","IATA":"ORK","geo":[-8.49111,51.84130],"cc":"IE","continent":"EU"},
+		"dist":{"km":465,"type":"gc"},
+		"emissions":{"kg":2708}
+	},{
+		"id":"STK3709",
+		"time":"2020-03-06T21:00:00+0000",
+		"airline":"Stobart Air",
+		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
+		"to":{"n":"Cork Int'l","ICAO":"EICK","IATA":"ORK","geo":[-8.49111,51.84130],"cc":"IE","continent":"EU"},
+		"dist":{"km":465,"type":"gc"},
+		"emissions":{"kg":2708}
+	},{
+		"id":"EZY198",
+		"time":"2020-03-06T21:05:00+0000",
+		"airline":"easyJet",
+		"aircraft":{"code":"A319","name":"AIRBUS A319"},
+		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
+		"dist":{"km":383,"type":"gc"},
+		"emissions":{"kg":6943}
 	}]
 }

@@ -848,5 +848,21 @@
 		"to":{"n":"Manchester","ICAO":"EGCC","IATA":"MAN","geo":[-2.27495,53.35370],"cc":"GB","continent":"EU"},
 		"dist":{"km":259,"type":"gc"},
 		"emissions":{"kg":4908}
+	},{
+		"id":"KLM980",
+		"time":"2020-03-06T20:45:00+0000",
+		"airline":"KLM",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":335,"type":"gc"},
+		"emissions":{"kg":5483}
+	},{
+		"id":"CFE8714",
+		"time":"2020-03-06T21:00:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
+		"dist":{"km":543,"type":"gc"},
+		"emissions":{"kg":7061}
 	}]
 }
