@@ -39,7 +39,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Malpensa Int'l","ICAO":"LIMC","IATA":"MXP","geo":[8.72811,45.63060],"cc":"IT","continent":"EU"},
 		"dist":{"km":1075,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":16006}
 	},{
 		"id":"EXS1309",
 		"time":"2020-03-06T06:20:00+0000",
@@ -55,7 +55,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
 		"dist":{"km":488,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":9499}
 	},{
 		"id":"BEE101",
 		"time":"2020-03-06T06:35:00+0000",
@@ -127,7 +127,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Stuttgart Echterdingen","ICAO":"EDDS","IATA":"STR","geo":[9.22196,48.68990],"cc":"DE","continent":"EU"},
 		"dist":{"km":880,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":13842}
 	},{
 		"id":"EXS1215",
 		"time":"2020-03-06T07:15:00+0000",
@@ -143,7 +143,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":442,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":8995}
 	},{
 		"id":"EIN263",
 		"time":"2020-03-06T08:00:00+0000",
@@ -311,7 +311,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":442,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":8995}
 	},{
 		"id":"BCY2038",
 		"time":"2020-03-06T10:50:00+0000",
@@ -399,7 +399,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
 		"dist":{"km":488,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":9499}
 	},{
 		"id":"RYR665",
 		"time":"2020-03-06T12:05:00+0000",
@@ -463,7 +463,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":442,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":8995}
 	},{
 		"id":"EXS1265",
 		"time":"2020-03-06T13:10:00+0000",
