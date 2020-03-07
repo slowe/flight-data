@@ -159,7 +159,7 @@
 		"aircraft":{"code":"32Q","name":""},
 		"to":{"n":"London Heathrow","ICAO":"EGLL","IATA":"LHR","geo":[-0.46194,51.47060],"cc":"GB","continent":"EU"},
 		"dist":{"km":405,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":8582}
 	},{
 		"id":"UAE36",
 		"time":"2020-03-07T13:00:00+0000",
@@ -223,7 +223,7 @@
 		"aircraft":{"code":"32Q","name":""},
 		"to":{"n":"London Heathrow","ICAO":"EGLL","IATA":"LHR","geo":[-0.46194,51.47060],"cc":"GB","continent":"EU"},
 		"dist":{"km":405,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":8582}
 	},{
 		"id":"KLM964",
 		"time":"2020-03-07T17:30:00+0000",
@@ -231,7 +231,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":522,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":9881}
 	},{
 		"id":"EZY6467",
 		"time":"2020-03-07T18:00:00+0000",
