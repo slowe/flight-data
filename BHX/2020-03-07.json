@@ -47,7 +47,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
 		"dist":{"km":488,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":9499}
 	},{
 		"id":"DLH2513",
 		"time":"2020-03-07T06:40:00+0000",
@@ -79,7 +79,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Malpensa Int'l","ICAO":"LIMC","IATA":"MXP","geo":[8.72811,45.63060],"cc":"IT","continent":"EU"},
 		"dist":{"km":1075,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":16006}
 	},{
 		"id":"EXS1203",
 		"time":"2020-03-07T07:00:00+0000",
@@ -103,7 +103,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Tegel Int'l","ICAO":"EDDT","IATA":"TXL","geo":[13.28770,52.55970],"cc":"DE","continent":"EU"},
 		"dist":{"km":1016,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":15357}
 	},{
 		"id":"RYR734",
 		"time":"2020-03-07T07:10:00+0000",
@@ -135,7 +135,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":442,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":8995}
 	},{
 		"id":"EXS1371",
 		"time":"2020-03-07T07:25:00+0000",
@@ -383,7 +383,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"George Best Belfast City","ICAO":"EGAC","IATA":"BHD","geo":[-5.87250,54.61810],"cc":"GB","continent":"EU"},
 		"dist":{"km":363,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":8123}
 	},{
 		"id":"BEE107",
 		"time":"2020-03-07T11:35:00+0000",
@@ -439,7 +439,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Chambery Aix","ICAO":"LFLB","IATA":"CMF","geo":[5.88023,45.63810],"cc":"FR","continent":"EU"},
 		"dist":{"km":939,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":14503}
 	},{
 		"id":"BEE786",
 		"time":"2020-03-07T12:30:00+0000",
@@ -503,7 +503,7 @@
 		"aircraft":{"code":"32N","name":""},
 		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
 		"dist":{"km":767,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":12588}
 	},{
 		"id":"RYR9163",
 		"time":"2020-03-07T13:20:00+0000",
