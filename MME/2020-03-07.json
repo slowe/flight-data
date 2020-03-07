@@ -1,0 +1,20 @@
+{
+	"from": {"n":"","ICAO":"RJX7","IATA":"","geo":[0.00000,0.00000],"cc":"","continent":""},
+	"flights":[{
+		"id":"KLM1530",
+		"time":"2020-03-07T06:05:00+0000",
+		"airline":"KLM",
+		"aircraft":{"code":"E75L","name":""},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":5839,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"KLM1534",
+		"time":"2020-03-07T10:20:00+0000",
+		"airline":"KLM",
+		"aircraft":{"code":"E75L","name":""},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":5839,"type":"gc"},
+		"emissions":{"kg":0}
+	}]
+}
