@@ -1,0 +1,20 @@
+{
+	"from": {"n":"","ICAO":"RJX7","IATA":"","geo":[0.00000,0.00000],"cc":"","continent":""},
+	"flights":[{
+		"id":"BAW1",
+		"time":"2020-03-08T12:35:00+0000",
+		"airline":"British Airways",
+		"aircraft":{"code":"A318","name":""},
+		"to":{"n":"Shannon","ICAO":"EINN","IATA":"SNN","geo":[-8.92482,52.70200],"cc":"IE","continent":"EU"},
+		"dist":{"km":5925,"type":"gc"},
+		"emissions":{"kg":53155}
+	},{
+		"id":"CFE2283",
+		"time":"2020-03-08T12:40:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Geneva Cointrin Int'l","ICAO":"LSGG","IATA":"GVA","geo":[6.10895,46.23810],"cc":"CH","continent":"EU"},
+		"dist":{"km":5181,"type":"gc"},
+		"emissions":{"kg":42209}
+	}]
+}
