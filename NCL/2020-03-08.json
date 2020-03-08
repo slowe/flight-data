@@ -71,7 +71,7 @@
 		"aircraft":{"code":"32N","name":""},
 		"to":{"n":"London Heathrow","ICAO":"EGLL","IATA":"LHR","geo":[-0.46194,51.47060],"cc":"GB","continent":"EU"},
 		"dist":{"km":405,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":8582}
 	},{
 		"id":"KLM958",
 		"time":"2020-03-08T09:25:00+0000",
