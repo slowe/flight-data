@@ -448,5 +448,29 @@
 		"to":{"n":"Luxembourg Int'l","ICAO":"ELLX","IATA":"LUX","geo":[6.20444,49.62333],"cc":"LU","continent":"EU"},
 		"dist":{"km":5555,"type":"gc"},
 		"emissions":{"kg":28380}
+	},{
+		"id":"SWR455",
+		"time":"2020-03-08T20:15:00+0000",
+		"airline":"Swiss International Air Lines",
+		"aircraft":{"code":"BCS1","name":""},
+		"to":{"n":"Zurich (Kloten)","ICAO":"LSZH","IATA":"ZRH","geo":[8.54917,47.46470],"cc":"CH","continent":"EU"},
+		"dist":{"km":5348,"type":"gc"},
+		"emissions":{"kg":51481}
+	},{
+		"id":"CFE8730",
+		"time":"2020-03-08T20:25:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
+		"dist":{"km":6232,"type":"gc"},
+		"emissions":{"kg":50171}
+	},{
+		"id":"CFE8718",
+		"time":"2020-03-08T20:40:00+0000",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
+		"dist":{"km":6235,"type":"gc"},
+		"emissions":{"kg":50196}
 	}]
 }
