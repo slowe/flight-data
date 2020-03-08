@@ -1,0 +1,52 @@
+{
+	"from": {"n":"","ICAO":"RJX7","IATA":"","geo":[0.00000,0.00000],"cc":"","continent":""},
+	"flights":[{
+		"id":"TOM3734",
+		"time":"2020-03-08T05:50:00+0000",
+		"airline":"Thomson Airways",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
+		"dist":{"km":4108,"type":"gc"},
+		"emissions":{"kg":42454}
+	},{
+		"id":"WZZ1016",
+		"time":"2020-03-08T21:20:00+0000",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Int'l Katowice in Pyrzowice","ICAO":"EPKT","IATA":"KTW","geo":[19.08000,50.47430],"cc":"PL","continent":"EU"},
+		"dist":{"km":5902,"type":"gc"},
+		"emissions":{"kg":58835}
+	},{
+		"id":"WZZ1816",
+		"time":"2020-03-08T22:05:00+0000",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Copernicus Wrocław","ICAO":"EPWR","IATA":"WRO","geo":[16.88580,51.10270],"cc":"PL","continent":"EU"},
+		"dist":{"km":5907,"type":"gc"},
+		"emissions":{"kg":58880}
+	},{
+		"id":"WZZ1616",
+		"time":"2020-03-08T22:10:00+0000",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Gdansk Lech Walesa","ICAO":"EPGD","IATA":"GDN","geo":[18.46620,54.37760],"cc":"PL","continent":"EU"},
+		"dist":{"km":6285,"type":"gc"},
+		"emissions":{"kg":62406}
+	},{
+		"id":"WZZ3016",
+		"time":"2020-03-08T22:15:00+0000",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A321","name":"AIRBUS A321"},
+		"to":{"n":"Bucharest Henri Coandă Int'l","ICAO":"LROP","IATA":"OTP","geo":[26.08500,44.57111],"cc":"RO","continent":"EU"},
+		"dist":{"km":5590,"type":"gc"},
+		"emissions":{"kg":66017}
+	},{
+		"id":"WZZ7856",
+		"time":"2020-03-08T22:20:00+0000",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Debrecen Int'l","ICAO":"LHDC","IATA":"DEB","geo":[21.61530,47.48890],"cc":"HU","continent":"EU"},
+		"dist":{"km":5686,"type":"gc"},
+		"emissions":{"kg":56816}
+	}]
+}
