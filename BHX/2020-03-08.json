@@ -591,7 +591,7 @@
 		"aircraft":{"code":"32N","name":""},
 		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
 		"dist":{"km":767,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":12588}
 	},{
 		"id":"EZY1498",
 		"time":"2020-03-08T18:10:00+0000",
