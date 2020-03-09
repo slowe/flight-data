@@ -152,5 +152,165 @@
 		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
 		"dist":{"km":383,"type":"gc"},
 		"emissions":{"kg":7355}
+	},{
+		"id":"EXS1201",
+		"time":"2020-03-09T09:00:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Arrecife (Lanzarote)","ICAO":"GCRR","IATA":"ACE","geo":[-13.60520,28.94550],"cc":"ES","continent":"EU"},
+		"dist":{"km":2793,"type":"gc"},
+		"emissions":{"kg":30110}
+	},{
+		"id":"TOM454",
+		"time":"2020-03-09T09:00:00+0000",
+		"airline":"Thomson Airways",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Marsa Alam Int'l","ICAO":"HEMA","IATA":"RMF","geo":[34.58370,25.55710],"cc":"EG","continent":"AF"},
+		"dist":{"km":4261,"type":"gc"},
+		"emissions":{"kg":43888}
+	},{
+		"id":"KLM1422",
+		"time":"2020-03-09T09:20:00+0000",
+		"airline":"KLM",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":442,"type":"gc"},
+		"emissions":{"kg":8056}
+	},{
+		"id":"TOM842",
+		"time":"2020-03-09T09:40:00+0000",
+		"airline":"Thomson Airways",
+		"aircraft":{"code":"B752","name":"BOEING 757-200"},
+		"to":{"n":"Hurghada","ICAO":"HEGN","IATA":"HRG","geo":[33.79940,27.17830],"cc":"EG","continent":"AF"},
+		"dist":{"km":4069,"type":"gc"},
+		"emissions":{"kg":59162}
+	},{
+		"id":"EXS1293",
+		"time":"2020-03-09T10:00:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Tenerife South (Reina Sofia)","ICAO":"GCTS","IATA":"TFS","geo":[-16.57250,28.04450],"cc":"ES","continent":"EU"},
+		"dist":{"km":2981,"type":"gc"},
+		"emissions":{"kg":31877}
+	},{
+		"id":"EST2534",
+		"time":"2020-03-09T10:05:00+0000",
+		"airline":"Nordica",
+		"aircraft":{"code":"CRJ9","name":""},
+		"to":{"n":"Copenhagen","ICAO":"EKCH","IATA":"CPH","geo":[12.65600,55.61790],"cc":"DK","continent":"EU"},
+		"dist":{"km":1003,"type":"gc"},
+		"emissions":{"kg":8689}
+	},{
+		"id":"DLH2509",
+		"time":"2020-03-09T10:15:00+0000",
+		"airline":"Lufthansa",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Munich Int'l","ICAO":"EDDM","IATA":"MUC","geo":[11.69030,48.13780],"cc":"DE","continent":"EU"},
+		"dist":{"km":1067,"type":"gc"},
+		"emissions":{"kg":13731}
+	},{
+		"id":"TOM534",
+		"time":"2020-03-09T10:15:00+0000",
+		"airline":"Thomson Airways",
+		"aircraft":{"code":"B789","name":"BOEING 787-900 DREAMLINER"},
+		"to":{"n":"Cancun Int'l","ICAO":"MMUN","IATA":"CUN","geo":[-86.87710,21.03650],"cc":"MX","continent":"NA"},
+		"dist":{"km":7854,"type":"gc"},
+		"emissions":{"kg":157203}
+	},{
+		"id":"TOM7120",
+		"time":"2020-03-09T10:15:00+0000",
+		"airline":"Thomson Airways",
+		"aircraft":{"code":"B752","name":"BOEING 757-200"},
+		"to":{"n":"Gran Canaria Int'l","ICAO":"GCLP","IATA":"LPA","geo":[-15.38660,27.93190],"cc":"ES","continent":"EU"},
+		"dist":{"km":2954,"type":"gc"},
+		"emissions":{"kg":43804}
+	},{
+		"id":"BCY2038",
+		"time":"2020-03-09T10:50:00+0000",
+		"airline":"CityJet",
+		"aircraft":{"code":"CRJ9","name":""},
+		"to":{"n":"Brussels","ICAO":"EBBR","IATA":"BRU","geo":[4.48444,50.90140],"cc":"BE","continent":"EU"},
+		"dist":{"km":463,"type":"gc"},
+		"emissions":{"kg":5308}
+	},{
+		"id":"EXS1225",
+		"time":"2020-03-09T11:00:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Madeira Int'l (Funchal)","ICAO":"LPMA","IATA":"FNC","geo":[-16.77450,32.69790],"cc":"PT","continent":"EU"},
+		"dist":{"km":2509,"type":"gc"},
+		"emissions":{"kg":27445}
+	},{
+		"id":"THY1968",
+		"time":"2020-03-09T11:10:00+0000",
+		"airline":"Turkish Airlines",
+		"aircraft":{"code":"B739","name":"BOEING 737-900"},
+		"to":{"n":"Istanbul Airport","ICAO":"LTFM","IATA":"IST","geo":[28.75194,41.27528],"cc":"TR","continent":"AS"},
+		"dist":{"km":2606,"type":"gc"},
+		"emissions":{"kg":30335}
+	},{
+		"id":"EIN3265",
+		"time":"2020-03-09T11:55:00+0000",
+		"airline":"Aer Lingus",
+		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":321,"type":"gc"},
+		"emissions":{"kg":2133}
+	},{
+		"id":"STK3265",
+		"time":"2020-03-09T11:55:00+0000",
+		"airline":"Stobart Air",
+		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":321,"type":"gc"},
+		"emissions":{"kg":2133}
+	},{
+		"id":"EZY194",
+		"time":"2020-03-09T12:00:00+0000",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
+		"dist":{"km":383,"type":"gc"},
+		"emissions":{"kg":7355}
+	},{
+		"id":"RYR665",
+		"time":"2020-03-09T12:05:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":321,"type":"gc"},
+		"emissions":{"kg":6923}
+	},{
+		"id":"EIN3707",
+		"time":"2020-03-09T12:40:00+0000",
+		"airline":"Aer Lingus",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Cork Int'l","ICAO":"EICK","IATA":"ORK","geo":[-8.49111,51.84130],"cc":"IE","continent":"EU"},
+		"dist":{"km":465,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"STK3707",
+		"time":"2020-03-09T12:40:00+0000",
+		"airline":"Stobart Air",
+		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
+		"to":{"n":"Cork Int'l","ICAO":"EICK","IATA":"ORK","geo":[-8.49111,51.84130],"cc":"IE","continent":"EU"},
+		"dist":{"km":465,"type":"gc"},
+		"emissions":{"kg":2708}
+	},{
+		"id":"EZY1492",
+		"time":"2020-03-09T12:45:00+0000",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Geneva Cointrin Int'l","ICAO":"LSGG","IATA":"GVA","geo":[6.10895,46.23810],"cc":"CH","continent":"EU"},
+		"dist":{"km":895,"type":"gc"},
+		"emissions":{"kg":12126}
+	},{
+		"id":"RYR2550",
+		"time":"2020-03-09T13:00:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":321,"type":"gc"},
+		"emissions":{"kg":6923}
 	}]
 }
