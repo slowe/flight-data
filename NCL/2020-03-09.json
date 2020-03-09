@@ -352,5 +352,13 @@
 		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
 		"dist":{"km":2055,"type":"gc"},
 		"emissions":{"kg":23186}
+	},{
+		"id":"RYR175",
+		"time":"2020-03-09T22:30:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":347,"type":"gc"},
+		"emissions":{"kg":7168}
 	}]
 }
