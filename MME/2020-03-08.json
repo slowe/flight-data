@@ -1,28 +1,28 @@
 {
-	"from": {"n":"","ICAO":"RJX7","IATA":"","geo":[0.00000,0.00000],"cc":"","continent":""},
+	"from": {"n":"Durham Tees Valley Airport","ICAO":"EGNV","IATA":"MME","geo":[-1.42941,54.50920],"cc":"GB","continent":"EU"},
 	"flights":[{
 		"id":"N288Z",
 		"time":"2020-03-08T11:50:00+0000",
 		"airline":"",
 		"aircraft":{"code":"GLF6","name":""},
 		"to":{"n":"North Eleuthera","ICAO":"MYEH","IATA":"ELH","geo":[-76.68350,25.47490],"cc":"BS","continent":"NA"},
-		"dist":{"km":8682,"type":"gc"},
-		"emissions":{"kg":47996}
+		"dist":{"km":6799,"type":"gc"},
+		"emissions":{"kg":38229}
 	},{
 		"id":"EZE7638",
 		"time":"2020-03-08T16:55:00+0000",
 		"airline":"Eastern Airways",
 		"aircraft":{"code":"JS41","name":""},
 		"to":{"n":"Aberdeen","ICAO":"EGPD","IATA":"ABZ","geo":[-2.19778,57.20190],"cc":"GB","continent":"EU"},
-		"dist":{"km":6370,"type":"gc"},
-		"emissions":{"kg":18809}
+		"dist":{"km":303,"type":"gc"},
+		"emissions":{"kg":1399}
 	},{
 		"id":"KLM1538",
 		"time":"2020-03-08T17:15:00+0000",
 		"airline":"KLM",
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
-		"dist":{"km":5839,"type":"gc"},
-		"emissions":{"kg":68779}
+		"dist":{"km":478,"type":"gc"},
+		"emissions":{"kg":9389}
 	}]
 }
