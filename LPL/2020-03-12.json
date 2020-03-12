@@ -95,7 +95,7 @@
 		"aircraft":{"code":"C510","name":""},
 		"to":{"n":"Paris Le Bourget","ICAO":"LFPB","IATA":"LBG","geo":[2.44139,48.96940],"cc":"FR","continent":"EU"},
 		"dist":{"km":609,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":10849}
 	},{
 		"id":"RYR443",
 		"time":"2020-03-12T08:25:00+0000",
