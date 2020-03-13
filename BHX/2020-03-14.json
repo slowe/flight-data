@@ -1,0 +1,28 @@
+{
+	"from": {"n":"Birmingham International Airport","ICAO":"EGBB","IATA":"BHX","geo":[-1.74803,52.45390],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"DLH959",
+		"time":"2020-03-14T06:05:00+0000",
+		"airline":"Lufthansa",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
+		"dist":{"km":767,"type":"gc"},
+		"emissions":{"kg":10929}
+	},{
+		"id":"KLM1420",
+		"time":"2020-03-14T06:15:00+0000",
+		"airline":"KLM",
+		"aircraft":{"code":"B739","name":"BOEING 737-900"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":442,"type":"gc"},
+		"emissions":{"kg":8275}
+	},{
+		"id":"BCY2050",
+		"time":"2020-03-14T06:20:00+0000",
+		"airline":"CityJet",
+		"aircraft":{"code":"CRJ9","name":""},
+		"to":{"n":"Brussels","ICAO":"EBBR","IATA":"BRU","geo":[4.48444,50.90140],"cc":"BE","continent":"EU"},
+		"dist":{"km":463,"type":"gc"},
+		"emissions":{"kg":5308}
+	}]
+}
