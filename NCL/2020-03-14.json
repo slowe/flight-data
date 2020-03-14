@@ -183,7 +183,7 @@
 		"aircraft":{"code":"32Q","name":""},
 		"to":{"n":"London Heathrow","ICAO":"EGLL","IATA":"LHR","geo":[-0.46194,51.47060],"cc":"GB","continent":"EU"},
 		"dist":{"km":405,"type":"gc"},
-		"emissions":{"kg":8582}
+		"emissions":{"kg":0}
 	},{
 		"id":"UAE36",
 		"time":"2020-03-14T13:00:00+0000",
@@ -239,6 +239,22 @@
 		"aircraft":{"code":"32Q","name":""},
 		"to":{"n":"London Heathrow","ICAO":"EGLL","IATA":"LHR","geo":[-0.46194,51.47060],"cc":"GB","continent":"EU"},
 		"dist":{"km":405,"type":"gc"},
-		"emissions":{"kg":8582}
+		"emissions":{"kg":0}
+	},{
+		"id":"KLM964",
+		"time":"2020-03-14T17:30:00+0000",
+		"airline":"KLM",
+		"aircraft":{"code":"E75L","name":""},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":522,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"EZY6467",
+		"time":"2020-03-14T18:00:00+0000",
+		"airline":"easyJet",
+		"aircraft":{"code":"A319","name":"AIRBUS A319"},
+		"to":{"n":"Geneva Cointrin Int'l","ICAO":"LSGG","IATA":"GVA","geo":[6.10895,46.23810],"cc":"CH","continent":"EU"},
+		"dist":{"km":1122,"type":"gc"},
+		"emissions":{"kg":13476}
 	}]
 }
