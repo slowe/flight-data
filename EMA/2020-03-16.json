@@ -1,0 +1,156 @@
+{
+	"from": {"n":"East Midlands Airport","ICAO":"EGNX","IATA":"EMA","geo":[-1.32806,52.83110],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"EXS641",
+		"time":"2020-03-16T05:55:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Alicante","ICAO":"LEAL","IATA":"ALC","geo":[-0.55816,38.28220],"cc":"ES","continent":"EU"},
+		"dist":{"km":1620,"type":"gc"},
+		"emissions":{"kg":19109}
+	},{
+		"id":"RYR1664",
+		"time":"2020-03-16T06:20:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Riga Int'l","ICAO":"EVRA","IATA":"RIX","geo":[23.97110,56.92360],"cc":"LV","continent":"EU"},
+		"dist":{"km":1672,"type":"gc"},
+		"emissions":{"kg":19593}
+	},{
+		"id":"RYR4458",
+		"time":"2020-03-16T06:25:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
+		"dist":{"km":1815,"type":"gc"},
+		"emissions":{"kg":20936}
+	},{
+		"id":"EXS601",
+		"time":"2020-03-16T07:45:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Palma de Mallorca (or Son Sant Joan)","ICAO":"LEPA","IATA":"PMI","geo":[2.73881,39.55170],"cc":"ES","continent":"EU"},
+		"dist":{"km":1510,"type":"gc"},
+		"emissions":{"kg":18075}
+	},{
+		"id":"EXS4091",
+		"time":"2020-03-16T07:55:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Keflavik Int'l","ICAO":"BIKF","IATA":"KEF","geo":[-22.60560,63.98500],"cc":"IS","continent":"EU"},
+		"dist":{"km":1739,"type":"gc"},
+		"emissions":{"kg":20222}
+	},{
+		"id":"LOG232",
+		"time":"2020-03-16T08:30:00+0000",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
+		"dist":{"km":393,"type":"gc"},
+		"emissions":{"kg":3576}
+	},{
+		"id":"LOG362",
+		"time":"2020-03-16T08:30:00+0000",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
+		"dist":{"km":371,"type":"gc"},
+		"emissions":{"kg":3480}
+	},{
+		"id":"EXS633",
+		"time":"2020-03-16T09:05:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Tenerife South (Reina Sofia)","ICAO":"GCTS","IATA":"TFS","geo":[-16.57250,28.04450],"cc":"ES","continent":"EU"},
+		"dist":{"km":3032,"type":"gc"},
+		"emissions":{"kg":32351}
+	},{
+		"id":"EXS623",
+		"time":"2020-03-16T10:25:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Madeira Int'l (Funchal)","ICAO":"LPMA","IATA":"FNC","geo":[-16.77450,32.69790],"cc":"PT","continent":"EU"},
+		"dist":{"km":2559,"type":"gc"},
+		"emissions":{"kg":27921}
+	},{
+		"id":"EXS605",
+		"time":"2020-03-16T11:00:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
+		"dist":{"km":1815,"type":"gc"},
+		"emissions":{"kg":20936}
+	},{
+		"id":"RYR1742",
+		"time":"2020-03-16T11:50:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Knock Int'l","ICAO":"EIKN","IATA":"NOC","geo":[-8.81849,53.91030],"cc":"IE","continent":"EU"},
+		"dist":{"km":511,"type":"gc"},
+		"emissions":{"kg":8703}
+	},{
+		"id":"RYR1638",
+		"time":"2020-03-16T11:55:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Berlin","ICAO":"EDDB","IATA":"SXF","geo":[13.52250,52.38000],"cc":"DE","continent":"EU"},
+		"dist":{"km":1003,"type":"gc"},
+		"emissions":{"kg":13318}
+	},{
+		"id":"EXS613",
+		"time":"2020-03-16T13:35:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"El Matorral","ICAO":"GCFV","IATA":"FUE","geo":[-13.86380,28.45270],"cc":"ES","continent":"EU"},
+		"dist":{"km":2903,"type":"gc"},
+		"emissions":{"kg":31142}
+	},{
+		"id":"RYR3152",
+		"time":"2020-03-16T13:35:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Tenerife South (Reina Sofia)","ICAO":"GCTS","IATA":"TFS","geo":[-16.57250,28.04450],"cc":"ES","continent":"EU"},
+		"dist":{"km":3032,"type":"gc"},
+		"emissions":{"kg":32351}
+	},{
+		"id":"AUR695",
+		"time":"2020-03-16T13:40:00+0000",
+		"airline":"Aurigny Air Services",
+		"aircraft":{"code":"AT43","name":""},
+		"to":{"n":"Guernsey","ICAO":"EGJB","IATA":"GCI","geo":[-2.60197,49.43500],"cc":"GG","continent":"EU"},
+		"dist":{"km":388,"type":"gc"},
+		"emissions":{"kg":1989}
+	},{
+		"id":"RYR2411",
+		"time":"2020-03-16T14:10:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Malta Int'l (Luqa)","ICAO":"LMML","IATA":"MLA","geo":[14.47750,35.85750],"cc":"MT","continent":"EU"},
+		"dist":{"km":2259,"type":"gc"},
+		"emissions":{"kg":25098}
+	},{
+		"id":"EXS667",
+		"time":"2020-03-16T15:00:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Václav Havel Airport","ICAO":"LKPR","IATA":"PRG","geo":[14.26000,50.10080],"cc":"CZ","continent":"EU"},
+		"dist":{"km":1120,"type":"gc"},
+		"emissions":{"kg":14415}
+	},{
+		"id":"EXS607",
+		"time":"2020-03-16T15:30:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Budapest Ferenc Liszt International Airport","ICAO":"LHBP","IATA":"BUD","geo":[19.26109,47.42976],"cc":"HU","continent":"EU"},
+		"dist":{"km":1580,"type":"gc"},
+		"emissions":{"kg":18732}
+	},{
+		"id":"RYR221",
+		"time":"2020-03-16T15:30:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Budapest Ferenc Liszt International Airport","ICAO":"LHBP","IATA":"BUD","geo":[19.26109,47.42976],"cc":"HU","continent":"EU"},
+		"dist":{"km":1580,"type":"gc"},
+		"emissions":{"kg":18732}
+	}]
+}
