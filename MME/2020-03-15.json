@@ -6,23 +6,23 @@
 		"airline":"Eastern Airways",
 		"aircraft":{"code":"E145","name":""},
 		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
-		"dist":{"km":5975,"type":"gc"},
-		"emissions":{"kg":27666}
+		"dist":{"km":339,"type":"gc"},
+		"emissions":{"kg":3340}
 	},{
 		"id":"KLM1538",
 		"time":"2020-03-15T17:15:00+0000",
 		"airline":"KLM",
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
-		"dist":{"km":5839,"type":"gc"},
-		"emissions":{"kg":0}
+		"dist":{"km":478,"type":"gc"},
+		"emissions":{"kg":9389}
 	},{
 		"id":"EZE7744",
 		"time":"2020-03-15T17:35:00+0000",
 		"airline":"Eastern Airways",
 		"aircraft":{"code":"E145","name":""},
 		"to":{"n":"George Best Belfast City","ICAO":"EGAC","IATA":"BHD","geo":[-5.87250,54.61810],"cc":"GB","continent":"EU"},
-		"dist":{"km":6103,"type":"gc"},
-		"emissions":{"kg":28222}
+		"dist":{"km":286,"type":"gc"},
+		"emissions":{"kg":3114}
 	}]
 }
