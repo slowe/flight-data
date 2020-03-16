@@ -207,7 +207,7 @@
 		"aircraft":{"code":"32N","name":""},
 		"to":{"n":"Copenhagen","ICAO":"EKCH","IATA":"CPH","geo":[12.65600,55.61790],"cc":"DK","continent":"EU"},
 		"dist":{"km":1003,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":15203}
 	},{
 		"id":"DLH2509",
 		"time":"2020-03-16T10:15:00+0000",
