@@ -271,7 +271,7 @@
 		"aircraft":{"code":"32N","name":""},
 		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
 		"dist":{"km":767,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":12588}
 	},{
 		"id":"KLM1426",
 		"time":"2020-03-17T13:20:00+0000",
@@ -431,7 +431,7 @@
 		"aircraft":{"code":"223","name":""},
 		"to":{"n":"Zurich (Kloten)","ICAO":"LSZH","IATA":"ZRH","geo":[8.54917,47.46470],"cc":"CH","continent":"EU"},
 		"dist":{"km":921,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":14302}
 	},{
 		"id":"AIC118",
 		"time":"2020-03-17T19:00:00+0000",
