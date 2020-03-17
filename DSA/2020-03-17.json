@@ -1,0 +1,52 @@
+{
+	"from": {"n":"Robin Hood Doncaster Sheffield Airport","ICAO":"EGCN","IATA":"DSA","geo":[-1.01066,53.48054],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"TOM3260",
+		"time":"2020-03-17T05:50:00+0000",
+		"airline":"Thomson Airways",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Alicante","ICAO":"LEAL","IATA":"ALC","geo":[-0.55816,38.28220],"cc":"ES","continent":"EU"},
+		"dist":{"km":4261,"type":"gc"},
+		"emissions":{"kg":43889}
+	},{
+		"id":"WZZ1916",
+		"time":"2020-03-17T14:45:00+0000",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Poznań-Ławica","ICAO":"EPPO","IATA":"POZ","geo":[16.82630,52.42100],"cc":"PL","continent":"EU"},
+		"dist":{"km":6043,"type":"gc"},
+		"emissions":{"kg":60144}
+	},{
+		"id":"WZZ1016",
+		"time":"2020-03-17T19:55:00+0000",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Int'l Katowice in Pyrzowice","ICAO":"EPKT","IATA":"KTW","geo":[19.08000,50.47430],"cc":"PL","continent":"EU"},
+		"dist":{"km":5902,"type":"gc"},
+		"emissions":{"kg":58835}
+	},{
+		"id":"WZZ2510",
+		"time":"2020-03-17T19:55:00+0000",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Riga Int'l","ICAO":"EVRA","IATA":"RIX","geo":[23.97110,56.92360],"cc":"LV","continent":"EU"},
+		"dist":{"km":6688,"type":"gc"},
+		"emissions":{"kg":66168}
+	},{
+		"id":"WZZ2216",
+		"time":"2020-03-17T20:25:00+0000",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"32Q","name":""},
+		"to":{"n":"Budapest Ferenc Liszt International Airport","ICAO":"LHBP","IATA":"BUD","geo":[19.26109,47.42976],"cc":"HU","continent":"EU"},
+		"dist":{"km":5600,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"WZZ3314",
+		"time":"2020-03-17T22:05:00+0000",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Cluj-Napoca Int'l (Someşeni)","ICAO":"LRCL","IATA":"CLJ","geo":[23.68620,46.78520],"cc":"RO","continent":"EU"},
+		"dist":{"km":5695,"type":"gc"},
+		"emissions":{"kg":56905}
+	}]
+}
