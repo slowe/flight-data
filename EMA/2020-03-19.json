@@ -1,0 +1,44 @@
+{
+	"from": {"n":"East Midlands Airport","ICAO":"EGNX","IATA":"EMA","geo":[-1.32806,52.83110],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"RYR1766",
+		"time":"2020-03-19T06:25:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Faro","ICAO":"LPFR","IATA":"FAO","geo":[-7.96591,37.01440],"cc":"PT","continent":"EU"},
+		"dist":{"km":1834,"type":"gc"},
+		"emissions":{"kg":21118}
+	},{
+		"id":"RYR535",
+		"time":"2020-03-19T06:30:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":336,"type":"gc"},
+		"emissions":{"kg":7061}
+	},{
+		"id":"EXS631",
+		"time":"2020-03-19T07:45:00+0000",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Arrecife (Lanzarote)","ICAO":"GCRR","IATA":"ACE","geo":[-13.60520,28.94550],"cc":"ES","continent":"EU"},
+		"dist":{"km":2843,"type":"gc"},
+		"emissions":{"kg":30580}
+	},{
+		"id":"LOG232",
+		"time":"2020-03-19T08:30:00+0000",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
+		"dist":{"km":393,"type":"gc"},
+		"emissions":{"kg":3576}
+	},{
+		"id":"LOG362",
+		"time":"2020-03-19T08:30:00+0000",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
+		"dist":{"km":371,"type":"gc"},
+		"emissions":{"kg":3480}
+	}]
+}
