@@ -6,79 +6,79 @@
 		"airline":"KLM",
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
-		"dist":{"km":5839,"type":"gc"},
-		"emissions":{"kg":0}
+		"dist":{"km":478,"type":"gc"},
+		"emissions":{"kg":9389}
 	},{
 		"id":"EZE7630",
 		"time":"2020-03-18T06:35:00+0000",
 		"airline":"Eastern Airways",
 		"aircraft":{"code":"JS41","name":""},
 		"to":{"n":"Aberdeen","ICAO":"EGPD","IATA":"ABZ","geo":[-2.19778,57.20190],"cc":"GB","continent":"EU"},
-		"dist":{"km":6370,"type":"gc"},
-		"emissions":{"kg":18809}
+		"dist":{"km":303,"type":"gc"},
+		"emissions":{"kg":1399}
 	},{
 		"id":"EZE7720",
 		"time":"2020-03-18T06:50:00+0000",
 		"airline":"Eastern Airways",
 		"aircraft":{"code":"E145","name":""},
 		"to":{"n":"Southampton","ICAO":"EGHI","IATA":"SOU","geo":[-1.35680,50.95030],"cc":"GB","continent":"EU"},
-		"dist":{"km":5673,"type":"gc"},
-		"emissions":{"kg":26363}
+		"dist":{"km":396,"type":"gc"},
+		"emissions":{"kg":3586}
 	},{
 		"id":"EZE7744",
 		"time":"2020-03-18T10:40:00+0000",
 		"airline":"Eastern Airways",
 		"aircraft":{"code":"E145","name":""},
 		"to":{"n":"George Best Belfast City","ICAO":"EGAC","IATA":"BHD","geo":[-5.87250,54.61810],"cc":"GB","continent":"EU"},
-		"dist":{"km":6103,"type":"gc"},
-		"emissions":{"kg":28222}
+		"dist":{"km":286,"type":"gc"},
+		"emissions":{"kg":3114}
 	},{
 		"id":"KLM1534",
 		"time":"2020-03-18T10:40:00+0000",
 		"airline":"KLM",
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
-		"dist":{"km":5839,"type":"gc"},
-		"emissions":{"kg":0}
+		"dist":{"km":478,"type":"gc"},
+		"emissions":{"kg":9389}
 	},{
 		"id":"EZE7632",
 		"time":"2020-03-18T12:05:00+0000",
 		"airline":"Eastern Airways",
 		"aircraft":{"code":"JS41","name":""},
 		"to":{"n":"Aberdeen","ICAO":"EGPD","IATA":"ABZ","geo":[-2.19778,57.20190],"cc":"GB","continent":"EU"},
-		"dist":{"km":6370,"type":"gc"},
-		"emissions":{"kg":18809}
+		"dist":{"km":303,"type":"gc"},
+		"emissions":{"kg":1399}
 	},{
 		"id":"EZE7631",
 		"time":"2020-03-18T13:15:00+0000",
 		"airline":"Eastern Airways",
 		"aircraft":{"code":"JS41","name":""},
 		"to":{"n":"Cardiff Int'l","ICAO":"EGFF","IATA":"CWL","geo":[-3.34333,51.39670],"cc":"GB","continent":"EU"},
-		"dist":{"km":5730,"type":"gc"},
-		"emissions":{"kg":16970}
+		"dist":{"km":369,"type":"gc"},
+		"emissions":{"kg":1588}
 	},{
 		"id":"EZE7764",
 		"time":"2020-03-18T14:10:00+0000",
 		"airline":"Eastern Airways",
 		"aircraft":{"code":"E145","name":""},
 		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
-		"dist":{"km":5975,"type":"gc"},
-		"emissions":{"kg":27666}
+		"dist":{"km":339,"type":"gc"},
+		"emissions":{"kg":3340}
 	},{
 		"id":"EZE7636",
 		"time":"2020-03-18T17:05:00+0000",
 		"airline":"Eastern Airways",
 		"aircraft":{"code":"JS41","name":""},
 		"to":{"n":"Aberdeen","ICAO":"EGPD","IATA":"ABZ","geo":[-2.19778,57.20190],"cc":"GB","continent":"EU"},
-		"dist":{"km":6370,"type":"gc"},
-		"emissions":{"kg":18809}
+		"dist":{"km":303,"type":"gc"},
+		"emissions":{"kg":1399}
 	},{
 		"id":"EZE7726",
 		"time":"2020-03-18T17:35:00+0000",
 		"airline":"Eastern Airways",
 		"aircraft":{"code":"E145","name":""},
 		"to":{"n":"Southampton","ICAO":"EGHI","IATA":"SOU","geo":[-1.35680,50.95030],"cc":"GB","continent":"EU"},
-		"dist":{"km":5673,"type":"gc"},
-		"emissions":{"kg":26363}
+		"dist":{"km":396,"type":"gc"},
+		"emissions":{"kg":3586}
 	}]
 }
