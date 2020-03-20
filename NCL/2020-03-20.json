@@ -31,7 +31,7 @@
 		"aircraft":{"code":"32Q","name":""},
 		"to":{"n":"London Heathrow","ICAO":"EGLL","IATA":"LHR","geo":[-0.46194,51.47060],"cc":"GB","continent":"EU"},
 		"dist":{"km":405,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":8582}
 	},{
 		"id":"EXS537",
 		"time":"2020-03-20T07:00:00+0000",
