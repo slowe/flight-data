@@ -1,0 +1,84 @@
+{
+	"from": {"n":"London City Airport","ICAO":"EGLC","IATA":"LCY","geo":[0.05528,51.50530],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"KLM982",
+		"time":"2020-03-23T07:45:00+0000",
+		"airline":"KLM",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":335,"type":"gc"},
+		"emissions":{"kg":5483}
+	},{
+		"id":"SWR451",
+		"time":"2020-03-23T08:30:00+0000",
+		"airline":"Swiss International Air Lines",
+		"aircraft":{"code":"BCS1","name":""},
+		"to":{"n":"Zurich (Kloten)","ICAO":"LSZH","IATA":"ZRH","geo":[8.54917,47.46470],"cc":"CH","continent":"EU"},
+		"dist":{"km":760,"type":"gc"},
+		"emissions":{"kg":10164}
+	},{
+		"id":"EIN281",
+		"time":"2020-03-23T08:45:00+0000",
+		"airline":"Aer Lingus",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":478,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"BAW8461",
+		"time":"2020-03-23T09:25:00+0000",
+		"airline":"British Airways",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Ibiza","ICAO":"LEIB","IATA":"IBZ","geo":[1.37312,38.87290],"cc":"ES","continent":"EU"},
+		"dist":{"km":1409,"type":"gc"},
+		"emissions":{"kg":13626}
+	},{
+		"id":"BCY283",
+		"time":"2020-03-23T09:35:00+0000",
+		"airline":"CityJet",
+		"aircraft":{"code":"RJ85","name":"AVROLINER RJ85"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":478,"type":"gc"},
+		"emissions":{"kg":7635}
+	},{
+		"id":"LOT8656",
+		"time":"2020-03-23T09:35:00+0000",
+		"airline":"LOT Polish Airlines",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Warsaw Frederic Chopin","ICAO":"EPWA","IATA":"WAW","geo":[20.96710,52.16570],"cc":"PL","continent":"EU"},
+		"dist":{"km":1435,"type":"gc"},
+		"emissions":{"kg":13818}
+	},{
+		"id":"BAW1",
+		"time":"2020-03-23T09:40:00+0000",
+		"airline":"British Airways",
+		"aircraft":{"code":"A318","name":""},
+		"to":{"n":"Shannon","ICAO":"EINN","IATA":"SNN","geo":[-8.92482,52.70200],"cc":"IE","continent":"EU"},
+		"dist":{"km":627,"type":"gc"},
+		"emissions":{"kg":9122}
+	},{
+		"id":"EIN283",
+		"time":"2020-03-23T09:45:00+0000",
+		"airline":"Aer Lingus",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":478,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"LOT8658",
+		"time":"2020-03-23T10:05:00+0000",
+		"airline":"LOT Polish Airlines",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Warsaw Frederic Chopin","ICAO":"EPWA","IATA":"WAW","geo":[20.96710,52.16570],"cc":"PL","continent":"EU"},
+		"dist":{"km":1435,"type":"gc"},
+		"emissions":{"kg":13818}
+	},{
+		"id":"BAW8483",
+		"time":"2020-03-23T11:25:00+0000",
+		"airline":"British Airways",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Palma de Mallorca (or Son Sant Joan)","ICAO":"LEPA","IATA":"PMI","geo":[2.73881,39.55170],"cc":"ES","continent":"EU"},
+		"dist":{"km":1346,"type":"gc"},
+		"emissions":{"kg":13147}
+	}]
+}
