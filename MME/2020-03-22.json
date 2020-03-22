@@ -1,0 +1,20 @@
+{
+	"from": {"n":"Durham Tees Valley Airport","ICAO":"EGNV","IATA":"MME","geo":[-1.42941,54.50920],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"EZE7764",
+		"time":"2020-03-22T14:10:00+0000",
+		"airline":"Eastern Airways",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":5975,"type":"gc"},
+		"emissions":{"kg":27666}
+	},{
+		"id":"EZE7744",
+		"time":"2020-03-22T17:35:00+0000",
+		"airline":"Eastern Airways",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"George Best Belfast City","ICAO":"EGAC","IATA":"BHD","geo":[-5.87250,54.61810],"cc":"GB","continent":"EU"},
+		"dist":{"km":6103,"type":"gc"},
+		"emissions":{"kg":28222}
+	}]
+}
