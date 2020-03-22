@@ -6,7 +6,7 @@
 		"airline":"Eastern Airways",
 		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
 		"to":{"n":"Newcastle","ICAO":"EGNT","IATA":"NCL","geo":[-1.69167,55.03750],"cc":"GB","continent":"EU"},
-		"dist":{"km":6128,"type":"gc"},
-		"emissions":{"kg":25383}
+		"dist":{"km":184,"type":"gc"},
+		"emissions":{"kg":1584}
 	}]
 }
