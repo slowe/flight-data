@@ -104,5 +104,13 @@
 		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
 		"dist":{"km":371,"type":"gc"},
 		"emissions":{"kg":3480}
+	},{
+		"id":"RYR537",
+		"time":"2020-03-23T21:00:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":336,"type":"gc"},
+		"emissions":{"kg":7061}
 	}]
 }
