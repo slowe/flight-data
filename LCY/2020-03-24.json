@@ -17,6 +17,14 @@
 		"dist":{"km":478,"type":"gc"},
 		"emissions":{"kg":0}
 	},{
+		"id":"BCY283",
+		"time":"2020-03-24T09:35:00+0000",
+		"airline":"CityJet",
+		"aircraft":{"code":"RJ85","name":"AVROLINER RJ85"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":478,"type":"gc"},
+		"emissions":{"kg":7635}
+	},{
 		"id":"BAW1",
 		"time":"2020-03-24T09:40:00+0000",
 		"airline":"British Airways",
@@ -32,5 +40,53 @@
 		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
 		"dist":{"km":478,"type":"gc"},
 		"emissions":{"kg":7635}
+	},{
+		"id":"EIN285",
+		"time":"2020-03-24T13:10:00+0000",
+		"airline":"Aer Lingus",
+		"aircraft":{"code":"RJ85","name":"AVROLINER RJ85"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":478,"type":"gc"},
+		"emissions":{"kg":7635}
+	},{
+		"id":"EIN287",
+		"time":"2020-03-24T15:30:00+0000",
+		"airline":"Aer Lingus",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":478,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"EIN289",
+		"time":"2020-03-24T17:30:00+0000",
+		"airline":"Aer Lingus",
+		"aircraft":{"code":"RJ85","name":"AVROLINER RJ85"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":478,"type":"gc"},
+		"emissions":{"kg":7635}
+	},{
+		"id":"KLM992",
+		"time":"2020-03-24T18:55:00+0000",
+		"airline":"KLM",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":335,"type":"gc"},
+		"emissions":{"kg":5483}
+	},{
+		"id":"EIN291",
+		"time":"2020-03-24T20:00:00+0000",
+		"airline":"Aer Lingus",
+		"aircraft":{"code":"RJ85","name":"AVROLINER RJ85"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":478,"type":"gc"},
+		"emissions":{"kg":7635}
+	},{
+		"id":"KLM980",
+		"time":"2020-03-24T20:45:00+0000",
+		"airline":"KLM",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":335,"type":"gc"},
+		"emissions":{"kg":5483}
 	}]
 }
