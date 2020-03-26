@@ -55,7 +55,7 @@
 		"aircraft":{"code":"32Q","name":""},
 		"to":{"n":"London Heathrow","ICAO":"EGLL","IATA":"LHR","geo":[-0.46194,51.47060],"cc":"GB","continent":"EU"},
 		"dist":{"km":405,"type":"gc"},
-		"emissions":{"kg":8582}
+		"emissions":{"kg":0}
 	},{
 		"id":"KLM958",
 		"time":"2020-03-26T09:25:00+0000",
@@ -96,5 +96,61 @@
 		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
 		"dist":{"km":730,"type":"gc"},
 		"emissions":{"kg":7124}
+	},{
+		"id":"EZY6407",
+		"time":"2020-03-26T14:10:00+0000",
+		"airline":"easyJet",
+		"aircraft":{"code":"A319","name":"AIRBUS A319"},
+		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
+		"dist":{"km":2055,"type":"gc"},
+		"emissions":{"kg":21734}
+	},{
+		"id":"EZY567",
+		"time":"2020-03-26T15:40:00+0000",
+		"airline":"easyJet",
+		"aircraft":{"code":"A319","name":"AIRBUS A319"},
+		"to":{"n":"Bristol Int'l","ICAO":"EGGD","IATA":"BRS","geo":[-2.71909,51.38270],"cc":"GB","continent":"EU"},
+		"dist":{"km":412,"type":"gc"},
+		"emissions":{"kg":7197}
+	},{
+		"id":"EZY551",
+		"time":"2020-03-26T16:10:00+0000",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
+		"dist":{"km":292,"type":"gc"},
+		"emissions":{"kg":6507}
+	},{
+		"id":"BAW1335",
+		"time":"2020-03-26T16:55:00+0000",
+		"airline":"British Airways",
+		"aircraft":{"code":"32N","name":""},
+		"to":{"n":"London Heathrow","ICAO":"EGLL","IATA":"LHR","geo":[-0.46194,51.47060],"cc":"GB","continent":"EU"},
+		"dist":{"km":405,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"HOP1159",
+		"time":"2020-03-26T16:55:00+0000",
+		"airline":"HOP!",
+		"aircraft":{"code":"E170","name":"EMB ERJ170 (170-100)"},
+		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
+		"dist":{"km":730,"type":"gc"},
+		"emissions":{"kg":7124}
+	},{
+		"id":"EIN3351",
+		"time":"2020-03-26T17:00:00+0000",
+		"airline":"Aer Lingus",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":347,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"STK3351",
+		"time":"2020-03-26T17:00:00+0000",
+		"airline":"Stobart Air",
+		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":347,"type":"gc"},
+		"emissions":{"kg":2237}
 	}]
 }
