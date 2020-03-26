@@ -1,0 +1,60 @@
+{
+	"from": {"n":"Birmingham International Airport","ICAO":"EGBB","IATA":"BHX","geo":[-1.74803,52.45390],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"DLH959",
+		"time":"2020-03-27T06:05:00+0000",
+		"airline":"Lufthansa",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
+		"dist":{"km":767,"type":"gc"},
+		"emissions":{"kg":10929}
+	},{
+		"id":"EIN263",
+		"time":"2020-03-27T08:00:00+0000",
+		"airline":"Aer Lingus",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":321,"type":"gc"},
+		"emissions":{"kg":6777}
+	},{
+		"id":"DLH953",
+		"time":"2020-03-27T08:40:00+0000",
+		"airline":"Lufthansa",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
+		"dist":{"km":767,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"LOG583",
+		"time":"2020-03-27T08:50:00+0000",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Inverness","ICAO":"EGPE","IATA":"INV","geo":[-4.04750,57.54250],"cc":"GB","continent":"EU"},
+		"dist":{"km":585,"type":"gc"},
+		"emissions":{"kg":4401}
+	},{
+		"id":"TOM458",
+		"time":"2020-03-27T09:10:00+0000",
+		"airline":"Thomson Airways",
+		"aircraft":{"code":"B789","name":"BOEING 787-900 DREAMLINER"},
+		"to":{"n":"Cancun Int'l","ICAO":"MMUN","IATA":"CUN","geo":[-86.87710,21.03650],"cc":"MX","continent":"NA"},
+		"dist":{"km":7854,"type":"gc"},
+		"emissions":{"kg":157203}
+	},{
+		"id":"KLM1422",
+		"time":"2020-03-27T09:20:00+0000",
+		"airline":"KLM",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":442,"type":"gc"},
+		"emissions":{"kg":8056}
+	},{
+		"id":"TOM704",
+		"time":"2020-03-27T09:25:00+0000",
+		"airline":"Thomson Airways",
+		"aircraft":{"code":"B752","name":"BOEING 757-200"},
+		"to":{"n":"Amilcar Cabral Int'l","ICAO":"GVAC","IATA":"SID","geo":[-22.94940,16.74140],"cc":"CV","continent":"AF"},
+		"dist":{"km":4388,"type":"gc"},
+		"emissions":{"kg":63553}
+	}]
+}
