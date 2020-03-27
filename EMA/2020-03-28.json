@@ -1,0 +1,28 @@
+{
+	"from": {"n":"East Midlands Airport","ICAO":"EGNX","IATA":"EMA","geo":[-1.32806,52.83110],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"UPS232",
+		"time":"2020-03-28T06:17:00+0000",
+		"airline":"UPS Airlines",
+		"aircraft":{"code":"B763","name":"BOEING 767-300ER/F"},
+		"to":{"n":"Philadelphia Intl","ICAO":"KPHL","IATA":"PHL","geo":[-75.24110,39.87190],"cc":"US","continent":"NA"},
+		"dist":{"km":5594,"type":"gc"},
+		"emissions":{"kg":107263}
+	},{
+		"id":"LOG362",
+		"time":"2020-03-28T08:30:00+0000",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
+		"dist":{"km":371,"type":"gc"},
+		"emissions":{"kg":3480}
+	},{
+		"id":"ETD912",
+		"time":"2020-03-28T15:20:00+0000",
+		"airline":"Etihad Airways",
+		"aircraft":{"code":"B772","name":"BOEING 777-200"},
+		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
+		"dist":{"km":753,"type":"gc"},
+		"emissions":{"kg":30115}
+	}]
+}
