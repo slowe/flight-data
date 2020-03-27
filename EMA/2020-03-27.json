@@ -6,7 +6,7 @@
 		"airline":"",
 		"aircraft":{"code":"E145","name":""},
 		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
-		"dist":{"km":6235,"type":"gc"},
-		"emissions":{"kg":28792}
+		"dist":{"km":371,"type":"gc"},
+		"emissions":{"kg":3480}
 	}]
 }
