@@ -160,5 +160,21 @@
 		"to":{"n":"Vienna Int'l (Schwechat)","ICAO":"LOWW","IATA":"VIE","geo":[16.56970,48.11030],"cc":"AT","continent":"EU"},
 		"dist":{"km":1480,"type":"gc"},
 		"emissions":{"kg":17589}
+	},{
+		"id":"WZZ3698",
+		"time":"2020-03-27T21:50:00+0000",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Iasi Int'l","ICAO":"LRIA","IATA":"IAS","geo":[27.62060,47.17850],"cc":"RO","continent":"EU"},
+		"dist":{"km":2254,"type":"gc"},
+		"emissions":{"kg":24804}
+	},{
+		"id":"WZZ1612",
+		"time":"2020-03-27T22:10:00+0000",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Gdansk Lech Walesa","ICAO":"EPGD","IATA":"GDN","geo":[18.46620,54.37760],"cc":"PL","continent":"EU"},
+		"dist":{"km":1398,"type":"gc"},
+		"emissions":{"kg":16824}
 	}]
 }
