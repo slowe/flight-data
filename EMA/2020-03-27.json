@@ -8,5 +8,29 @@
 		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
 		"dist":{"km":371,"type":"gc"},
 		"emissions":{"kg":3480}
+	},{
+		"id":"AUR695",
+		"time":"2020-03-27T14:40:00+0000",
+		"airline":"Aurigny Air Services",
+		"aircraft":{"code":"AT43","name":""},
+		"to":{"n":"Guernsey","ICAO":"EGJB","IATA":"GCI","geo":[-2.60197,49.43500],"cc":"GG","continent":"EU"},
+		"dist":{"km":388,"type":"gc"},
+		"emissions":{"kg":1989}
+	},{
+		"id":"LOG238",
+		"time":"2020-03-27T19:55:00+0000",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
+		"dist":{"km":393,"type":"gc"},
+		"emissions":{"kg":3576}
+	},{
+		"id":"LOG368",
+		"time":"2020-03-27T20:30:00+0000",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
+		"dist":{"km":371,"type":"gc"},
+		"emissions":{"kg":3480}
 	}]
 }
