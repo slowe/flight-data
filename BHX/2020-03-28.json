@@ -17,6 +17,14 @@
 		"dist":{"km":1517,"type":"gc"},
 		"emissions":{"kg":20896}
 	},{
+		"id":"RYR663",
+		"time":"2020-03-28T07:50:00+0000",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":321,"type":"gc"},
+		"emissions":{"kg":6923}
+	},{
 		"id":"EZY192",
 		"time":"2020-03-28T07:55:00+0000",
 		"airline":"easyJet",
@@ -40,5 +48,109 @@
 		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
 		"dist":{"km":767,"type":"gc"},
 		"emissions":{"kg":10929}
+	},{
+		"id":"LOG583",
+		"time":"2020-03-28T08:50:00+0000",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Inverness","ICAO":"EGPE","IATA":"INV","geo":[-4.04750,57.54250],"cc":"GB","continent":"EU"},
+		"dist":{"km":585,"type":"gc"},
+		"emissions":{"kg":4401}
+	},{
+		"id":"EZS1492",
+		"time":"2020-03-28T11:20:00+0000",
+		"airline":"easyJet Switzerland",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Geneva Cointrin Int'l","ICAO":"LSGG","IATA":"GVA","geo":[6.10895,46.23810],"cc":"CH","continent":"EU"},
+		"dist":{"km":895,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"BCI251",
+		"time":"2020-03-28T12:00:00+0000",
+		"airline":"Blue Islands",
+		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
+		"to":{"n":"Jersey","ICAO":"EGJJ","IATA":"JER","geo":[-2.19551,49.20790],"cc":"JE","continent":"EU"},
+		"dist":{"km":362,"type":"gc"},
+		"emissions":{"kg":2296}
+	},{
+		"id":"LOG64",
+		"time":"2020-03-28T12:55:00+0000",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Aberdeen","ICAO":"EGPD","IATA":"ABZ","geo":[-2.19778,57.20190],"cc":"GB","continent":"EU"},
+		"dist":{"km":529,"type":"gc"},
+		"emissions":{"kg":4161}
+	},{
+		"id":"DLH955",
+		"time":"2020-03-28T13:10:00+0000",
+		"airline":"Lufthansa",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
+		"dist":{"km":767,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"EIN267",
+		"time":"2020-03-28T13:25:00+0000",
+		"airline":"Aer Lingus",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":321,"type":"gc"},
+		"emissions":{"kg":6777}
+	},{
+		"id":"KLM1426",
+		"time":"2020-03-28T13:45:00+0000",
+		"airline":"KLM",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":442,"type":"gc"},
+		"emissions":{"kg":6295}
+	},{
+		"id":"EZY1494",
+		"time":"2020-03-28T15:40:00+0000",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Geneva Cointrin Int'l","ICAO":"LSGG","IATA":"GVA","geo":[6.10895,46.23810],"cc":"CH","continent":"EU"},
+		"dist":{"km":895,"type":"gc"},
+		"emissions":{"kg":12126}
+	},{
+		"id":"WZZ1908",
+		"time":"2020-03-28T16:30:00+0000",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Poznań-Ławica","ICAO":"EPPO","IATA":"POZ","geo":[16.82630,52.42100],"cc":"PL","continent":"EU"},
+		"dist":{"km":1257,"type":"gc"},
+		"emissions":{"kg":15500}
+	},{
+		"id":"PIA792",
+		"time":"2020-03-28T17:15:00+0000",
+		"airline":"Pakistan International Airlines (PIA)",
+		"aircraft":{"code":"B772","name":"BOEING 777-200"},
+		"to":{"n":"Islamabad International Airport","ICAO":"OPIS","IATA":"ISB","geo":[72.85161,33.56071],"cc":"PK","continent":"AS"},
+		"dist":{"km":6125,"type":"gc"},
+		"emissions":{"kg":159804}
+	},{
+		"id":"LDM137",
+		"time":"2020-03-28T19:30:00+0000",
+		"airline":"Lauda",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Vienna Int'l (Schwechat)","ICAO":"LOWW","IATA":"VIE","geo":[16.56970,48.11030],"cc":"AT","continent":"EU"},
+		"dist":{"km":1385,"type":"gc"},
+		"emissions":{"kg":16695}
+	},{
+		"id":"WZZ1322",
+		"time":"2020-03-28T20:05:00+0000",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A321","name":"AIRBUS A321"},
+		"to":{"n":"Warsaw Frederic Chopin","ICAO":"EPWA","IATA":"WAW","geo":[20.96710,52.16570],"cc":"PL","continent":"EU"},
+		"dist":{"km":1539,"type":"gc"},
+		"emissions":{"kg":21149}
+	},{
+		"id":"WZZ3020",
+		"time":"2020-03-28T22:00:00+0000",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A321","name":"AIRBUS A321"},
+		"to":{"n":"Bucharest Henri Coandă Int'l","ICAO":"LROP","IATA":"OTP","geo":[26.08500,44.57111],"cc":"RO","continent":"EU"},
+		"dist":{"km":2214,"type":"gc"},
+		"emissions":{"kg":28621}
 	}]
 }
