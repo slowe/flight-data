@@ -32,5 +32,53 @@
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":335,"type":"gc"},
 		"emissions":{"kg":5483}
+	},{
+		"id":"BAW8483",
+		"time":"2020-03-29T15:40:00+0100",
+		"airline":"British Airways",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Palma de Mallorca (or Son Sant Joan)","ICAO":"LEPA","IATA":"PMI","geo":[2.73881,39.55170],"cc":"ES","continent":"EU"},
+		"dist":{"km":1346,"type":"gc"},
+		"emissions":{"kg":13147}
+	},{
+		"id":"KLM992",
+		"time":"2020-03-29T17:50:00+0100",
+		"airline":"KLM",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":335,"type":"gc"},
+		"emissions":{"kg":5483}
+	},{
+		"id":"KLM994",
+		"time":"2020-03-29T19:05:00+0100",
+		"airline":"KLM",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":335,"type":"gc"},
+		"emissions":{"kg":5483}
+	},{
+		"id":"LOG626",
+		"time":"2020-03-29T19:20:00+0100",
+		"airline":"",
+		"aircraft":{"code":"AT43","name":""},
+		"to":{"n":"Dundee","ICAO":"EGPN","IATA":"DND","geo":[-3.02583,56.45250],"cc":"GB","continent":"EU"},
+		"dist":{"km":586,"type":"gc"},
+		"emissions":{"kg":2574}
+	},{
+		"id":"KLM998",
+		"time":"2020-03-29T20:10:00+0100",
+		"airline":"KLM",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":335,"type":"gc"},
+		"emissions":{"kg":5483}
+	},{
+		"id":"KLM970",
+		"time":"2020-03-29T20:45:00+0100",
+		"airline":"KLM",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":335,"type":"gc"},
+		"emissions":{"kg":5483}
 	}]
 }
