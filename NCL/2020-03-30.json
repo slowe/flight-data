@@ -1,0 +1,12 @@
+{
+	"from": {"n":"Newcastle Airport","ICAO":"EGNT","IATA":"NCL","geo":[-1.69167,55.03750],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"LOG533",
+		"time":"2020-03-30T06:50:00+0100",
+		"airline":"",
+		"aircraft":{"code":"E135","name":""},
+		"to":{"n":"Southampton","ICAO":"EGHI","IATA":"SOU","geo":[-1.35680,50.95030],"cc":"GB","continent":"EU"},
+		"dist":{"km":455,"type":"gc"},
+		"emissions":{"kg":3595}
+	}]
+}
