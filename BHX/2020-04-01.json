@@ -71,7 +71,7 @@
 		"aircraft":{"code":"EQV","name":""},
 		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
 		"dist":{"km":488,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":9499}
 	},{
 		"id":"EZY196",
 		"time":"2020-04-01T18:05:00+0100",
