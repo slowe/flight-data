@@ -39,7 +39,7 @@
 		"aircraft":{"code":"32N","name":""},
 		"to":{"n":"London Heathrow","ICAO":"EGLL","IATA":"LHR","geo":[-0.46194,51.47060],"cc":"GB","continent":"EU"},
 		"dist":{"km":405,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":8582}
 	},{
 		"id":"EZY6497",
 		"time":"2020-04-01T17:40:00+0100",
