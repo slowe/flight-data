@@ -2,7 +2,7 @@
 	"from": {"n":"London City Airport","ICAO":"EGLC","IATA":"LCY","geo":[0.05528,51.50530],"cc":"GB","continent":"EU"},
 	"flights":[{
 		"id":"KLM982",
-		"time":"2020-04-02T07:45:00+0100",
+		"time":"2020-04-03T07:45:00+0100",
 		"airline":"KLM",
 		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
@@ -10,7 +10,7 @@
 		"emissions":{"kg":5483}
 	},{
 		"id":"KLM984",
-		"time":"2020-04-02T08:40:00+0100",
+		"time":"2020-04-03T08:40:00+0100",
 		"airline":"KLM",
 		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
@@ -18,7 +18,7 @@
 		"emissions":{"kg":5483}
 	},{
 		"id":"KLM986",
-		"time":"2020-04-02T09:25:00+0100",
+		"time":"2020-04-03T09:25:00+0100",
 		"airline":"KLM",
 		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
@@ -26,7 +26,7 @@
 		"emissions":{"kg":5483}
 	},{
 		"id":"KLM988",
-		"time":"2020-04-02T10:00:00+0100",
+		"time":"2020-04-03T10:00:00+0100",
 		"airline":"KLM",
 		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
@@ -34,7 +34,7 @@
 		"emissions":{"kg":5483}
 	},{
 		"id":"KLM990",
-		"time":"2020-04-02T17:10:00+0100",
+		"time":"2020-04-03T17:10:00+0100",
 		"airline":"KLM",
 		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
@@ -42,31 +42,7 @@
 		"emissions":{"kg":5483}
 	},{
 		"id":"KLM992",
-		"time":"2020-04-02T17:50:00+0100",
-		"airline":"KLM",
-		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
-		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
-		"dist":{"km":335,"type":"gc"},
-		"emissions":{"kg":5483}
-	},{
-		"id":"KLM994",
-		"time":"2020-04-02T19:05:00+0100",
-		"airline":"KLM",
-		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
-		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
-		"dist":{"km":335,"type":"gc"},
-		"emissions":{"kg":5483}
-	},{
-		"id":"KLM998",
-		"time":"2020-04-02T20:10:00+0100",
-		"airline":"KLM",
-		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
-		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
-		"dist":{"km":335,"type":"gc"},
-		"emissions":{"kg":5483}
-	},{
-		"id":"KLM970",
-		"time":"2020-04-02T20:45:00+0100",
+		"time":"2020-04-03T17:50:00+0100",
 		"airline":"KLM",
 		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
