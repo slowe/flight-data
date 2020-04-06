@@ -55,7 +55,7 @@
 		"aircraft":{"code":"EQV","name":""},
 		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
 		"dist":{"km":488,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":9499}
 	},{
 		"id":"EZY1492",
 		"time":"2020-04-06T18:25:00+0100",
@@ -71,7 +71,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":442,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":8995}
 	},{
 		"id":"EZY514",
 		"time":"2020-04-06T20:30:00+0100",
