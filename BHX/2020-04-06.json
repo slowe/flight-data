@@ -40,5 +40,53 @@
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":442,"type":"gc"},
 		"emissions":{"kg":6295}
+	},{
+		"id":"BCI259",
+		"time":"2020-04-06T12:50:00+0100",
+		"airline":"Blue Islands",
+		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
+		"to":{"n":"Jersey","ICAO":"EGJJ","IATA":"JER","geo":[-2.19551,49.20790],"cc":"JE","continent":"EU"},
+		"dist":{"km":362,"type":"gc"},
+		"emissions":{"kg":2296}
+	},{
+		"id":"HOP1065",
+		"time":"2020-04-06T13:55:00+0100",
+		"airline":"HOP!",
+		"aircraft":{"code":"EQV","name":""},
+		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
+		"dist":{"km":488,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"EZY1492",
+		"time":"2020-04-06T18:25:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Geneva Cointrin Int'l","ICAO":"LSGG","IATA":"GVA","geo":[6.10895,46.23810],"cc":"CH","continent":"EU"},
+		"dist":{"km":895,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"KLM1434",
+		"time":"2020-04-06T19:45:00+0100",
+		"airline":"KLM",
+		"aircraft":{"code":"E75L","name":""},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":442,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"EZY514",
+		"time":"2020-04-06T20:30:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
+		"dist":{"km":418,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"EZY504",
+		"time":"2020-04-06T20:55:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
+		"dist":{"km":403,"type":"gc"},
+		"emissions":{"kg":0}
 	}]
 }
