@@ -1,0 +1,44 @@
+{
+	"from": {"n":"Robin Hood Doncaster Sheffield Airport","ICAO":"EGCN","IATA":"DSA","geo":[-1.01066,53.48054],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"WZZ5014",
+		"time":"2020-04-09T08:15:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A321","name":"AIRBUS A321"},
+		"to":{"n":"Krakow Int'l","ICAO":"EPKK","IATA":"KRK","geo":[19.78480,50.07770],"cc":"PL","continent":"EU"},
+		"dist":{"km":5883,"type":"gc"},
+		"emissions":{"kg":69261}
+	},{
+		"id":"WZZ1916",
+		"time":"2020-04-09T15:50:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Poznań-Ławica","ICAO":"EPPO","IATA":"POZ","geo":[16.82630,52.42100],"cc":"PL","continent":"EU"},
+		"dist":{"km":6043,"type":"gc"},
+		"emissions":{"kg":60144}
+	},{
+		"id":"WZZ2510",
+		"time":"2020-04-09T20:55:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Riga Int'l","ICAO":"EVRA","IATA":"RIX","geo":[23.97110,56.92360],"cc":"LV","continent":"EU"},
+		"dist":{"km":6688,"type":"gc"},
+		"emissions":{"kg":66168}
+	},{
+		"id":"WZZ1016",
+		"time":"2020-04-09T21:00:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Int'l Katowice in Pyrzowice","ICAO":"EPKT","IATA":"KTW","geo":[19.08000,50.47430],"cc":"PL","continent":"EU"},
+		"dist":{"km":5902,"type":"gc"},
+		"emissions":{"kg":58835}
+	},{
+		"id":"WZZ3314",
+		"time":"2020-04-09T21:50:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Cluj-Napoca Int'l (Someşeni)","ICAO":"LRCL","IATA":"CLJ","geo":[23.68620,46.78520],"cc":"RO","continent":"EU"},
+		"dist":{"km":5695,"type":"gc"},
+		"emissions":{"kg":56905}
+	}]
+}
