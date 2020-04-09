@@ -1,0 +1,60 @@
+{
+	"from": {"n":"Robin Hood Doncaster Sheffield Airport","ICAO":"EGCN","IATA":"DSA","geo":[-1.01066,53.48054],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"WZZ8010",
+		"time":"2020-04-10T07:55:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Vilnius Int'l","ICAO":"EYVI","IATA":"VNO","geo":[25.28580,54.63410],"cc":"LT","continent":"EU"},
+		"dist":{"km":6505,"type":"gc"},
+		"emissions":{"kg":64461}
+	},{
+		"id":"WZZ3508",
+		"time":"2020-04-10T14:30:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Timişoara Traian Vuia Int'l","ICAO":"LRTR","IATA":"TSR","geo":[21.33790,45.80990],"cc":"RO","continent":"EU"},
+		"dist":{"km":5511,"type":"gc"},
+		"emissions":{"kg":55189}
+	},{
+		"id":"WZZ1316",
+		"time":"2020-04-10T16:35:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A321","name":"AIRBUS A321"},
+		"to":{"n":"Warsaw Frederic Chopin","ICAO":"EPWA","IATA":"WAW","geo":[20.96710,52.16570],"cc":"PL","continent":"EU"},
+		"dist":{"km":6128,"type":"gc"},
+		"emissions":{"kg":71979}
+	},{
+		"id":"WZZ1616",
+		"time":"2020-04-10T20:55:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Gdansk Lech Walesa","ICAO":"EPGD","IATA":"GDN","geo":[18.46620,54.37760],"cc":"PL","continent":"EU"},
+		"dist":{"km":6285,"type":"gc"},
+		"emissions":{"kg":62406}
+	},{
+		"id":"WZZ3016",
+		"time":"2020-04-10T21:50:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A321","name":"AIRBUS A321"},
+		"to":{"n":"Bucharest Henri Coandă Int'l","ICAO":"LROP","IATA":"OTP","geo":[26.08500,44.57111],"cc":"RO","continent":"EU"},
+		"dist":{"km":5590,"type":"gc"},
+		"emissions":{"kg":66017}
+	},{
+		"id":"WZZ7856",
+		"time":"2020-04-10T22:25:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Debrecen Int'l","ICAO":"LHDC","IATA":"DEB","geo":[21.61530,47.48890],"cc":"HU","continent":"EU"},
+		"dist":{"km":5686,"type":"gc"},
+		"emissions":{"kg":56816}
+	},{
+		"id":"WZZ1816",
+		"time":"2020-04-10T22:45:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Copernicus Wrocław","ICAO":"EPWR","IATA":"WRO","geo":[16.88580,51.10270],"cc":"PL","continent":"EU"},
+		"dist":{"km":5907,"type":"gc"},
+		"emissions":{"kg":58880}
+	}]
+}

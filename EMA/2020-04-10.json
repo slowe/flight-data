@@ -6,7 +6,7 @@
 		"airline":"UPS Airlines",
 		"aircraft":{"code":"B763","name":"BOEING 767-300ER/F"},
 		"to":{"n":"Muhammad Ali Intl","ICAO":"KSDF","IATA":"SDF","geo":[-85.73600,38.17440],"cc":"US","continent":"NA"},
-		"dist":{"km":9645,"type":"gc"},
-		"emissions":{"kg":180705}
+		"dist":{"km":6389,"type":"gc"},
+		"emissions":{"kg":121674}
 	}]
 }
