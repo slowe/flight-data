@@ -183,7 +183,7 @@
 		"aircraft":{"code":"32Q","name":""},
 		"to":{"n":"Budapest Ferenc Liszt International Airport","ICAO":"LHBP","IATA":"BUD","geo":[19.26109,47.42976],"cc":"HU","continent":"EU"},
 		"dist":{"km":1692,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":22842}
 	},{
 		"id":"WZZ1612",
 		"time":"2020-04-09T21:55:00+0100",
