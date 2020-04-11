@@ -48,5 +48,45 @@
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":442,"type":"gc"},
 		"emissions":{"kg":6295}
+	},{
+		"id":"BCI265",
+		"time":"2020-04-11T16:10:00+0100",
+		"airline":"Blue Islands",
+		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
+		"to":{"n":"Jersey","ICAO":"EGJJ","IATA":"JER","geo":[-2.19551,49.20790],"cc":"JE","continent":"EU"},
+		"dist":{"km":362,"type":"gc"},
+		"emissions":{"kg":2296}
+	},{
+		"id":"WZZ1908",
+		"time":"2020-04-11T16:25:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Poznań-Ławica","ICAO":"EPPO","IATA":"POZ","geo":[16.82630,52.42100],"cc":"PL","continent":"EU"},
+		"dist":{"km":1257,"type":"gc"},
+		"emissions":{"kg":15500}
+	},{
+		"id":"PIA792",
+		"time":"2020-04-11T17:25:00+0100",
+		"airline":"Pakistan International Airlines (PIA)",
+		"aircraft":{"code":"B772","name":"BOEING 777-200"},
+		"to":{"n":"Islamabad International Airport","ICAO":"OPIS","IATA":"ISB","geo":[72.85161,33.56071],"cc":"PK","continent":"AS"},
+		"dist":{"km":6125,"type":"gc"},
+		"emissions":{"kg":159804}
+	},{
+		"id":"WZZ1322",
+		"time":"2020-04-11T19:50:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A321","name":"AIRBUS A321"},
+		"to":{"n":"Warsaw Frederic Chopin","ICAO":"EPWA","IATA":"WAW","geo":[20.96710,52.16570],"cc":"PL","continent":"EU"},
+		"dist":{"km":1539,"type":"gc"},
+		"emissions":{"kg":21149}
+	},{
+		"id":"WZZ3020",
+		"time":"2020-04-11T21:50:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Bucharest Henri Coandă Int'l","ICAO":"LROP","IATA":"OTP","geo":[26.08500,44.57111],"cc":"RO","continent":"EU"},
+		"dist":{"km":2214,"type":"gc"},
+		"emissions":{"kg":24431}
 	}]
 }
