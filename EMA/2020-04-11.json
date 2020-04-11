@@ -6,7 +6,7 @@
 		"airline":"Etihad Airways",
 		"aircraft":{"code":"B772","name":"BOEING 777-200"},
 		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
-		"dist":{"km":5629,"type":"gc"},
-		"emissions":{"kg":147816}
+		"dist":{"km":753,"type":"gc"},
+		"emissions":{"kg":30115}
 	}]
 }
