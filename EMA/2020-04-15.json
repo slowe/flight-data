@@ -1,0 +1,12 @@
+{
+	"from": {"n":"East Midlands Airport","ICAO":"EGNX","IATA":"EMA","geo":[-1.32806,52.83110],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"ETD914",
+		"time":"2020-04-15T09:25:00+0100",
+		"airline":"Etihad Airways",
+		"aircraft":{"code":"B772","name":"BOEING 777-200"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":5839,"type":"gc"},
+		"emissions":{"kg":152905}
+	}]
+}
