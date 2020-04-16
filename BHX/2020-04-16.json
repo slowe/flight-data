@@ -80,5 +80,13 @@
 		"to":{"n":"Warsaw Frederic Chopin","ICAO":"EPWA","IATA":"WAW","geo":[20.96710,52.16570],"cc":"PL","continent":"EU"},
 		"dist":{"km":1539,"type":"gc"},
 		"emissions":{"kg":21149}
+	},{
+		"id":"WZZ3020",
+		"time":"2020-04-16T21:50:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A321","name":"AIRBUS A321"},
+		"to":{"n":"Bucharest Henri Coandă Int'l","ICAO":"LROP","IATA":"OTP","geo":[26.08500,44.57111],"cc":"RO","continent":"EU"},
+		"dist":{"km":2214,"type":"gc"},
+		"emissions":{"kg":28621}
 	}]
 }
