@@ -33,6 +33,14 @@
 		"dist":{"km":3837,"type":"gc"},
 		"emissions":{"kg":39905}
 	},{
+		"id":"UPS237",
+		"time":"2020-04-17T21:52:00+0100",
+		"airline":"UPS Airlines",
+		"aircraft":{"code":"B763","name":"BOEING 767-300ER/F"},
+		"to":{"n":"Cologne Bonn","ICAO":"EDDK","IATA":"CGN","geo":[7.14274,50.86590],"cc":"DE","continent":"EU"},
+		"dist":{"km":621,"type":"gc"},
+		"emissions":{"kg":17108}
+	},{
 		"id":"BCS853",
 		"time":"2020-04-17T21:55:00+0100",
 		"airline":"",
@@ -40,5 +48,37 @@
 		"to":{"n":"Leipzig/Halle","ICAO":"EDDP","IATA":"LEJ","geo":[12.23639,51.42389],"cc":"DE","continent":"EU"},
 		"dist":{"km":938,"type":"gc"},
 		"emissions":{"kg":13285}
+	},{
+		"id":"SWT770P",
+		"time":"2020-04-17T22:00:00+0100",
+		"airline":"Swiftair",
+		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
+		"to":{"n":"Barajas Int'l","ICAO":"LEMD","IATA":"MAD","geo":[-3.56264,40.47193],"cc":"ES","continent":"EU"},
+		"dist":{"km":1386,"type":"gc"},
+		"emissions":{"kg":6394}
+	},{
+		"id":"DJ6565",
+		"time":"2020-04-17T22:15:00+0100",
+		"airline":"",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Cologne Bonn","ICAO":"EDDK","IATA":"CGN","geo":[7.14274,50.86590],"cc":"DE","continent":"EU"},
+		"dist":{"km":621,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"DJ6977",
+		"time":"2020-04-17T22:30:00+0100",
+		"airline":"",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Cologne Bonn","ICAO":"EDDK","IATA":"CGN","geo":[7.14274,50.86590],"cc":"DE","continent":"EU"},
+		"dist":{"km":621,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"TAY4014",
+		"time":"2020-04-17T23:00:00+0100",
+		"airline":"Tnt Airways",
+		"aircraft":{"code":"B734","name":"BOEING 737-400"},
+		"to":{"n":"Liege","ICAO":"EBLG","IATA":"LGG","geo":[5.44322,50.63740],"cc":"BE","continent":"EU"},
+		"dist":{"km":526,"type":"gc"},
+		"emissions":{"kg":8926}
 	}]
 }

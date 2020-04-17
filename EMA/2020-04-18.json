@@ -1,0 +1,52 @@
+{
+	"from": {"n":"East Midlands Airport","ICAO":"EGNX","IATA":"EMA","geo":[-1.32806,52.83110],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"ABR1551",
+		"time":"2020-04-18T00:30:00+0100",
+		"airline":"",
+		"aircraft":{"code":"B734","name":"BOEING 737-400"},
+		"to":{"n":"Leipzig/Halle","ICAO":"EDDP","IATA":"LEJ","geo":[12.23639,51.42389],"cc":"DE","continent":"EU"},
+		"dist":{"km":938,"type":"gc"},
+		"emissions":{"kg":13285}
+	},{
+		"id":"BCS73D",
+		"time":"2020-04-18T00:40:00+0100",
+		"airline":"",
+		"aircraft":{"code":"B752","name":"BOEING 757-200"},
+		"to":{"n":"Leipzig/Halle","ICAO":"EDDP","IATA":"LEJ","geo":[12.23639,51.42389],"cc":"DE","continent":"EU"},
+		"dist":{"km":938,"type":"gc"},
+		"emissions":{"kg":16048}
+	},{
+		"id":"TAY4012",
+		"time":"2020-04-18T05:30:00+0100",
+		"airline":"Tnt Airways",
+		"aircraft":{"code":"B734","name":"BOEING 737-400"},
+		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
+		"dist":{"km":380,"type":"gc"},
+		"emissions":{"kg":7382}
+	},{
+		"id":"UPS232",
+		"time":"2020-04-18T06:21:00+0100",
+		"airline":"UPS Airlines",
+		"aircraft":{"code":"B763","name":"BOEING 767-300ER/F"},
+		"to":{"n":"Philadelphia Intl","ICAO":"KPHL","IATA":"PHL","geo":[-75.24110,39.87190],"cc":"US","continent":"NA"},
+		"dist":{"km":5594,"type":"gc"},
+		"emissions":{"kg":107263}
+	},{
+		"id":"BCS6891",
+		"time":"2020-04-18T07:25:00+0100",
+		"airline":"",
+		"aircraft":{"code":"B752","name":"BOEING 757-200"},
+		"to":{"n":"Leipzig/Halle","ICAO":"EDDP","IATA":"LEJ","geo":[12.23639,51.42389],"cc":"DE","continent":"EU"},
+		"dist":{"km":938,"type":"gc"},
+		"emissions":{"kg":16048}
+	},{
+		"id":"ETD912",
+		"time":"2020-04-18T15:20:00+0100",
+		"airline":"Etihad Airways",
+		"aircraft":{"code":"B772","name":"BOEING 777-200"},
+		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
+		"dist":{"km":753,"type":"gc"},
+		"emissions":{"kg":30115}
+	}]
+}
