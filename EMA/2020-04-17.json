@@ -16,5 +16,21 @@
 		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
 		"dist":{"km":371,"type":"gc"},
 		"emissions":{"kg":8239}
+	},{
+		"id":"BSK533",
+		"time":"2020-04-17T14:00:00+0100",
+		"airline":"Miami Air International",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"CFB Goose Bay (Goose Bay)","ICAO":"CYYR","IATA":"YYR","geo":[-60.42580,53.31920],"cc":"CA","continent":"NA"},
+		"dist":{"km":3837,"type":"gc"},
+		"emissions":{"kg":39905}
+	},{
+		"id":"BSK533",
+		"time":"2020-04-17T14:10:00+0100",
+		"airline":"Miami Air International",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"CFB Goose Bay (Goose Bay)","ICAO":"CYYR","IATA":"YYR","geo":[-60.42580,53.31920],"cc":"CA","continent":"NA"},
+		"dist":{"km":3837,"type":"gc"},
+		"emissions":{"kg":39905}
 	}]
 }
