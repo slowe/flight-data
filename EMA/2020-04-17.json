@@ -8,5 +8,13 @@
 		"to":{"n":"Philadelphia Intl","ICAO":"KPHL","IATA":"PHL","geo":[-75.24110,39.87190],"cc":"US","continent":"NA"},
 		"dist":{"km":5594,"type":"gc"},
 		"emissions":{"kg":107263}
+	},{
+		"id":"BCS27L",
+		"time":"2020-04-17T04:48:10+0100",
+		"airline":"",
+		"aircraft":{"code":"B752","name":"BOEING 757-200"},
+		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
+		"dist":{"km":371,"type":"gc"},
+		"emissions":{"kg":8239}
 	}]
 }
