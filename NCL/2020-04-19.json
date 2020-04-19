@@ -32,5 +32,53 @@
 		"to":{"n":"Geneva Cointrin Int'l","ICAO":"LSGG","IATA":"GVA","geo":[6.10895,46.23810],"cc":"CH","continent":"EU"},
 		"dist":{"km":1122,"type":"gc"},
 		"emissions":{"kg":0}
+	},{
+		"id":"EZY553",
+		"time":"2020-04-19T13:07:30+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
+		"dist":{"km":292,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"ATW960",
+		"time":"2020-04-19T13:15:00+0100",
+		"airline":"Athens Airways",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":522,"type":"gc"},
+		"emissions":{"kg":6902}
+	},{
+		"id":"EZY555",
+		"time":"2020-04-19T14:52:30+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
+		"dist":{"km":292,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"EZY567",
+		"time":"2020-04-19T14:59:10+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Bristol Int'l","ICAO":"EGGD","IATA":"BRS","geo":[-2.71909,51.38270],"cc":"GB","continent":"EU"},
+		"dist":{"km":412,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"EZY6467",
+		"time":"2020-04-19T15:00:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Geneva Cointrin Int'l","ICAO":"LSGG","IATA":"GVA","geo":[6.10895,46.23810],"cc":"CH","continent":"EU"},
+		"dist":{"km":1122,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"ATW964",
+		"time":"2020-04-19T17:30:00+0100",
+		"airline":"Athens Airways",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":522,"type":"gc"},
+		"emissions":{"kg":8807}
 	}]
 }
