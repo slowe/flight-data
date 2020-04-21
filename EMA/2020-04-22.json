@@ -1,0 +1,20 @@
+{
+	"from": {"n":"East Midlands Airport","ICAO":"EGNX","IATA":"EMA","geo":[-1.32806,52.83110],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"RYR1708",
+		"time":"2020-04-22T08:10:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Galileo Galilei (Pisa Int'l)","ICAO":"LIRP","IATA":"PSA","geo":[10.39270,43.68390],"cc":"IT","continent":"EU"},
+		"dist":{"km":1335,"type":"gc"},
+		"emissions":{"kg":16429}
+	},{
+		"id":"ETD914",
+		"time":"2020-04-22T09:25:00+0100",
+		"airline":"Etihad Airways",
+		"aircraft":{"code":"B772","name":"BOEING 777-200"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":416,"type":"gc"},
+		"emissions":{"kg":21972}
+	}]
+}
