@@ -16,5 +16,21 @@
 		"to":{"n":"Jersey","ICAO":"EGJJ","IATA":"JER","geo":[-2.19551,49.20790],"cc":"JE","continent":"EU"},
 		"dist":{"km":362,"type":"gc"},
 		"emissions":{"kg":2296}
+	},{
+		"id":"PIA792",
+		"time":"2020-04-26T17:25:00+0100",
+		"airline":"Pakistan International Airlines (PIA)",
+		"aircraft":{"code":"B772","name":"BOEING 777-200"},
+		"to":{"n":"Islamabad International Airport","ICAO":"OPIS","IATA":"ISB","geo":[72.85161,33.56071],"cc":"PK","continent":"AS"},
+		"dist":{"km":6125,"type":"gc"},
+		"emissions":{"kg":159804}
+	},{
+		"id":"WZZ3316",
+		"time":"2020-04-26T22:10:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Cluj-Napoca Int'l (Someşeni)","ICAO":"LRCL","IATA":"CLJ","geo":[23.68620,46.78520],"cc":"RO","continent":"EU"},
+		"dist":{"km":1927,"type":"gc"},
+		"emissions":{"kg":21757}
 	}]
 }
