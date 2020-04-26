@@ -1,0 +1,12 @@
+{
+	"from": {"n":"East Midlands Airport","ICAO":"EGNX","IATA":"EMA","geo":[-1.32806,52.83110],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"RYR6571",
+		"time":"2020-04-27T12:50:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Treviso (Sant'Angelo)","ICAO":"LIPH","IATA":"TSF","geo":[12.19440,45.64840],"cc":"IT","continent":"EU"},
+		"dist":{"km":5220,"type":"gc"},
+		"emissions":{"kg":52885}
+	}]
+}
