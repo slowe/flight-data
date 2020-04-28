@@ -8,5 +8,45 @@
 		"to":{"n":"Warsaw Frederic Chopin","ICAO":"EPWA","IATA":"WAW","geo":[20.96710,52.16570],"cc":"PL","continent":"EU"},
 		"dist":{"km":1435,"type":"gc"},
 		"emissions":{"kg":13818}
+	},{
+		"id":"LOT2202",
+		"time":"2020-04-29T09:30:00+0100",
+		"airline":"LOT Polish Airlines",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Budapest Ferenc Liszt International Airport","ICAO":"LHBP","IATA":"BUD","geo":[19.26109,47.42976],"cc":"HU","continent":"EU"},
+		"dist":{"km":1456,"type":"gc"},
+		"emissions":{"kg":13979}
+	},{
+		"id":"LOT272",
+		"time":"2020-04-29T09:35:00+0100",
+		"airline":"LOT Polish Airlines",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Vilnius Int'l","ICAO":"EYVI","IATA":"VNO","geo":[25.28580,54.63410],"cc":"LT","continent":"EU"},
+		"dist":{"km":1713,"type":"gc"},
+		"emissions":{"kg":15924}
+	},{
+		"id":"LOT290",
+		"time":"2020-04-29T18:25:00+0100",
+		"airline":"LOT Polish Airlines",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Warsaw Frederic Chopin","ICAO":"EPWA","IATA":"WAW","geo":[20.96710,52.16570],"cc":"PL","continent":"EU"},
+		"dist":{"km":1435,"type":"gc"},
+		"emissions":{"kg":13818}
+	},{
+		"id":"LOT274",
+		"time":"2020-04-29T18:40:00+0100",
+		"airline":"LOT Polish Airlines",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Vilnius Int'l","ICAO":"EYVI","IATA":"VNO","geo":[25.28580,54.63410],"cc":"LT","continent":"EU"},
+		"dist":{"km":1713,"type":"gc"},
+		"emissions":{"kg":15924}
+	},{
+		"id":"LOT2204",
+		"time":"2020-04-29T19:30:00+0100",
+		"airline":"LOT Polish Airlines",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Budapest Ferenc Liszt International Airport","ICAO":"LHBP","IATA":"BUD","geo":[19.26109,47.42976],"cc":"HU","continent":"EU"},
+		"dist":{"km":1456,"type":"gc"},
+		"emissions":{"kg":13979}
 	}]
 }
