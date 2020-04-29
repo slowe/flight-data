@@ -7,7 +7,7 @@
 		"aircraft":{"code":"","name":""},
 		"to":{"n":"Barajas Int'l","ICAO":"LEMD","IATA":"MAD","geo":[-3.56264,40.47193],"cc":"ES","continent":"EU"},
 		"dist":{"km":1432,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":19962}
 	},{
 		"id":"EZY7141",
 		"time":"2020-04-29T06:10:00+0100",
@@ -15,7 +15,7 @@
 		"aircraft":{"code":"","name":""},
 		"to":{"n":"Palma de Mallorca (or Son Sant Joan)","ICAO":"LEPA","IATA":"PMI","geo":[2.73881,39.55170],"cc":"ES","continent":"EU"},
 		"dist":{"km":1591,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":21723}
 	},{
 		"id":"EZY7179",
 		"time":"2020-04-29T06:10:00+0100",
@@ -31,7 +31,7 @@
 		"aircraft":{"code":"","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":524,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":9901}
 	},{
 		"id":"EZY601",
 		"time":"2020-04-29T07:06:40+0100",
@@ -55,7 +55,7 @@
 		"aircraft":{"code":"","name":""},
 		"to":{"n":"Barcelona Int'l","ICAO":"LEBL","IATA":"BCN","geo":[2.07846,41.29710],"cc":"ES","continent":"EU"},
 		"dist":{"km":1389,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":19485}
 	},{
 		"id":"EZY607",
 		"time":"2020-04-29T08:26:40+0100",
@@ -63,7 +63,7 @@
 		"aircraft":{"code":"","name":""},
 		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
 		"dist":{"km":264,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":7027}
 	},{
 		"id":"LOG542",
 		"time":"2020-04-29T08:31:40+0100",
@@ -79,7 +79,7 @@
 		"aircraft":{"code":"","name":""},
 		"to":{"n":"Krakow Int'l","ICAO":"EPKK","IATA":"KRK","geo":[19.78480,50.07770],"cc":"PL","continent":"EU"},
 		"dist":{"km":1595,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":21766}
 	},{
 		"id":"EZY7085",
 		"time":"2020-04-29T10:40:00+0100",
@@ -87,7 +87,7 @@
 		"aircraft":{"code":"","name":""},
 		"to":{"n":"Pula","ICAO":"LDPL","IATA":"PUY","geo":[13.92220,44.89350],"cc":"HR","continent":"EU"},
 		"dist":{"km":1535,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":21096}
 	},{
 		"id":"EZY7065",
 		"time":"2020-04-29T13:00:00+0100",
@@ -95,7 +95,7 @@
 		"aircraft":{"code":"","name":""},
 		"to":{"n":"Nice Cote d'Azur","ICAO":"LFMN","IATA":"NCE","geo":[7.21587,43.65840],"cc":"FR","continent":"EU"},
 		"dist":{"km":1305,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":18552}
 	},{
 		"id":"EZY7023",
 		"time":"2020-04-29T13:10:00+0100",
@@ -111,7 +111,7 @@
 		"aircraft":{"code":"","name":""},
 		"to":{"n":"Berlin","ICAO":"EDDB","IATA":"SXF","geo":[13.52250,52.38000],"cc":"DE","continent":"EU"},
 		"dist":{"km":1103,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":16311}
 	},{
 		"id":"EZY7157",
 		"time":"2020-04-29T14:55:00+0100",
@@ -119,7 +119,7 @@
 		"aircraft":{"code":"","name":""},
 		"to":{"n":"Arrecife (Lanzarote)","ICAO":"GCRR","IATA":"ACE","geo":[-13.60520,28.94550],"cc":"ES","continent":"EU"},
 		"dist":{"km":2853,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":35697}
 	},{
 		"id":"LOG548",
 		"time":"2020-04-29T18:00:50+0100",
