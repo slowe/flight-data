@@ -6,7 +6,7 @@
 		"airline":"UPS Airlines",
 		"aircraft":{"code":"B763","name":"BOEING 767-300ER/F"},
 		"to":{"n":"Philadelphia Intl","ICAO":"KPHL","IATA":"PHL","geo":[-75.24110,39.87190],"cc":"US","continent":"NA"},
-		"dist":{"km":8763,"type":"gc"},
-		"emissions":{"kg":164713}
+		"dist":{"km":5594,"type":"gc"},
+		"emissions":{"kg":107263}
 	}]
 }
