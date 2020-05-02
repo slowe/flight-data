@@ -57,6 +57,14 @@
 		"dist":{"km":442,"type":"gc"},
 		"emissions":{"kg":5230}
 	},{
+		"id":"PEG78",
+		"time":"2020-05-02T11:45:00+0100",
+		"airline":"",
+		"aircraft":{"code":"GLF4","name":""},
+		"to":{"n":"Farnborough Airfield","ICAO":"EGLF","IATA":"FAB","geo":[-0.77633,51.27580],"cc":"GB","continent":"EU"},
+		"dist":{"km":147,"type":"gc"},
+		"emissions":{"kg":3587}
+	},{
 		"id":"STK3265",
 		"time":"2020-05-02T12:15:00+0100",
 		"airline":"Stobart Air",
