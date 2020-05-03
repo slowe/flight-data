@@ -16,5 +16,61 @@
 		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
 		"dist":{"km":403,"type":"gc"},
 		"emissions":{"kg":7115}
+	},{
+		"id":"EZY512",
+		"time":"2020-05-04T09:00:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A319","name":"AIRBUS A319"},
+		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
+		"dist":{"km":418,"type":"gc"},
+		"emissions":{"kg":7251}
+	},{
+		"id":"EZY194",
+		"time":"2020-05-04T11:14:10+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
+		"dist":{"km":383,"type":"gc"},
+		"emissions":{"kg":7355}
+	},{
+		"id":"KLM1426",
+		"time":"2020-05-04T11:30:00+0100",
+		"airline":"KLM",
+		"aircraft":{"code":"E170","name":"EMB ERJ170 (170-100)"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":442,"type":"gc"},
+		"emissions":{"kg":5230}
+	},{
+		"id":"RYR1562",
+		"time":"2020-05-04T11:40:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Verona (Villafranca Int'l, Valerio Catullo)","ICAO":"LIPX","IATA":"VRN","geo":[10.88850,45.39570],"cc":"IT","continent":"EU"},
+		"dist":{"km":1210,"type":"gc"},
+		"emissions":{"kg":15256}
+	},{
+		"id":"STK3265",
+		"time":"2020-05-04T12:15:00+0100",
+		"airline":"Stobart Air",
+		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":321,"type":"gc"},
+		"emissions":{"kg":2133}
+	},{
+		"id":"BCI259",
+		"time":"2020-05-04T12:50:00+0100",
+		"airline":"Blue Islands",
+		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
+		"to":{"n":"Jersey","ICAO":"EGJJ","IATA":"JER","geo":[-2.19551,49.20790],"cc":"JE","continent":"EU"},
+		"dist":{"km":362,"type":"gc"},
+		"emissions":{"kg":2296}
+	},{
+		"id":"HOP1065",
+		"time":"2020-05-04T13:55:00+0100",
+		"airline":"HOP!",
+		"aircraft":{"code":"EQV","name":""},
+		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
+		"dist":{"km":488,"type":"gc"},
+		"emissions":{"kg":0}
 	}]
 }
