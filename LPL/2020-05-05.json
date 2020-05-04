@@ -1,0 +1,44 @@
+{
+	"from": {"n":"Liverpool John Lennon Airport","ICAO":"EGGP","IATA":"LPL","geo":[-2.84972,53.33360],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"EZY7141",
+		"time":"2020-05-05T06:10:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Palma de Mallorca (or Son Sant Joan)","ICAO":"LEPA","IATA":"PMI","geo":[2.73881,39.55170],"cc":"ES","continent":"EU"},
+		"dist":{"km":1591,"type":"gc"},
+		"emissions":{"kg":18622}
+	},{
+		"id":"EZY7215",
+		"time":"2020-05-05T06:10:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Naples Int'l (Capodichino)","ICAO":"LIRN","IATA":"NAP","geo":[14.29080,40.88600],"cc":"IT","continent":"EU"},
+		"dist":{"km":1889,"type":"gc"},
+		"emissions":{"kg":25020}
+	},{
+		"id":"EZY7001",
+		"time":"2020-05-05T06:20:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":524,"type":"gc"},
+		"emissions":{"kg":9901}
+	},{
+		"id":"RYR9884",
+		"time":"2020-05-05T06:25:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Palese Macchie","ICAO":"LIBD","IATA":"BRI","geo":[16.76060,41.13890],"cc":"IT","continent":"EU"},
+		"dist":{"km":1997,"type":"gc"},
+		"emissions":{"kg":22646}
+	},{
+		"id":"EZY7179",
+		"time":"2020-05-05T06:35:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
+		"dist":{"km":1858,"type":"gc"},
+		"emissions":{"kg":21114}
+	}]
+}
