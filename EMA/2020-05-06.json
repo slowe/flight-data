@@ -1,6 +1,14 @@
 {
 	"from": {"n":"East Midlands Airport","ICAO":"EGNX","IATA":"EMA","geo":[-1.32806,52.83110],"cc":"GB","continent":"EU"},
 	"flights":[{
+		"id":"UPS232",
+		"time":"2020-05-06T04:26:00+0100",
+		"airline":"UPS Airlines",
+		"aircraft":{"code":"B763","name":"BOEING 767-300ER/F"},
+		"to":{"n":"Philadelphia Intl","ICAO":"KPHL","IATA":"PHL","geo":[-75.24110,39.87190],"cc":"US","continent":"NA"},
+		"dist":{"km":5594,"type":"gc"},
+		"emissions":{"kg":107263}
+	},{
 		"id":"RYR1708",
 		"time":"2020-05-06T08:10:00+0100",
 		"airline":"Ryanair",
@@ -8,5 +16,13 @@
 		"to":{"n":"Galileo Galilei (Pisa Int'l)","ICAO":"LIRP","IATA":"PSA","geo":[10.39270,43.68390],"cc":"IT","continent":"EU"},
 		"dist":{"km":1335,"type":"gc"},
 		"emissions":{"kg":16429}
+	},{
+		"id":"ETD914",
+		"time":"2020-05-06T09:25:00+0100",
+		"airline":"Etihad Airways",
+		"aircraft":{"code":"B772","name":"BOEING 777-200"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":416,"type":"gc"},
+		"emissions":{"kg":21972}
 	}]
 }
