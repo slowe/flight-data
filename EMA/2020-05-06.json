@@ -1,0 +1,12 @@
+{
+	"from": {"n":"East Midlands Airport","ICAO":"EGNX","IATA":"EMA","geo":[-1.32806,52.83110],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"RYR1708",
+		"time":"2020-05-06T08:10:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Galileo Galilei (Pisa Int'l)","ICAO":"LIRP","IATA":"PSA","geo":[10.39270,43.68390],"cc":"IT","continent":"EU"},
+		"dist":{"km":1335,"type":"gc"},
+		"emissions":{"kg":16429}
+	}]
+}
