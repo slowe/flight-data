@@ -8,5 +8,13 @@
 		"to":{"n":"Philadelphia Intl","ICAO":"KPHL","IATA":"PHL","geo":[-75.24110,39.87190],"cc":"US","continent":"NA"},
 		"dist":{"km":5594,"type":"gc"},
 		"emissions":{"kg":107263}
+	},{
+		"id":"UPS238",
+		"time":"2020-05-08T23:40:00+0100",
+		"airline":"UPS Airlines",
+		"aircraft":{"code":"B763","name":"BOEING 767-300ER/F"},
+		"to":{"n":"Muhammad Ali Intl","ICAO":"KSDF","IATA":"SDF","geo":[-85.73600,38.17440],"cc":"US","continent":"NA"},
+		"dist":{"km":6389,"type":"gc"},
+		"emissions":{"kg":121674}
 	}]
 }
