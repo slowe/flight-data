@@ -65,6 +65,14 @@
 		"dist":{"km":143,"type":"gc"},
 		"emissions":{"kg":5683}
 	},{
+		"id":"RYR5162",
+		"time":"2020-05-08T07:59:37+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"","ICAO":"","IATA":"","geo":[47.29639,-11.58428],"cc":"TF","continent":"AF"},
+		"dist":{"km":8644,"type":"gc"},
+		"emissions":{"kg":99843}
+	},{
 		"id":"EZY607",
 		"time":"2020-05-08T08:26:40+0100",
 		"airline":"easyJet",
