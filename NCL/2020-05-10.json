@@ -1,0 +1,28 @@
+{
+	"from": {"n":"Newcastle Airport","ICAO":"EGNT","IATA":"NCL","geo":[-1.69167,55.03750],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"EZY6427",
+		"time":"2020-05-10T06:10:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Palma de Mallorca (or Son Sant Joan)","ICAO":"LEPA","IATA":"PMI","geo":[2.73881,39.55170],"cc":"ES","continent":"EU"},
+		"dist":{"km":1755,"type":"gc"},
+		"emissions":{"kg":23533}
+	},{
+		"id":"EZY6433",
+		"time":"2020-05-10T06:10:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Ioannis Kapodistrias Int'l","ICAO":"LGKR","IATA":"CFU","geo":[19.91170,39.60190],"cc":"GR","continent":"EU"},
+		"dist":{"km":2349,"type":"gc"},
+		"emissions":{"kg":30117}
+	},{
+		"id":"EZY6445",
+		"time":"2020-05-10T07:25:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Faro","ICAO":"LPFR","IATA":"FAO","geo":[-7.96591,37.01440],"cc":"PT","continent":"EU"},
+		"dist":{"km":2062,"type":"gc"},
+		"emissions":{"kg":26933}
+	}]
+}
