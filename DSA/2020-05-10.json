@@ -1,0 +1,12 @@
+{
+	"from": {"n":"Robin Hood Doncaster Sheffield Airport","ICAO":"EGCN","IATA":"DSA","geo":[-1.01066,53.48054],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"ASJ551",
+		"time":"2020-05-10T11:50:00+0100",
+		"airline":"",
+		"aircraft":{"code":"C510","name":""},
+		"to":{"n":"Paris Le Bourget","ICAO":"LFPB","IATA":"LBG","geo":[2.44139,48.96940],"cc":"FR","continent":"EU"},
+		"dist":{"km":5456,"type":"gc"},
+		"emissions":{"kg":0}
+	}]
+}
