@@ -15,7 +15,7 @@
 		"aircraft":{"code":"","name":""},
 		"to":{"n":"Ioannis Kapodistrias Int'l","ICAO":"LGKR","IATA":"CFU","geo":[19.91170,39.60190],"cc":"GR","continent":"EU"},
 		"dist":{"km":2349,"type":"gc"},
-		"emissions":{"kg":30117}
+		"emissions":{"kg":30116}
 	},{
 		"id":"EZY6445",
 		"time":"2020-05-10T07:25:00+0100",
