@@ -6,7 +6,7 @@
 		"airline":"",
 		"aircraft":{"code":"C510","name":""},
 		"to":{"n":"Paris Le Bourget","ICAO":"LFPB","IATA":"LBG","geo":[2.44139,48.96940],"cc":"FR","continent":"EU"},
-		"dist":{"km":5456,"type":"gc"},
-		"emissions":{"kg":0}
+		"dist":{"km":556,"type":"gc"},
+		"emissions":{"kg":10258}
 	}]
 }
