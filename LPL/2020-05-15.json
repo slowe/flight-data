@@ -1,0 +1,12 @@
+{
+	"from": {"n":"Liverpool John Lennon Airport","ICAO":"EGGP","IATA":"LPL","geo":[-2.84972,53.33360],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"RYR3028",
+		"time":"2020-05-15T06:30:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Menara Int'l","ICAO":"GMMX","IATA":"RAK","geo":[-8.03630,31.60690],"cc":"MA","continent":"AF"},
+		"dist":{"km":2454,"type":"gc"},
+		"emissions":{"kg":26929}
+	}]
+}
