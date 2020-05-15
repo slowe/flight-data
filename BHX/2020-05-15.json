@@ -23,7 +23,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":442,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":8995}
 	},{
 		"id":"BCI259",
 		"time":"2020-05-15T12:50:00+0100",
