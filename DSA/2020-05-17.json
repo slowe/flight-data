@@ -6,7 +6,7 @@
 		"airline":"Thomson Airways",
 		"aircraft":{"code":"B788","name":"BOEING 787-800 DREAMLINER"},
 		"to":{"n":"Cancun Int'l","ICAO":"MMUN","IATA":"CUN","geo":[-86.87710,21.03650],"cc":"MX","continent":"NA"},
-		"dist":{"km":9694,"type":"gc"},
-		"emissions":{"kg":176825}
+		"dist":{"km":7883,"type":"gc"},
+		"emissions":{"kg":144801}
 	}]
 }
