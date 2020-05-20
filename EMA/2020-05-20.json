@@ -1,6 +1,14 @@
 {
 	"from": {"n":"East Midlands Airport","ICAO":"EGNX","IATA":"EMA","geo":[-1.32806,52.83110],"cc":"GB","continent":"EU"},
 	"flights":[{
+		"id":"BOX111",
+		"time":"2020-05-20T01:49:17+0100",
+		"airline":"",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"","ICAO":"","IATA":"","geo":[47.29639,-11.58428],"cc":"TF","continent":"AF"},
+		"dist":{"km":8530,"type":"gc"},
+		"emissions":{"kg":98582}
+	},{
 		"id":"UPS232",
 		"time":"2020-05-20T04:26:00+0100",
 		"airline":"UPS Airlines",
