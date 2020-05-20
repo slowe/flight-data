@@ -1,0 +1,12 @@
+{
+	"from": {"n":"East Midlands Airport","ICAO":"EGNX","IATA":"EMA","geo":[-1.32806,52.83110],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"TOM7412",
+		"time":"2020-05-21T06:35:00+0100",
+		"airline":"Thomson Airways",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dubrovnik","ICAO":"LDDU","IATA":"DBV","geo":[18.26820,42.56140],"cc":"HR","continent":"EU"},
+		"dist":{"km":5078,"type":"gc"},
+		"emissions":{"kg":51548}
+	}]
+}
