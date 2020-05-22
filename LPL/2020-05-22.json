@@ -240,5 +240,29 @@
 		"to":{"n":"Isle of Man","ICAO":"EGNS","IATA":"IOM","geo":[-4.62389,54.08330],"cc":"IM","continent":"EU"},
 		"dist":{"km":143,"type":"gc"},
 		"emissions":{"kg":2496}
+	},{
+		"id":"LDM115",
+		"time":"2020-05-22T18:40:00+0100",
+		"airline":"Lauda",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Vienna Int'l (Schwechat)","ICAO":"LOWW","IATA":"VIE","geo":[16.56970,48.11030],"cc":"AT","continent":"EU"},
+		"dist":{"km":1480,"type":"gc"},
+		"emissions":{"kg":17589}
+	},{
+		"id":"RYR8561",
+		"time":"2020-05-22T18:40:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Václav Havel Airport","ICAO":"LKPR","IATA":"PRG","geo":[14.26000,50.10080],"cc":"CZ","continent":"EU"},
+		"dist":{"km":1230,"type":"gc"},
+		"emissions":{"kg":15445}
+	},{
+		"id":"RYR4207",
+		"time":"2020-05-22T19:10:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Copenhagen","ICAO":"EKCH","IATA":"CPH","geo":[12.65600,55.61790],"cc":"DK","continent":"EU"},
+		"dist":{"km":1032,"type":"gc"},
+		"emissions":{"kg":13588}
 	}]
 }
