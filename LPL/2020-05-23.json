@@ -232,5 +232,13 @@
 		"to":{"n":"Knock Int'l","ICAO":"EIKN","IATA":"NOC","geo":[-8.81849,53.91030],"cc":"IE","continent":"EU"},
 		"dist":{"km":399,"type":"gc"},
 		"emissions":{"kg":7648}
+	},{
+		"id":"RYR9862",
+		"time":"2020-05-23T17:10:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
+		"dist":{"km":1858,"type":"gc"},
+		"emissions":{"kg":21343}
 	}]
 }
