@@ -264,5 +264,37 @@
 		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
 		"dist":{"km":227,"type":"gc"},
 		"emissions":{"kg":6036}
+	},{
+		"id":"RYR1433",
+		"time":"2020-05-23T19:55:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Malpensa Int'l","ICAO":"LIMC","IATA":"MXP","geo":[8.72811,45.63060],"cc":"IT","continent":"EU"},
+		"dist":{"km":1195,"type":"gc"},
+		"emissions":{"kg":15121}
+	},{
+		"id":"WZZ2212",
+		"time":"2020-05-23T21:40:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Budapest Ferenc Liszt International Airport","ICAO":"LHBP","IATA":"BUD","geo":[19.26109,47.42976],"cc":"HU","continent":"EU"},
+		"dist":{"km":1692,"type":"gc"},
+		"emissions":{"kg":19564}
+	},{
+		"id":"RYR449",
+		"time":"2020-05-23T22:14:10+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":227,"type":"gc"},
+		"emissions":{"kg":6036}
+	},{
+		"id":"BLA2934",
+		"time":"2020-05-23T23:55:00+0100",
+		"airline":"",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Bacău Int'l","ICAO":"LRBC","IATA":"BCM","geo":[26.91030,46.52190],"cc":"RO","continent":"EU"},
+		"dist":{"km":2243,"type":"gc"},
+		"emissions":{"kg":24956}
 	}]
 }
