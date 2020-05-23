@@ -1,0 +1,20 @@
+{
+	"from": {"n":"Birmingham International Airport","ICAO":"EGBB","IATA":"BHX","geo":[-1.74803,52.45390],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"TOM740",
+		"time":"2020-05-24T06:00:00+0100",
+		"airline":"Thomson Airways",
+		"aircraft":{"code":"B752","name":"BOEING 757-200"},
+		"to":{"n":"Rabil","ICAO":"GVBA","IATA":"BVC","geo":[-22.88890,16.13650],"cc":"CV","continent":"AF"},
+		"dist":{"km":4449,"type":"gc"},
+		"emissions":{"kg":64393}
+	},{
+		"id":"RYR1121",
+		"time":"2020-05-24T06:35:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Tenerife South (Reina Sofia)","ICAO":"GCTS","IATA":"TFS","geo":[-16.57250,28.04450],"cc":"ES","continent":"EU"},
+		"dist":{"km":2981,"type":"gc"},
+		"emissions":{"kg":31877}
+	}]
+}
