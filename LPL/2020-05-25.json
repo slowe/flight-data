@@ -232,5 +232,13 @@
 		"to":{"n":"Václav Havel Airport","ICAO":"LKPR","IATA":"PRG","geo":[14.26000,50.10080],"cc":"CZ","continent":"EU"},
 		"dist":{"km":1230,"type":"gc"},
 		"emissions":{"kg":15445}
+	},{
+		"id":"RYR6433",
+		"time":"2020-05-25T16:25:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Ibiza","ICAO":"LEIB","IATA":"IBZ","geo":[1.37312,38.87290],"cc":"ES","continent":"EU"},
+		"dist":{"km":1641,"type":"gc"},
+		"emissions":{"kg":19306}
 	}]
 }
