@@ -224,5 +224,13 @@
 		"to":{"n":"Isle of Man","ICAO":"EGNS","IATA":"IOM","geo":[-4.62389,54.08330],"cc":"IM","continent":"EU"},
 		"dist":{"km":143,"type":"gc"},
 		"emissions":{"kg":2496}
+	},{
+		"id":"RYR447",
+		"time":"2020-05-27T19:09:10+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":227,"type":"gc"},
+		"emissions":{"kg":6036}
 	}]
 }
