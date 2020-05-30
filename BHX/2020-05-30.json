@@ -57,6 +57,14 @@
 		"dist":{"km":321,"type":"gc"},
 		"emissions":{"kg":6923}
 	},{
+		"id":"VJT938",
+		"time":"2020-05-30T15:50:00+0100",
+		"airline":"",
+		"aircraft":{"code":"GLEX","name":""},
+		"to":{"n":"Miami Intl","ICAO":"KMIA","IATA":"MIA","geo":[-80.29060,25.79320],"cc":"US","continent":"NA"},
+		"dist":{"km":7013,"type":"gc"},
+		"emissions":{"kg":41187}
+	},{
 		"id":"BCI265",
 		"time":"2020-05-30T16:10:00+0100",
 		"airline":"Blue Islands",
