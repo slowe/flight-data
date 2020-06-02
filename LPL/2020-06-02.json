@@ -144,5 +144,13 @@
 		"to":{"n":"Isle of Man","ICAO":"EGNS","IATA":"IOM","geo":[-4.62389,54.08330],"cc":"IM","continent":"EU"},
 		"dist":{"km":143,"type":"gc"},
 		"emissions":{"kg":2496}
+	},{
+		"id":"BLA2934",
+		"time":"2020-06-02T23:55:00+0100",
+		"airline":"",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Bacău Int'l","ICAO":"LRBC","IATA":"BCM","geo":[26.91030,46.52190],"cc":"RO","continent":"EU"},
+		"dist":{"km":2243,"type":"gc"},
+		"emissions":{"kg":24956}
 	}]
 }
