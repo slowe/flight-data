@@ -55,7 +55,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":522,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":9881}
 	},{
 		"id":"ATW960",
 		"time":"2020-06-03T13:15:00+0100",
