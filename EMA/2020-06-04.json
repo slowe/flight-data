@@ -8,5 +8,13 @@
 		"to":{"n":"Philadelphia Intl","ICAO":"KPHL","IATA":"PHL","geo":[-75.24110,39.87190],"cc":"US","continent":"NA"},
 		"dist":{"km":5594,"type":"gc"},
 		"emissions":{"kg":107263}
+	},{
+		"id":"BCS2876",
+		"time":"2020-06-04T05:56:49+0100",
+		"airline":"",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"","ICAO":"","IATA":"","geo":[47.29639,-11.58428],"cc":"TF","continent":"AF"},
+		"dist":{"km":8530,"type":"gc"},
+		"emissions":{"kg":98582}
 	}]
 }
