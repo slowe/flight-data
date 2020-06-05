@@ -16,5 +16,13 @@
 		"to":{"n":"","ICAO":"","IATA":"","geo":[47.29639,-11.58428],"cc":"TF","continent":"AF"},
 		"dist":{"km":8530,"type":"gc"},
 		"emissions":{"kg":98582}
+	},{
+		"id":"AEE6301",
+		"time":"2020-06-05T10:57:58+0100",
+		"airline":"Aegean Airlines",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"","ICAO":"","IATA":"","geo":[47.29639,-11.58428],"cc":"TF","continent":"AF"},
+		"dist":{"km":8530,"type":"gc"},
+		"emissions":{"kg":98582}
 	}]
 }
