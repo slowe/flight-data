@@ -9,6 +9,14 @@
 		"dist":{"km":5432,"type":"gc"},
 		"emissions":{"kg":29155}
 	},{
+		"id":"PEG6",
+		"time":"2020-06-07T08:50:00+0100",
+		"airline":"",
+		"aircraft":{"code":"GLF5","name":""},
+		"to":{"n":"Teterboro","ICAO":"KTEB","IATA":"TEB","geo":[-74.06080,40.85010],"cc":"US","continent":"NA"},
+		"dist":{"km":5432,"type":"gc"},
+		"emissions":{"kg":29155}
+	},{
 		"id":"BLA152",
 		"time":"2020-06-07T10:00:00+0100",
 		"airline":"",
