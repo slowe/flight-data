@@ -16,5 +16,69 @@
 		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
 		"dist":{"km":383,"type":"gc"},
 		"emissions":{"kg":8344}
+	},{
+		"id":"EZY512",
+		"time":"2020-06-10T09:00:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
+		"dist":{"km":418,"type":"gc"},
+		"emissions":{"kg":8730}
+	},{
+		"id":"THY1968",
+		"time":"2020-06-10T10:50:00+0100",
+		"airline":"Turkish Airlines",
+		"aircraft":{"code":"B739","name":"BOEING 737-900"},
+		"to":{"n":"Istanbul Airport","ICAO":"LTFM","IATA":"IST","geo":[28.75194,41.27528],"cc":"TR","continent":"AS"},
+		"dist":{"km":2606,"type":"gc"},
+		"emissions":{"kg":30335}
+	},{
+		"id":"KLM1426",
+		"time":"2020-06-10T11:30:00+0100",
+		"airline":"KLM",
+		"aircraft":{"code":"E170","name":"EMB ERJ170 (170-100)"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":442,"type":"gc"},
+		"emissions":{"kg":5230}
+	},{
+		"id":"EZY514",
+		"time":"2020-06-10T12:40:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
+		"dist":{"km":418,"type":"gc"},
+		"emissions":{"kg":8730}
+	},{
+		"id":"AFR1065",
+		"time":"2020-06-10T13:55:00+0100",
+		"airline":"Air France",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
+		"dist":{"km":488,"type":"gc"},
+		"emissions":{"kg":6640}
+	},{
+		"id":"PIA9792",
+		"time":"2020-06-10T16:45:00+0100",
+		"airline":"Pakistan International Airlines (PIA)",
+		"aircraft":{"code":"777","name":""},
+		"to":{"n":"Islamabad International Airport","ICAO":"OPIS","IATA":"ISB","geo":[72.85161,33.56071],"cc":"PK","continent":"AS"},
+		"dist":{"km":6125,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"THY1970",
+		"time":"2020-06-10T17:05:00+0100",
+		"airline":"Turkish Airlines",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Istanbul Airport","ICAO":"LTFM","IATA":"IST","geo":[28.75194,41.27528],"cc":"TR","continent":"AS"},
+		"dist":{"km":2606,"type":"gc"},
+		"emissions":{"kg":28358}
+	},{
+		"id":"THY1178",
+		"time":"2020-06-10T17:35:00+0100",
+		"airline":"Turkish Airlines",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Antalya","ICAO":"LTAI","IATA":"AYT","geo":[30.80050,36.89870],"cc":"TR","continent":"AS"},
+		"dist":{"km":3063,"type":"gc"},
+		"emissions":{"kg":32648}
 	}]
 }
