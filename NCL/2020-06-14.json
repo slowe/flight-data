@@ -8,5 +8,53 @@
 		"to":{"n":"Palma de Mallorca (or Son Sant Joan)","ICAO":"LEPA","IATA":"PMI","geo":[2.73881,39.55170],"cc":"ES","continent":"EU"},
 		"dist":{"km":1755,"type":"gc"},
 		"emissions":{"kg":19078}
+	},{
+		"id":"ATW954",
+		"time":"2020-06-14T09:30:00+0100",
+		"airline":"Athens Airways",
+		"aircraft":{"code":"B737","name":""},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":522,"type":"gc"},
+		"emissions":{"kg":7859}
+	},{
+		"id":"ATW960",
+		"time":"2020-06-14T13:15:00+0100",
+		"airline":"Athens Airways",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":522,"type":"gc"},
+		"emissions":{"kg":6902}
+	},{
+		"id":"EZY6467",
+		"time":"2020-06-14T15:00:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Geneva Cointrin Int'l","ICAO":"LSGG","IATA":"GVA","geo":[6.10895,46.23810],"cc":"CH","continent":"EU"},
+		"dist":{"km":1122,"type":"gc"},
+		"emissions":{"kg":16522}
+	},{
+		"id":"ATW964",
+		"time":"2020-06-14T17:30:00+0100",
+		"airline":"Athens Airways",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":522,"type":"gc"},
+		"emissions":{"kg":8807}
+	},{
+		"id":"EZY6401",
+		"time":"2020-06-14T17:40:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Barcelona Int'l","ICAO":"LEBL","IATA":"BCN","geo":[2.07846,41.29710],"cc":"ES","continent":"EU"},
+		"dist":{"km":1554,"type":"gc"},
+		"emissions":{"kg":21309}
+	},{
+		"id":"LOG7",
+		"time":"2020-06-14T18:09:10+0100",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Aberdeen","ICAO":"EGPD","IATA":"ABZ","geo":[-2.19778,57.20190],"cc":"GB","continent":"EU"},
+		"dist":{"km":242,"type":"gc"},
+		"emissions":{"kg":2925}
 	}]
 }
