@@ -104,5 +104,13 @@
 		"to":{"n":"Palma de Mallorca (or Son Sant Joan)","ICAO":"LEPA","IATA":"PMI","geo":[2.73881,39.55170],"cc":"ES","continent":"EU"},
 		"dist":{"km":1591,"type":"gc"},
 		"emissions":{"kg":21723}
+	},{
+		"id":"BLA2934",
+		"time":"2020-06-13T23:55:00+0100",
+		"airline":"",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Bacău Int'l","ICAO":"LRBC","IATA":"BCM","geo":[26.91030,46.52190],"cc":"RO","continent":"EU"},
+		"dist":{"km":2243,"type":"gc"},
+		"emissions":{"kg":24956}
 	}]
 }
