@@ -1,0 +1,12 @@
+{
+	"from": {"n":"Birmingham International Airport","ICAO":"EGBB","IATA":"BHX","geo":[-1.74803,52.45390],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"WZZ2218",
+		"time":"2020-06-16T08:30:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Budapest Ferenc Liszt International Airport","ICAO":"LHBP","IATA":"BUD","geo":[19.26109,47.42976],"cc":"HU","continent":"EU"},
+		"dist":{"km":1598,"type":"gc"},
+		"emissions":{"kg":18686}
+	}]
+}
