@@ -47,7 +47,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":442,"type":"gc"},
-		"emissions":{"kg":8995}
+		"emissions":{"kg":0}
 	},{
 		"id":"EWG9331",
 		"time":"2020-06-15T11:55:00+0100",
@@ -96,5 +96,13 @@
 		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
 		"dist":{"km":488,"type":"gc"},
 		"emissions":{"kg":6640}
+	},{
+		"id":"AWC191P",
+		"time":"2020-06-15T23:16:42+0100",
+		"airline":"",
+		"aircraft":{"code":"A332","name":"AIRBUS A330-200"},
+		"to":{"n":"Houston Bush Int'ctl","ICAO":"KIAH","IATA":"IAH","geo":[-95.34140,29.98440],"cc":"US","continent":"NA"},
+		"dist":{"km":7648,"type":"gc"},
+		"emissions":{"kg":161414}
 	}]
 }
