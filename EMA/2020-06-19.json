@@ -1,6 +1,14 @@
 {
 	"from": {"n":"East Midlands Airport","ICAO":"EGNX","IATA":"EMA","geo":[-1.32806,52.83110],"cc":"GB","continent":"EU"},
 	"flights":[{
+		"id":"UPS232",
+		"time":"2020-06-19T04:26:00+0100",
+		"airline":"UPS Airlines",
+		"aircraft":{"code":"B763","name":"BOEING 767-300ER/F"},
+		"to":{"n":"Philadelphia Intl","ICAO":"KPHL","IATA":"PHL","geo":[-75.24110,39.87190],"cc":"US","continent":"NA"},
+		"dist":{"km":5594,"type":"gc"},
+		"emissions":{"kg":107263}
+	},{
 		"id":"EXS641",
 		"time":"2020-06-19T06:40:00+0100",
 		"airline":"Jet2.com",
@@ -16,5 +24,101 @@
 		"to":{"n":"Almeria Int'l","ICAO":"LEAM","IATA":"LEI","geo":[-2.37010,36.84390],"cc":"ES","continent":"EU"},
 		"dist":{"km":1781,"type":"gc"},
 		"emissions":{"kg":20618}
+	},{
+		"id":"EXS685",
+		"time":"2020-06-19T07:40:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Faro","ICAO":"LPFR","IATA":"FAO","geo":[-7.96591,37.01440],"cc":"PT","continent":"EU"},
+		"dist":{"km":1834,"type":"gc"},
+		"emissions":{"kg":21118}
+	},{
+		"id":"EXS605",
+		"time":"2020-06-19T07:50:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
+		"dist":{"km":1815,"type":"gc"},
+		"emissions":{"kg":20936}
+	},{
+		"id":"EXS601",
+		"time":"2020-06-19T07:55:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Palma de Mallorca (or Son Sant Joan)","ICAO":"LEPA","IATA":"PMI","geo":[2.73881,39.55170],"cc":"ES","continent":"EU"},
+		"dist":{"km":1510,"type":"gc"},
+		"emissions":{"kg":18075}
+	},{
+		"id":"EXS683",
+		"time":"2020-06-19T08:25:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Reus","ICAO":"LERS","IATA":"REU","geo":[1.16717,41.14740],"cc":"ES","continent":"EU"},
+		"dist":{"km":1314,"type":"gc"},
+		"emissions":{"kg":16233}
+	},{
+		"id":"EXS603",
+		"time":"2020-06-19T10:05:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Palma de Mallorca (or Son Sant Joan)","ICAO":"LEPA","IATA":"PMI","geo":[2.73881,39.55170],"cc":"ES","continent":"EU"},
+		"dist":{"km":1510,"type":"gc"},
+		"emissions":{"kg":18075}
+	},{
+		"id":"EXS703",
+		"time":"2020-06-19T12:50:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Heraklion Int'l, Nikos Kazantzakis","ICAO":"LGIR","IATA":"HER","geo":[25.18030,35.33970],"cc":"GR","continent":"EU"},
+		"dist":{"km":2848,"type":"gc"},
+		"emissions":{"kg":30624}
+	},{
+		"id":"EXS625",
+		"time":"2020-06-19T14:30:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Heraklion Int'l, Nikos Kazantzakis","ICAO":"LGIR","IATA":"HER","geo":[25.18030,35.33970],"cc":"GR","continent":"EU"},
+		"dist":{"km":2848,"type":"gc"},
+		"emissions":{"kg":30624}
+	},{
+		"id":"EXS633",
+		"time":"2020-06-19T14:35:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Tenerife South (Reina Sofia)","ICAO":"GCTS","IATA":"TFS","geo":[-16.57250,28.04450],"cc":"ES","continent":"EU"},
+		"dist":{"km":3032,"type":"gc"},
+		"emissions":{"kg":32351}
+	},{
+		"id":"EXS653",
+		"time":"2020-06-19T15:05:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Antalya","ICAO":"LTAI","IATA":"AYT","geo":[30.80050,36.89870],"cc":"TR","continent":"AS"},
+		"dist":{"km":3053,"type":"gc"},
+		"emissions":{"kg":32549}
+	},{
+		"id":"EXS659",
+		"time":"2020-06-19T15:25:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Kos Island Int'l, Ippokratis (Hippocrates)","ICAO":"LGKO","IATA":"KGS","geo":[27.09170,36.79330],"cc":"GR","continent":"EU"},
+		"dist":{"km":2835,"type":"gc"},
+		"emissions":{"kg":30510}
+	},{
+		"id":"EXS637",
+		"time":"2020-06-19T15:30:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Ioannis Kapodistrias Int'l","ICAO":"LGKR","IATA":"CFU","geo":[19.91170,39.60190],"cc":"GR","continent":"EU"},
+		"dist":{"km":2185,"type":"gc"},
+		"emissions":{"kg":24412}
+	},{
+		"id":"EXS643",
+		"time":"2020-06-19T15:40:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Ibiza","ICAO":"LEIB","IATA":"IBZ","geo":[1.37312,38.87290],"cc":"ES","continent":"EU"},
+		"dist":{"km":1567,"type":"gc"},
+		"emissions":{"kg":18610}
 	}]
 }
