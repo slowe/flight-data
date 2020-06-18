@@ -240,5 +240,13 @@
 		"to":{"n":"Aberdeen","ICAO":"EGPD","IATA":"ABZ","geo":[-2.19778,57.20190],"cc":"GB","continent":"EU"},
 		"dist":{"km":529,"type":"gc"},
 		"emissions":{"kg":4161}
+	},{
+		"id":"EXS1287",
+		"time":"2020-06-18T20:05:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Palma de Mallorca (or Son Sant Joan)","ICAO":"LEPA","IATA":"PMI","geo":[2.73881,39.55170],"cc":"ES","continent":"EU"},
+		"dist":{"km":1476,"type":"gc"},
+		"emissions":{"kg":17759}
 	}]
 }
