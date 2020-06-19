@@ -240,5 +240,13 @@
 		"to":{"n":"Faro","ICAO":"LPFR","IATA":"FAO","geo":[-7.96591,37.01440],"cc":"PT","continent":"EU"},
 		"dist":{"km":1786,"type":"gc"},
 		"emissions":{"kg":20660}
+	},{
+		"id":"LOG68",
+		"time":"2020-06-19T18:20:00+0100",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Aberdeen","ICAO":"EGPD","IATA":"ABZ","geo":[-2.19778,57.20190],"cc":"GB","continent":"EU"},
+		"dist":{"km":529,"type":"gc"},
+		"emissions":{"kg":4161}
 	}]
 }
