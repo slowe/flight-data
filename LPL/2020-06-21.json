@@ -8,5 +8,29 @@
 		"to":{"n":"Varna Int'l","ICAO":"LBWN","IATA":"VAR","geo":[27.82510,43.23210],"cc":"BG","continent":"EU"},
 		"dist":{"km":2508,"type":"gc"},
 		"emissions":{"kg":27178}
+	},{
+		"id":"RYR9886",
+		"time":"2020-06-21T09:10:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Alicante","ICAO":"LEAL","IATA":"ALC","geo":[-0.55816,38.28220],"cc":"ES","continent":"EU"},
+		"dist":{"km":1684,"type":"gc"},
+		"emissions":{"kg":19709}
+	},{
+		"id":"EZY605",
+		"time":"2020-06-21T09:48:20+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
+		"dist":{"km":264,"type":"gc"},
+		"emissions":{"kg":6246}
+	},{
+		"id":"LOG548",
+		"time":"2020-06-21T18:00:50+0100",
+		"airline":"",
+		"aircraft":{"code":"AT43","name":""},
+		"to":{"n":"Isle of Man","ICAO":"EGNS","IATA":"IOM","geo":[-4.62389,54.08330],"cc":"IM","continent":"EU"},
+		"dist":{"km":143,"type":"gc"},
+		"emissions":{"kg":1266}
 	}]
 }
