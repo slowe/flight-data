@@ -1,0 +1,28 @@
+{
+	"from": {"n":"Newcastle Airport","ICAO":"EGNT","IATA":"NCL","geo":[-1.69167,55.03750],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"EXS569",
+		"time":"2020-06-21T06:30:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dubrovnik","ICAO":"LDDU","IATA":"DBV","geo":[18.26820,42.56140],"cc":"HR","continent":"EU"},
+		"dist":{"km":2004,"type":"gc"},
+		"emissions":{"kg":22707}
+	},{
+		"id":"EXS597",
+		"time":"2020-06-21T06:45:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Faro","ICAO":"LPFR","IATA":"FAO","geo":[-7.96591,37.01440],"cc":"PT","continent":"EU"},
+		"dist":{"km":2062,"type":"gc"},
+		"emissions":{"kg":23250}
+	},{
+		"id":"EXS531",
+		"time":"2020-06-21T06:50:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Palma de Mallorca (or Son Sant Joan)","ICAO":"LEPA","IATA":"PMI","geo":[2.73881,39.55170],"cc":"ES","continent":"EU"},
+		"dist":{"km":1755,"type":"gc"},
+		"emissions":{"kg":20370}
+	}]
+}
