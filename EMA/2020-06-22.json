@@ -1,0 +1,44 @@
+{
+	"from": {"n":"East Midlands Airport","ICAO":"EGNX","IATA":"EMA","geo":[-1.32806,52.83110],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"EXS611",
+		"time":"2020-06-22T07:00:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Girona-Costa Brava","ICAO":"LEGE","IATA":"GRO","geo":[2.76055,41.90100],"cc":"ES","continent":"EU"},
+		"dist":{"km":1254,"type":"gc"},
+		"emissions":{"kg":15675}
+	},{
+		"id":"EXS623",
+		"time":"2020-06-22T07:05:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Madeira Int'l (Funchal)","ICAO":"LPMA","IATA":"FNC","geo":[-16.77450,32.69790],"cc":"PT","continent":"EU"},
+		"dist":{"km":2559,"type":"gc"},
+		"emissions":{"kg":27921}
+	},{
+		"id":"EXS605",
+		"time":"2020-06-22T07:35:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
+		"dist":{"km":1815,"type":"gc"},
+		"emissions":{"kg":20936}
+	},{
+		"id":"EXS685",
+		"time":"2020-06-22T07:40:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Faro","ICAO":"LPFR","IATA":"FAO","geo":[-7.96591,37.01440],"cc":"PT","continent":"EU"},
+		"dist":{"km":1834,"type":"gc"},
+		"emissions":{"kg":21118}
+	},{
+		"id":"EXS601",
+		"time":"2020-06-22T07:50:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Palma de Mallorca (or Son Sant Joan)","ICAO":"LEPA","IATA":"PMI","geo":[2.73881,39.55170],"cc":"ES","continent":"EU"},
+		"dist":{"km":1510,"type":"gc"},
+		"emissions":{"kg":18075}
+	}]
+}
