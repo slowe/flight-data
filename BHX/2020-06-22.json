@@ -113,6 +113,14 @@
 		"dist":{"km":418,"type":"gc"},
 		"emissions":{"kg":7251}
 	},{
+		"id":"PEG78",
+		"time":"2020-06-22T08:50:00+0100",
+		"airline":"",
+		"aircraft":{"code":"GLF4","name":""},
+		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
+		"dist":{"km":403,"type":"gc"},
+		"emissions":{"kg":4857}
+	},{
 		"id":"EXS1337",
 		"time":"2020-06-22T09:10:00+0100",
 		"airline":"Jet2.com",
