@@ -89,6 +89,14 @@
 		"dist":{"km":383,"type":"gc"},
 		"emissions":{"kg":7355}
 	},{
+		"id":"GAC806D",
+		"time":"2020-06-22T07:57:50+0100",
+		"airline":"",
+		"aircraft":{"code":"C510","name":""},
+		"to":{"n":"","ICAO":"","IATA":"","geo":[47.29639,-11.58428],"cc":"TF","continent":"AF"},
+		"dist":{"km":8524,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
 		"id":"EZY502",
 		"time":"2020-06-22T08:05:00+0100",
 		"airline":"easyJet",
