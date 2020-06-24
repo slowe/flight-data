@@ -1,0 +1,44 @@
+{
+	"from": {"n":"Newcastle Airport","ICAO":"EGNT","IATA":"NCL","geo":[-1.69167,55.03750],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"ATW952",
+		"time":"2020-06-25T06:05:00+0100",
+		"airline":"Athens Airways",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":522,"type":"gc"},
+		"emissions":{"kg":8807}
+	},{
+		"id":"EXS599",
+		"time":"2020-06-25T06:15:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Burgas Int'l (Sarafovo)","ICAO":"LBBG","IATA":"BOJ","geo":[27.51520,42.56960],"cc":"BG","continent":"EU"},
+		"dist":{"km":2523,"type":"gc"},
+		"emissions":{"kg":27576}
+	},{
+		"id":"EXS525",
+		"time":"2020-06-25T06:30:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Girona-Costa Brava","ICAO":"LEGE","IATA":"GRO","geo":[2.76055,41.90100],"cc":"ES","continent":"EU"},
+		"dist":{"km":1498,"type":"gc"},
+		"emissions":{"kg":17958}
+	},{
+		"id":"EXS527",
+		"time":"2020-06-25T06:40:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Ioannis Kapodistrias Int'l","ICAO":"LGKR","IATA":"CFU","geo":[19.91170,39.60190],"cc":"GR","continent":"EU"},
+		"dist":{"km":2349,"type":"gc"},
+		"emissions":{"kg":25947}
+	},{
+		"id":"EXS597",
+		"time":"2020-06-25T06:45:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Faro","ICAO":"LPFR","IATA":"FAO","geo":[-7.96591,37.01440],"cc":"PT","continent":"EU"},
+		"dist":{"km":2062,"type":"gc"},
+		"emissions":{"kg":23250}
+	}]
+}
