@@ -32,5 +32,13 @@
 		"to":{"n":"Varna Int'l","ICAO":"LBWN","IATA":"VAR","geo":[27.82510,43.23210],"cc":"BG","continent":"EU"},
 		"dist":{"km":2508,"type":"gc"},
 		"emissions":{"kg":27178}
+	},{
+		"id":"WZZ3012",
+		"time":"2020-06-25T21:25:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A321","name":"AIRBUS A321"},
+		"to":{"n":"Bucharest Henri Coandă Int'l","ICAO":"LROP","IATA":"OTP","geo":[26.08500,44.57111],"cc":"RO","continent":"EU"},
+		"dist":{"km":2308,"type":"gc"},
+		"emissions":{"kg":29659}
 	}]
 }
