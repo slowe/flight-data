@@ -25,6 +25,14 @@
 		"dist":{"km":1620,"type":"gc"},
 		"emissions":{"kg":19109}
 	},{
+		"id":"EDC587T",
+		"time":"2020-06-26T14:56:13+0100",
+		"airline":"",
+		"aircraft":{"code":"C56X","name":""},
+		"to":{"n":"","ICAO":"","IATA":"","geo":[47.29639,-11.58428],"cc":"TF","continent":"AF"},
+		"dist":{"km":8530,"type":"gc"},
+		"emissions":{"kg":20226}
+	},{
 		"id":"RYR4468",
 		"time":"2020-06-26T17:15:00+0100",
 		"airline":"Ryanair",
