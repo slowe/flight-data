@@ -8,5 +8,45 @@
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":522,"type":"gc"},
 		"emissions":{"kg":7859}
+	},{
+		"id":"ATW960",
+		"time":"2020-06-28T13:15:00+0100",
+		"airline":"Athens Airways",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":522,"type":"gc"},
+		"emissions":{"kg":6902}
+	},{
+		"id":"LOG539",
+		"time":"2020-06-28T15:20:00+0100",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Southampton","ICAO":"EGHI","IATA":"SOU","geo":[-1.35680,50.95030],"cc":"GB","continent":"EU"},
+		"dist":{"km":455,"type":"gc"},
+		"emissions":{"kg":3842}
+	},{
+		"id":"EZY557",
+		"time":"2020-06-28T15:54:10+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
+		"dist":{"km":292,"type":"gc"},
+		"emissions":{"kg":6507}
+	},{
+		"id":"ATW964",
+		"time":"2020-06-28T17:30:00+0100",
+		"airline":"Athens Airways",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":522,"type":"gc"},
+		"emissions":{"kg":8807}
+	},{
+		"id":"LOG538",
+		"time":"2020-06-28T18:54:10+0100",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Aberdeen","ICAO":"EGPD","IATA":"ABZ","geo":[-2.19778,57.20190],"cc":"GB","continent":"EU"},
+		"dist":{"km":242,"type":"gc"},
+		"emissions":{"kg":2925}
 	}]
 }

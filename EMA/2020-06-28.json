@@ -1,12 +1,20 @@
 {
 	"from": {"n":"East Midlands Airport","ICAO":"EGNX","IATA":"EMA","geo":[-1.32806,52.83110],"cc":"GB","continent":"EU"},
 	"flights":[{
+		"id":"BOX360",
+		"time":"2020-06-28T01:09:12+0100",
+		"airline":"",
+		"aircraft":{"code":"B77L","name":"BOEING 777-200"},
+		"to":{"n":"Los Angeles Intl","ICAO":"KLAX","IATA":"LAX","geo":[-118.40800,33.94250],"cc":"US","continent":"NA"},
+		"dist":{"km":8625,"type":"gc"},
+		"emissions":{"kg":254283}
+	},{
 		"id":"RYR9085",
 		"time":"2020-06-28T15:45:00+0100",
 		"airline":"Ryanair",
 		"aircraft":{"code":"B738","name":"BOEING 737-800"},
 		"to":{"n":"Alicante","ICAO":"LEAL","IATA":"ALC","geo":[-0.55816,38.28220],"cc":"ES","continent":"EU"},
-		"dist":{"km":4261,"type":"gc"},
-		"emissions":{"kg":43889}
+		"dist":{"km":1620,"type":"gc"},
+		"emissions":{"kg":19109}
 	}]
 }
