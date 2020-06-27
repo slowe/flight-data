@@ -17,6 +17,14 @@
 		"dist":{"km":383,"type":"gc"},
 		"emissions":{"kg":7355}
 	},{
+		"id":"WZZ8868",
+		"time":"2020-06-27T08:57:42+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"","ICAO":"","IATA":"","geo":[47.29639,-11.58428],"cc":"TF","continent":"AF"},
+		"dist":{"km":8524,"type":"gc"},
+		"emissions":{"kg":98517}
+	},{
 		"id":"BLA152",
 		"time":"2020-06-27T10:00:00+0100",
 		"airline":"",
