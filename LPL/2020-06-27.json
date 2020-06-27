@@ -24,5 +24,13 @@
 		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
 		"dist":{"km":264,"type":"gc"},
 		"emissions":{"kg":6246}
+	},{
+		"id":"BLA2934",
+		"time":"2020-06-27T23:55:00+0100",
+		"airline":"",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Bacău Int'l","ICAO":"LRBC","IATA":"BCM","geo":[26.91030,46.52190],"cc":"RO","continent":"EU"},
+		"dist":{"km":2243,"type":"gc"},
+		"emissions":{"kg":24956}
 	}]
 }
