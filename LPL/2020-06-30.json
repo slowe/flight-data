@@ -8,5 +8,37 @@
 		"to":{"n":"Bucharest Henri Coandă Int'l","ICAO":"LROP","IATA":"OTP","geo":[26.08500,44.57111],"cc":"RO","continent":"EU"},
 		"dist":{"km":2308,"type":"gc"},
 		"emissions":{"kg":25559}
+	},{
+		"id":"LOG542",
+		"time":"2020-06-30T08:31:40+0100",
+		"airline":"",
+		"aircraft":{"code":"AT43","name":""},
+		"to":{"n":"Isle of Man","ICAO":"EGNS","IATA":"IOM","geo":[-4.62389,54.08330],"cc":"IM","continent":"EU"},
+		"dist":{"km":143,"type":"gc"},
+		"emissions":{"kg":1266}
+	},{
+		"id":"WZZ2212",
+		"time":"2020-06-30T08:35:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Budapest Ferenc Liszt International Airport","ICAO":"LHBP","IATA":"BUD","geo":[19.26109,47.42976],"cc":"HU","continent":"EU"},
+		"dist":{"km":1692,"type":"gc"},
+		"emissions":{"kg":19564}
+	},{
+		"id":"LOG548",
+		"time":"2020-06-30T18:00:50+0100",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Isle of Man","ICAO":"EGNS","IATA":"IOM","geo":[-4.62389,54.08330],"cc":"IM","continent":"EU"},
+		"dist":{"km":143,"type":"gc"},
+		"emissions":{"kg":2496}
+	},{
+		"id":"EZY613",
+		"time":"2020-06-30T19:28:20+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
+		"dist":{"km":264,"type":"gc"},
+		"emissions":{"kg":6246}
 	}]
 }
