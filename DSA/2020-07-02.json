@@ -6,15 +6,15 @@
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Int'l Katowice in Pyrzowice","ICAO":"EPKT","IATA":"KTW","geo":[19.08000,50.47430],"cc":"PL","continent":"EU"},
-		"dist":{"km":5902,"type":"gc"},
-		"emissions":{"kg":58835}
+		"dist":{"km":1412,"type":"gc"},
+		"emissions":{"kg":16950}
 	},{
 		"id":"WZZ1816",
 		"time":"2020-07-02T16:45:00+0100",
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Copernicus Wrocław","ICAO":"EPWR","IATA":"WRO","geo":[16.88580,51.10270],"cc":"PL","continent":"EU"},
-		"dist":{"km":5907,"type":"gc"},
-		"emissions":{"kg":58880}
+		"dist":{"km":1243,"type":"gc"},
+		"emissions":{"kg":15373}
 	}]
 }
