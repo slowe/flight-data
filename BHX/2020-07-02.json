@@ -63,7 +63,7 @@
 		"aircraft":{"code":"C510","name":""},
 		"to":{"n":"Linate","ICAO":"LIML","IATA":"LIN","geo":[9.27674,45.44510],"cc":"IT","continent":"EU"},
 		"dist":{"km":1119,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":16492}
 	},{
 		"id":"KLM1426",
 		"time":"2020-07-02T11:30:00+0100",
@@ -111,7 +111,7 @@
 		"aircraft":{"code":"32N","name":""},
 		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
 		"dist":{"km":767,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":12588}
 	},{
 		"id":"RYR9163",
 		"time":"2020-07-02T14:35:00+0100",
