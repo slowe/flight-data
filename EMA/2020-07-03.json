@@ -120,5 +120,13 @@
 		"to":{"n":"Budapest Ferenc Liszt International Airport","ICAO":"LHBP","IATA":"BUD","geo":[19.26109,47.42976],"cc":"HU","continent":"EU"},
 		"dist":{"km":1580,"type":"gc"},
 		"emissions":{"kg":18732}
+	},{
+		"id":"CLU5832",
+		"time":"2020-07-03T23:44:16+0100",
+		"airline":"CargoLogicAir",
+		"aircraft":{"code":"B744","name":"BOEING 747-400"},
+		"to":{"n":"","ICAO":"","IATA":"","geo":[47.29639,-11.58428],"cc":"TF","continent":"AF"},
+		"dist":{"km":8530,"type":"gc"},
+		"emissions":{"kg":325708}
 	}]
 }
