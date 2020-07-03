@@ -9,6 +9,14 @@
 		"dist":{"km":767,"type":"gc"},
 		"emissions":{"kg":10334}
 	},{
+		"id":"RYR1562",
+		"time":"2020-07-03T06:15:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Verona (Villafranca Int'l, Valerio Catullo)","ICAO":"LIPX","IATA":"VRN","geo":[10.88850,45.39570],"cc":"IT","continent":"EU"},
+		"dist":{"km":1210,"type":"gc"},
+		"emissions":{"kg":15256}
+	},{
 		"id":"RYR1448",
 		"time":"2020-07-03T06:20:00+0100",
 		"airline":"Ryanair",
