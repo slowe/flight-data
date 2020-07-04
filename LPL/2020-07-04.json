@@ -39,7 +39,7 @@
 		"aircraft":{"code":"32Q","name":""},
 		"to":{"n":"Warsaw Frederic Chopin","ICAO":"EPWA","IATA":"WAW","geo":[20.96710,52.16570],"cc":"PL","continent":"EU"},
 		"dist":{"km":1602,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":21843}
 	},{
 		"id":"WZZ2212",
 		"time":"2020-07-04T08:35:00+0100",
@@ -47,7 +47,7 @@
 		"aircraft":{"code":"32Q","name":""},
 		"to":{"n":"Budapest Ferenc Liszt International Airport","ICAO":"LHBP","IATA":"BUD","geo":[19.26109,47.42976],"cc":"HU","continent":"EU"},
 		"dist":{"km":1692,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":22842}
 	},{
 		"id":"RYR6338",
 		"time":"2020-07-04T09:45:00+0100",
