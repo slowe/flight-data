@@ -33,6 +33,14 @@
 		"dist":{"km":2055,"type":"gc"},
 		"emissions":{"kg":22946}
 	},{
+		"id":"KLC954",
+		"time":"2020-07-04T10:25:00+0100",
+		"airline":"KLM Cityhopper",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":522,"type":"gc"},
+		"emissions":{"kg":6902}
+	},{
 		"id":"KLM954",
 		"time":"2020-07-04T10:35:00+0100",
 		"airline":"KLM",
