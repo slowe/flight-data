@@ -1,0 +1,20 @@
+{
+	"from": {"n":"Liverpool John Lennon Airport","ICAO":"EGGP","IATA":"LPL","geo":[-2.84972,53.33360],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"RYR4043",
+		"time":"2020-07-07T06:10:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Modlin","ICAO":"EPMO","IATA":"WMI","geo":[20.65180,52.45110],"cc":"PL","continent":"EU"},
+		"dist":{"km":1574,"type":"gc"},
+		"emissions":{"kg":18673}
+	},{
+		"id":"RYR9884",
+		"time":"2020-07-07T06:40:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Palese Macchie","ICAO":"LIBD","IATA":"BRI","geo":[16.76060,41.13890],"cc":"IT","continent":"EU"},
+		"dist":{"km":1997,"type":"gc"},
+		"emissions":{"kg":22646}
+	}]
+}
