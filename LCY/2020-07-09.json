@@ -1,0 +1,12 @@
+{
+	"from": {"n":"London City Airport","ICAO":"EGLC","IATA":"LCY","geo":[0.05528,51.50530],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"LOG626",
+		"time":"2020-07-09T19:10:00+0100",
+		"airline":"",
+		"aircraft":{"code":"AT43","name":""},
+		"to":{"n":"Dundee","ICAO":"EGPN","IATA":"DND","geo":[-3.02583,56.45250],"cc":"GB","continent":"EU"},
+		"dist":{"km":6290,"type":"gc"},
+		"emissions":{"kg":19423}
+	}]
+}
