@@ -6,7 +6,7 @@
 		"airline":"",
 		"aircraft":{"code":"AT43","name":""},
 		"to":{"n":"Dundee","ICAO":"EGPN","IATA":"DND","geo":[-3.02583,56.45250],"cc":"GB","continent":"EU"},
-		"dist":{"km":6290,"type":"gc"},
-		"emissions":{"kg":19423}
+		"dist":{"km":586,"type":"gc"},
+		"emissions":{"kg":2574}
 	}]
 }
