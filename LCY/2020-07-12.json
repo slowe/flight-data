@@ -6,31 +6,55 @@
 		"airline":"British Airways",
 		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
 		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
-		"dist":{"km":4108,"type":"gc"},
-		"emissions":{"kg":34079}
+		"dist":{"km":1689,"type":"gc"},
+		"emissions":{"kg":15746}
 	},{
 		"id":"CFE8487",
 		"time":"2020-07-12T13:10:00+0100",
 		"airline":"BA CityFlyer",
 		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
 		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
-		"dist":{"km":4108,"type":"gc"},
-		"emissions":{"kg":34079}
+		"dist":{"km":1689,"type":"gc"},
+		"emissions":{"kg":15746}
 	},{
 		"id":"BAW8461",
 		"time":"2020-07-12T13:20:00+0100",
 		"airline":"British Airways",
 		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
 		"to":{"n":"Ibiza","ICAO":"LEIB","IATA":"IBZ","geo":[1.37312,38.87290],"cc":"ES","continent":"EU"},
-		"dist":{"km":4329,"type":"gc"},
-		"emissions":{"kg":35751}
+		"dist":{"km":1409,"type":"gc"},
+		"emissions":{"kg":13626}
 	},{
 		"id":"CFE8461",
 		"time":"2020-07-12T13:20:00+0100",
 		"airline":"BA CityFlyer",
 		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
 		"to":{"n":"Ibiza","ICAO":"LEIB","IATA":"IBZ","geo":[1.37312,38.87290],"cc":"ES","continent":"EU"},
-		"dist":{"km":4329,"type":"gc"},
-		"emissions":{"kg":35751}
+		"dist":{"km":1409,"type":"gc"},
+		"emissions":{"kg":13626}
+	},{
+		"id":"BAW8483",
+		"time":"2020-07-12T15:40:00+0100",
+		"airline":"British Airways",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Palma de Mallorca (or Son Sant Joan)","ICAO":"LEPA","IATA":"PMI","geo":[2.73881,39.55170],"cc":"ES","continent":"EU"},
+		"dist":{"km":1346,"type":"gc"},
+		"emissions":{"kg":13147}
+	},{
+		"id":"CFE8483",
+		"time":"2020-07-12T15:40:00+0100",
+		"airline":"BA CityFlyer",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Palma de Mallorca (or Son Sant Joan)","ICAO":"LEPA","IATA":"PMI","geo":[2.73881,39.55170],"cc":"ES","continent":"EU"},
+		"dist":{"km":1346,"type":"gc"},
+		"emissions":{"kg":13147}
+	},{
+		"id":"LOG626",
+		"time":"2020-07-12T19:10:00+0100",
+		"airline":"",
+		"aircraft":{"code":"AT43","name":""},
+		"to":{"n":"Dundee","ICAO":"EGPN","IATA":"DND","geo":[-3.02583,56.45250],"cc":"GB","continent":"EU"},
+		"dist":{"km":586,"type":"gc"},
+		"emissions":{"kg":2574}
 	}]
 }
