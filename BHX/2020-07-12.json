@@ -9,6 +9,14 @@
 		"dist":{"km":1769,"type":"gc"},
 		"emissions":{"kg":20507}
 	},{
+		"id":"RYR1121",
+		"time":"2020-07-12T06:25:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Tenerife South (Reina Sofia)","ICAO":"GCTS","IATA":"TFS","geo":[-16.57250,28.04450],"cc":"ES","continent":"EU"},
+		"dist":{"km":2981,"type":"gc"},
+		"emissions":{"kg":31877}
+	},{
 		"id":"RYR1128",
 		"time":"2020-07-12T07:05:00+0100",
 		"airline":"Ryanair",
