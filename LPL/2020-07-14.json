@@ -16,5 +16,133 @@
 		"to":{"n":"Modlin","ICAO":"EPMO","IATA":"WMI","geo":[20.65180,52.45110],"cc":"PL","continent":"EU"},
 		"dist":{"km":1574,"type":"gc"},
 		"emissions":{"kg":18673}
+	},{
+		"id":"RYR9884",
+		"time":"2020-07-14T06:40:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Palese Macchie","ICAO":"LIBD","IATA":"BRI","geo":[16.76060,41.13890],"cc":"IT","continent":"EU"},
+		"dist":{"km":1997,"type":"gc"},
+		"emissions":{"kg":22646}
+	},{
+		"id":"WZZ1312",
+		"time":"2020-07-14T08:15:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A321","name":"AIRBUS A321"},
+		"to":{"n":"Warsaw Frederic Chopin","ICAO":"EPWA","IATA":"WAW","geo":[20.96710,52.16570],"cc":"PL","continent":"EU"},
+		"dist":{"km":1602,"type":"gc"},
+		"emissions":{"kg":21843}
+	},{
+		"id":"RYR443",
+		"time":"2020-07-14T08:24:10+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":227,"type":"gc"},
+		"emissions":{"kg":6036}
+	},{
+		"id":"LOG682",
+		"time":"2020-07-14T08:31:40+0100",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Isle of Man","ICAO":"EGNS","IATA":"IOM","geo":[-4.62389,54.08330],"cc":"IM","continent":"EU"},
+		"dist":{"km":143,"type":"gc"},
+		"emissions":{"kg":2496}
+	},{
+		"id":"RYR9628",
+		"time":"2020-07-14T09:00:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Poznań-Ławica","ICAO":"EPPO","IATA":"POZ","geo":[16.82630,52.42100],"cc":"PL","continent":"EU"},
+		"dist":{"km":1321,"type":"gc"},
+		"emissions":{"kg":16303}
+	},{
+		"id":"MAY8928",
+		"time":"2020-07-14T09:35:00+0100",
+		"airline":"",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Malta Int'l (Luqa)","ICAO":"LMML","IATA":"MLA","geo":[14.47750,35.85750],"cc":"MT","continent":"EU"},
+		"dist":{"km":2367,"type":"gc"},
+		"emissions":{"kg":26118}
+	},{
+		"id":"RYR6338",
+		"time":"2020-07-14T09:50:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Sofia Airport","ICAO":"LBSF","IATA":"SOF","geo":[23.41144,42.69669],"cc":"BG","continent":"EU"},
+		"dist":{"km":2266,"type":"gc"},
+		"emissions":{"kg":25169}
+	},{
+		"id":"EZY607",
+		"time":"2020-07-14T12:48:20+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
+		"dist":{"km":264,"type":"gc"},
+		"emissions":{"kg":6246}
+	},{
+		"id":"RYR9895",
+		"time":"2020-07-14T13:25:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Cork Int'l","ICAO":"EICK","IATA":"ORK","geo":[-8.49111,51.84130],"cc":"IE","continent":"EU"},
+		"dist":{"km":415,"type":"gc"},
+		"emissions":{"kg":7806}
+	},{
+		"id":"RYR9812",
+		"time":"2020-07-14T13:50:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"City of Derry","ICAO":"EGAE","IATA":"LDY","geo":[-7.16111,55.04280],"cc":"GB","continent":"EU"},
+		"dist":{"km":339,"type":"gc"},
+		"emissions":{"kg":7085}
+	},{
+		"id":"RYR9918",
+		"time":"2020-07-14T14:10:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Bergerac","ICAO":"LFBE","IATA":"EGC","geo":[0.51861,44.82530],"cc":"FR","continent":"EU"},
+		"dist":{"km":978,"type":"gc"},
+		"emissions":{"kg":13081}
+	},{
+		"id":"WZZ2212",
+		"time":"2020-07-14T17:35:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"32Q","name":""},
+		"to":{"n":"Budapest Ferenc Liszt International Airport","ICAO":"LHBP","IATA":"BUD","geo":[19.26109,47.42976],"cc":"HU","continent":"EU"},
+		"dist":{"km":1692,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"LOG686",
+		"time":"2020-07-14T18:00:50+0100",
+		"airline":"",
+		"aircraft":{"code":"AT72","name":"ATR72 200/500/600"},
+		"to":{"n":"Isle of Man","ICAO":"EGNS","IATA":"IOM","geo":[-4.62389,54.08330],"cc":"IM","continent":"EU"},
+		"dist":{"km":143,"type":"gc"},
+		"emissions":{"kg":1419}
+	},{
+		"id":"WZZ3698",
+		"time":"2020-07-14T21:00:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Iasi Int'l","ICAO":"LRIA","IATA":"IAS","geo":[27.62060,47.17850],"cc":"RO","continent":"EU"},
+		"dist":{"km":2254,"type":"gc"},
+		"emissions":{"kg":24804}
+	},{
+		"id":"WZZ3012",
+		"time":"2020-07-14T21:25:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A321","name":"AIRBUS A321"},
+		"to":{"n":"Bucharest Henri Coandă Int'l","ICAO":"LROP","IATA":"OTP","geo":[26.08500,44.57111],"cc":"RO","continent":"EU"},
+		"dist":{"km":2308,"type":"gc"},
+		"emissions":{"kg":29659}
+	},{
+		"id":"WZZ1612",
+		"time":"2020-07-14T21:55:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Gdansk Lech Walesa","ICAO":"EPGD","IATA":"GDN","geo":[18.46620,54.37760],"cc":"PL","continent":"EU"},
+		"dist":{"km":1398,"type":"gc"},
+		"emissions":{"kg":16824}
 	}]
 }
