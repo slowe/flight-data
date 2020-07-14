@@ -1,0 +1,12 @@
+{
+	"from": {"n":"Liverpool John Lennon Airport","ICAO":"EGGP","IATA":"LPL","geo":[-2.84972,53.33360],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"RYR9862",
+		"time":"2020-07-15T06:40:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
+		"dist":{"km":1858,"type":"gc"},
+		"emissions":{"kg":21343}
+	}]
+}
