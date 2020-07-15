@@ -215,7 +215,7 @@
 		"aircraft":{"code":"32N","name":""},
 		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
 		"dist":{"km":767,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":12588}
 	},{
 		"id":"EXS1269",
 		"time":"2020-07-15T14:35:00+0100",
