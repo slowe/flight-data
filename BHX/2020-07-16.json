@@ -264,5 +264,29 @@
 		"to":{"n":"Tenerife South (Reina Sofia)","ICAO":"GCTS","IATA":"TFS","geo":[-16.57250,28.04450],"cc":"ES","continent":"EU"},
 		"dist":{"km":2981,"type":"gc"},
 		"emissions":{"kg":37117}
+	},{
+		"id":"EXS1323",
+		"time":"2020-07-16T15:30:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dalaman","ICAO":"LTBS","IATA":"DLM","geo":[28.79250,36.71310],"cc":"TR","continent":"AS"},
+		"dist":{"km":2952,"type":"gc"},
+		"emissions":{"kg":31608}
+	},{
+		"id":"EXS1267",
+		"time":"2020-07-16T16:00:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Burgas Int'l (Sarafovo)","ICAO":"LBBG","IATA":"BOJ","geo":[27.51520,42.56960],"cc":"BG","continent":"EU"},
+		"dist":{"km":2437,"type":"gc"},
+		"emissions":{"kg":26768}
+	},{
+		"id":"EXS1201",
+		"time":"2020-07-16T16:25:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Arrecife (Lanzarote)","ICAO":"GCRR","IATA":"ACE","geo":[-13.60520,28.94550],"cc":"ES","continent":"EU"},
+		"dist":{"km":2793,"type":"gc"},
+		"emissions":{"kg":30110}
 	}]
 }
