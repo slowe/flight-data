@@ -1,0 +1,12 @@
+{
+	"from": {"n":"Birmingham International Airport","ICAO":"EGBB","IATA":"BHX","geo":[-1.74803,52.45390],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"EXS1233",
+		"time":"2020-07-18T05:55:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Malta Int'l (Luqa)","ICAO":"LMML","IATA":"MLA","geo":[14.47750,35.85750],"cc":"MT","continent":"EU"},
+		"dist":{"km":2245,"type":"gc"},
+		"emissions":{"kg":24970}
+	}]
+}
