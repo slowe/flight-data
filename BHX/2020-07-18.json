@@ -281,6 +281,14 @@
 		"dist":{"km":2186,"type":"gc"},
 		"emissions":{"kg":24421}
 	},{
+		"id":"EXS1201",
+		"time":"2020-07-18T15:30:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"A321","name":"AIRBUS A321"},
+		"to":{"n":"Arrecife (Lanzarote)","ICAO":"GCRR","IATA":"ACE","geo":[-13.60520,28.94550],"cc":"ES","continent":"EU"},
+		"dist":{"km":2793,"type":"gc"},
+		"emissions":{"kg":35032}
+	},{
 		"id":"EXS1241",
 		"time":"2020-07-18T15:30:00+0100",
 		"airline":"Jet2.com",
@@ -288,5 +296,13 @@
 		"to":{"n":"Heraklion Int'l, Nikos Kazantzakis","ICAO":"LGIR","IATA":"HER","geo":[25.18030,35.33970],"cc":"GR","continent":"EU"},
 		"dist":{"km":2849,"type":"gc"},
 		"emissions":{"kg":35660}
+	},{
+		"id":"EXS1265",
+		"time":"2020-07-18T15:30:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Tenerife South (Reina Sofia)","ICAO":"GCTS","IATA":"TFS","geo":[-16.57250,28.04450],"cc":"ES","continent":"EU"},
+		"dist":{"km":2981,"type":"gc"},
+		"emissions":{"kg":31877}
 	}]
 }
