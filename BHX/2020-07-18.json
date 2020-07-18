@@ -401,6 +401,14 @@
 		"dist":{"km":2163,"type":"gc"},
 		"emissions":{"kg":24197}
 	},{
+		"id":"RYR734",
+		"time":"2020-07-18T19:50:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Milan Rastislav Stefanik (Bratislava)","ICAO":"LZIB","IATA":"BTS","geo":[17.21270,48.17020],"cc":"SK","continent":"EU"},
+		"dist":{"km":1424,"type":"gc"},
+		"emissions":{"kg":17270}
+	},{
 		"id":"WZZ1322",
 		"time":"2020-07-18T19:50:00+0100",
 		"airline":"Wizz Air",
