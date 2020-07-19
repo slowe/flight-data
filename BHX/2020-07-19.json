@@ -9,6 +9,14 @@
 		"dist":{"km":1769,"type":"gc"},
 		"emissions":{"kg":20507}
 	},{
+		"id":"EXS1223",
+		"time":"2020-07-19T06:10:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Ioannis Kapodistrias Int'l","ICAO":"LGKR","IATA":"CFU","geo":[19.91170,39.60190],"cc":"GR","continent":"EU"},
+		"dist":{"km":2186,"type":"gc"},
+		"emissions":{"kg":24421}
+	},{
 		"id":"EXS1289",
 		"time":"2020-07-19T06:15:00+0100",
 		"airline":"Jet2.com",
@@ -24,6 +32,14 @@
 		"to":{"n":"Tenerife South (Reina Sofia)","ICAO":"GCTS","IATA":"TFS","geo":[-16.57250,28.04450],"cc":"ES","continent":"EU"},
 		"dist":{"km":2981,"type":"gc"},
 		"emissions":{"kg":31877}
+	},{
+		"id":"EXS1285",
+		"time":"2020-07-19T06:25:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Almeria Int'l","ICAO":"LEAM","IATA":"LEI","geo":[-2.37010,36.84390],"cc":"ES","continent":"EU"},
+		"dist":{"km":1738,"type":"gc"},
+		"emissions":{"kg":20213}
 	},{
 		"id":"RYR1128",
 		"time":"2020-07-19T07:05:00+0100",
