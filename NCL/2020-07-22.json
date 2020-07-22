@@ -9,6 +9,14 @@
 		"dist":{"km":522,"type":"gc"},
 		"emissions":{"kg":7859}
 	},{
+		"id":"EXS593",
+		"time":"2020-07-22T06:10:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Zakynthos Int'l, Dionysios Solomos","ICAO":"LGZA","IATA":"ZTH","geo":[20.88430,37.75090],"cc":"GR","continent":"EU"},
+		"dist":{"km":2566,"type":"gc"},
+		"emissions":{"kg":27985}
+	},{
 		"id":"ATW954",
 		"time":"2020-07-22T09:30:00+0100",
 		"airline":"Athens Airways",
