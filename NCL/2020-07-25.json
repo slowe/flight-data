@@ -1,0 +1,12 @@
+{
+	"from": {"n":"Newcastle Airport","ICAO":"EGNT","IATA":"NCL","geo":[-1.69167,55.03750],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"EZY6407",
+		"time":"2020-07-25T05:50:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
+		"dist":{"km":2055,"type":"gc"},
+		"emissions":{"kg":22946}
+	}]
+}
