@@ -49,6 +49,14 @@
 		"dist":{"km":1476,"type":"gc"},
 		"emissions":{"kg":17759}
 	},{
+		"id":"TOM7548",
+		"time":"2020-07-24T07:35:00+0100",
+		"airline":"Thomson Airways",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Tenerife South (Reina Sofia)","ICAO":"GCTS","IATA":"TFS","geo":[-16.57250,28.04450],"cc":"ES","continent":"EU"},
+		"dist":{"km":2981,"type":"gc"},
+		"emissions":{"kg":31877}
+	},{
 		"id":"EXS1331",
 		"time":"2020-07-24T08:00:00+0100",
 		"airline":"Jet2.com",
