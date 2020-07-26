@@ -280,5 +280,21 @@
 		"to":{"n":"Modlin","ICAO":"EPMO","IATA":"WMI","geo":[20.65180,52.45110],"cc":"PL","continent":"EU"},
 		"dist":{"km":1513,"type":"gc"},
 		"emissions":{"kg":18103}
+	},{
+		"id":"RYR8514",
+		"time":"2020-07-26T21:15:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Porto / Oporto","ICAO":"LPPR","IATA":"OPO","geo":[-8.68139,41.24810],"cc":"PT","continent":"EU"},
+		"dist":{"km":1352,"type":"gc"},
+		"emissions":{"kg":16597}
+	},{
+		"id":"WZZ3316",
+		"time":"2020-07-26T21:35:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Cluj-Napoca Int'l (Someşeni)","ICAO":"LRCL","IATA":"CLJ","geo":[23.68620,46.78520],"cc":"RO","continent":"EU"},
+		"dist":{"km":1927,"type":"gc"},
+		"emissions":{"kg":21757}
 	}]
 }
