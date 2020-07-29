@@ -1,0 +1,28 @@
+{
+	"from": {"n":"Liverpool John Lennon Airport","ICAO":"EGGP","IATA":"LPL","geo":[-2.84972,53.33360],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"EZY7179",
+		"time":"2020-07-30T06:00:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
+		"dist":{"km":1858,"type":"gc"},
+		"emissions":{"kg":21114}
+	},{
+		"id":"RYR7111",
+		"time":"2020-07-30T06:00:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Szczecin","ICAO":"EPSC","IATA":"SZZ","geo":[14.90220,53.58470],"cc":"PL","continent":"EU"},
+		"dist":{"km":1173,"type":"gc"},
+		"emissions":{"kg":14917}
+	},{
+		"id":"RYR4205",
+		"time":"2020-07-30T06:40:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Ioannis Kapodistrias Int'l","ICAO":"LGKR","IATA":"CFU","geo":[19.91170,39.60190],"cc":"GR","continent":"EU"},
+		"dist":{"km":2301,"type":"gc"},
+		"emissions":{"kg":25498}
+	}]
+}
