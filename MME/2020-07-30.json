@@ -6,7 +6,7 @@
 		"airline":"Eastern Airways",
 		"aircraft":{"code":"JS41","name":""},
 		"to":{"n":"George Best Belfast City","ICAO":"EGAC","IATA":"BHD","geo":[-5.87250,54.61810],"cc":"GB","continent":"EU"},
-		"dist":{"km":6103,"type":"gc"},
-		"emissions":{"kg":18043}
+		"dist":{"km":286,"type":"gc"},
+		"emissions":{"kg":1352}
 	}]
 }
