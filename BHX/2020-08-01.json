@@ -240,5 +240,13 @@
 		"to":{"n":"Heraklion Int'l, Nikos Kazantzakis","ICAO":"LGIR","IATA":"HER","geo":[25.18030,35.33970],"cc":"GR","continent":"EU"},
 		"dist":{"km":2849,"type":"gc"},
 		"emissions":{"kg":30642}
+	},{
+		"id":"EXS1269",
+		"time":"2020-08-01T15:30:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Larnaca Int'l","ICAO":"LCLK","IATA":"LCA","geo":[33.62490,34.87510],"cc":"CY","continent":"AS"},
+		"dist":{"km":3402,"type":"gc"},
+		"emissions":{"kg":35830}
 	}]
 }
