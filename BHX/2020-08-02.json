@@ -9,6 +9,14 @@
 		"dist":{"km":1769,"type":"gc"},
 		"emissions":{"kg":20507}
 	},{
+		"id":"EXS1223",
+		"time":"2020-08-02T06:10:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Ioannis Kapodistrias Int'l","ICAO":"LGKR","IATA":"CFU","geo":[19.91170,39.60190],"cc":"GR","continent":"EU"},
+		"dist":{"km":2186,"type":"gc"},
+		"emissions":{"kg":24421}
+	},{
 		"id":"EXS1289",
 		"time":"2020-08-02T06:25:00+0100",
 		"airline":"Jet2.com",
@@ -40,6 +48,14 @@
 		"to":{"n":"Zakynthos Int'l, Dionysios Solomos","ICAO":"LGZA","IATA":"ZTH","geo":[20.88430,37.75090],"cc":"GR","continent":"EU"},
 		"dist":{"km":2398,"type":"gc"},
 		"emissions":{"kg":26402}
+	},{
+		"id":"EXS1275",
+		"time":"2020-08-02T07:20:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"A321","name":"AIRBUS A321"},
+		"to":{"n":"Palma de Mallorca (or Son Sant Joan)","ICAO":"LEPA","IATA":"PMI","geo":[2.73881,39.55170],"cc":"ES","continent":"EU"},
+		"dist":{"km":1476,"type":"gc"},
+		"emissions":{"kg":20450}
 	},{
 		"id":"RYR748",
 		"time":"2020-08-02T07:55:00+0100",
