@@ -17,6 +17,14 @@
 		"dist":{"km":2927,"type":"gc"},
 		"emissions":{"kg":31369}
 	},{
+		"id":"EXS641",
+		"time":"2020-08-02T06:30:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Alicante","ICAO":"LEAL","IATA":"ALC","geo":[-0.55816,38.28220],"cc":"ES","continent":"EU"},
+		"dist":{"km":1620,"type":"gc"},
+		"emissions":{"kg":19109}
+	},{
 		"id":"RYR1956",
 		"time":"2020-08-02T06:30:00+0100",
 		"airline":"Ryanair",
@@ -48,6 +56,14 @@
 		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
 		"dist":{"km":1815,"type":"gc"},
 		"emissions":{"kg":20936}
+	},{
+		"id":"EXS601",
+		"time":"2020-08-02T07:45:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Palma de Mallorca (or Son Sant Joan)","ICAO":"LEPA","IATA":"PMI","geo":[2.73881,39.55170],"cc":"ES","continent":"EU"},
+		"dist":{"km":1510,"type":"gc"},
+		"emissions":{"kg":18075}
 	},{
 		"id":"EXS699",
 		"time":"2020-08-02T08:40:00+0100",
