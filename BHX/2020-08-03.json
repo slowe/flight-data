@@ -33,6 +33,14 @@
 		"dist":{"km":2853,"type":"gc"},
 		"emissions":{"kg":30672}
 	},{
+		"id":"EXS1275",
+		"time":"2020-08-03T07:20:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"A321","name":"AIRBUS A321"},
+		"to":{"n":"Palma de Mallorca (or Son Sant Joan)","ICAO":"LEPA","IATA":"PMI","geo":[2.73881,39.55170],"cc":"ES","continent":"EU"},
+		"dist":{"km":1476,"type":"gc"},
+		"emissions":{"kg":20450}
+	},{
 		"id":"RYR2266",
 		"time":"2020-08-03T07:30:00+0100",
 		"airline":"Ryanair",
