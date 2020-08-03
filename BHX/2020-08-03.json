@@ -17,6 +17,22 @@
 		"dist":{"km":767,"type":"gc"},
 		"emissions":{"kg":8754}
 	},{
+		"id":"EXS1215",
+		"time":"2020-08-03T06:30:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"A321","name":"AIRBUS A321"},
+		"to":{"n":"Alicante","ICAO":"LEAL","IATA":"ALC","geo":[-0.55816,38.28220],"cc":"ES","continent":"EU"},
+		"dist":{"km":1580,"type":"gc"},
+		"emissions":{"kg":21596}
+	},{
+		"id":"RYR3741",
+		"time":"2020-08-03T06:30:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"El Matorral","ICAO":"GCFV","IATA":"FUE","geo":[-13.86380,28.45270],"cc":"ES","continent":"EU"},
+		"dist":{"km":2853,"type":"gc"},
+		"emissions":{"kg":30672}
+	},{
 		"id":"RYR2266",
 		"time":"2020-08-03T07:30:00+0100",
 		"airline":"Ryanair",
