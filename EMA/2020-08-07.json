@@ -25,6 +25,14 @@
 		"dist":{"km":336,"type":"gc"},
 		"emissions":{"kg":7061}
 	},{
+		"id":"RYR4458",
+		"time":"2020-08-07T06:40:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
+		"dist":{"km":1815,"type":"gc"},
+		"emissions":{"kg":20936}
+	},{
 		"id":"RYR1073",
 		"time":"2020-08-07T06:50:00+0100",
 		"airline":"Ryanair",
