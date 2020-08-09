@@ -6,7 +6,7 @@
 		"airline":"KLM",
 		"aircraft":{"code":"E170","name":"EMB ERJ170 (170-100)"},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
-		"dist":{"km":5839,"type":"gc"},
-		"emissions":{"kg":40737}
+		"dist":{"km":370,"type":"gc"},
+		"emissions":{"kg":4758}
 	}]
 }
