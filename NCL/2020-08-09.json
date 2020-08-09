@@ -25,6 +25,14 @@
 		"dist":{"km":522,"type":"gc"},
 		"emissions":{"kg":6902}
 	},{
+		"id":"EZY6433",
+		"time":"2020-08-09T06:10:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Ioannis Kapodistrias Int'l","ICAO":"LGKR","IATA":"CFU","geo":[19.91170,39.60190],"cc":"GR","continent":"EU"},
+		"dist":{"km":2349,"type":"gc"},
+		"emissions":{"kg":25690}
+	},{
 		"id":"EXS569",
 		"time":"2020-08-09T06:20:00+0100",
 		"airline":"Jet2.com",
