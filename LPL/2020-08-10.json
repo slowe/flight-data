@@ -232,5 +232,13 @@
 		"to":{"n":"Porto / Oporto","ICAO":"LPPR","IATA":"OPO","geo":[-8.68139,41.24810],"cc":"PT","continent":"EU"},
 		"dist":{"km":1414,"type":"gc"},
 		"emissions":{"kg":17173}
+	},{
+		"id":"EZY7143",
+		"time":"2020-08-10T18:45:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Palma de Mallorca (or Son Sant Joan)","ICAO":"LEPA","IATA":"PMI","geo":[2.73881,39.55170],"cc":"ES","continent":"EU"},
+		"dist":{"km":1591,"type":"gc"},
+		"emissions":{"kg":18622}
 	}]
 }
