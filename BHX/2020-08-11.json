@@ -1,6 +1,14 @@
 {
 	"from": {"n":"Birmingham International Airport","ICAO":"EGBB","IATA":"BHX","geo":[-1.74803,52.45390],"cc":"GB","continent":"EU"},
 	"flights":[{
+		"id":"EZY1916",
+		"time":"2020-08-11T02:19:10+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"Manchester","ICAO":"EGCC","IATA":"MAN","geo":[-2.27495,53.35370],"cc":"GB","continent":"EU"},
+		"dist":{"km":106,"type":"gc"},
+		"emissions":{"kg":5269}
+	},{
 		"id":"RYR1121",
 		"time":"2020-08-11T05:45:00+0100",
 		"airline":"Ryanair",
