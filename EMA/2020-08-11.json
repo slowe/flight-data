@@ -33,6 +33,14 @@
 		"dist":{"km":336,"type":"gc"},
 		"emissions":{"kg":7061}
 	},{
+		"id":"TOM7222",
+		"time":"2020-08-11T06:55:00+0100",
+		"airline":"Thomson Airways",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Zakynthos Int'l, Dionysios Solomos","ICAO":"LGZA","IATA":"ZTH","geo":[20.88430,37.75090],"cc":"GR","continent":"EU"},
+		"dist":{"km":2398,"type":"gc"},
+		"emissions":{"kg":26408}
+	},{
 		"id":"RYR6031",
 		"time":"2020-08-11T07:00:00+0100",
 		"airline":"Ryanair",
