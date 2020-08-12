@@ -47,7 +47,7 @@
 		"aircraft":{"code":"C510","name":""},
 		"to":{"n":"Lubeck","ICAO":"EDHL","IATA":"LBC","geo":[10.71920,53.80540],"cc":"DE","continent":"EU"},
 		"dist":{"km":763,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":12548}
 	},{
 		"id":"LOG626",
 		"time":"2020-08-12T19:10:00+0100",
