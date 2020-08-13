@@ -41,6 +41,14 @@
 		"dist":{"km":1326,"type":"gc"},
 		"emissions":{"kg":16345}
 	},{
+		"id":"RYR3901",
+		"time":"2020-08-13T06:15:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Malta Int'l (Luqa)","ICAO":"LMML","IATA":"MLA","geo":[14.47750,35.85750],"cc":"MT","continent":"EU"},
+		"dist":{"km":2245,"type":"gc"},
+		"emissions":{"kg":24970}
+	},{
 		"id":"EXS1245",
 		"time":"2020-08-13T07:00:00+0100",
 		"airline":"Jet2.com",
