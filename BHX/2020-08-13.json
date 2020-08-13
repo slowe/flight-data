@@ -248,5 +248,13 @@
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":442,"type":"gc"},
 		"emissions":{"kg":6295}
+	},{
+		"id":"EZY196",
+		"time":"2020-08-13T18:15:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
+		"dist":{"km":383,"type":"gc"},
+		"emissions":{"kg":7355}
 	}]
 }
