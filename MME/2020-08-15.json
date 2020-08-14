@@ -1,0 +1,28 @@
+{
+	"from": {"n":"Durham Tees Valley Airport","ICAO":"EGNV","IATA":"MME","geo":[-1.42941,54.50920],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"SUS699",
+		"time":"2020-08-15T09:20:00+0100",
+		"airline":"Sun Air of Scandinavia",
+		"aircraft":{"code":"HA4T","name":""},
+		"to":{"n":"Shannon","ICAO":"EINN","IATA":"SNN","geo":[-8.92482,52.70200],"cc":"IE","continent":"EU"},
+		"dist":{"km":5925,"type":"gc"},
+		"emissions":{"kg":20212}
+	},{
+		"id":"KLM1534",
+		"time":"2020-08-15T10:15:00+0100",
+		"airline":"KLM",
+		"aircraft":{"code":"E75L","name":""},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":5839,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"N288Z",
+		"time":"2020-08-15T14:00:00+0100",
+		"airline":"",
+		"aircraft":{"code":"GLF6","name":""},
+		"to":{"n":"North Eleuthera","ICAO":"MYEH","IATA":"ELH","geo":[-76.68350,25.47490],"cc":"BS","continent":"NA"},
+		"dist":{"km":8682,"type":"gc"},
+		"emissions":{"kg":47996}
+	}]
+}
