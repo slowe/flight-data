@@ -280,5 +280,13 @@
 		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
 		"dist":{"km":1769,"type":"gc"},
 		"emissions":{"kg":20507}
+	},{
+		"id":"LOG67",
+		"time":"2020-08-14T16:57:30+0100",
+		"airline":"",
+		"aircraft":{"code":"E145","name":""},
+		"to":{"n":"Bristol Int'l","ICAO":"EGGD","IATA":"BRS","geo":[-2.71909,51.38270],"cc":"GB","continent":"EU"},
+		"dist":{"km":136,"type":"gc"},
+		"emissions":{"kg":2465}
 	}]
 }
