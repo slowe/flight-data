@@ -344,5 +344,21 @@
 		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
 		"dist":{"km":403,"type":"gc"},
 		"emissions":{"kg":7536}
+	},{
+		"id":"RYR669",
+		"time":"2020-08-14T20:55:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":321,"type":"gc"},
+		"emissions":{"kg":6923}
+	},{
+		"id":"WZZ3020",
+		"time":"2020-08-14T20:55:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A321","name":"AIRBUS A321"},
+		"to":{"n":"Bucharest Henri Coandă Int'l","ICAO":"LROP","IATA":"OTP","geo":[26.08500,44.57111],"cc":"RO","continent":"EU"},
+		"dist":{"km":2214,"type":"gc"},
+		"emissions":{"kg":28621}
 	}]
 }
