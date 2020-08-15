@@ -17,6 +17,14 @@
 		"dist":{"km":767,"type":"gc"},
 		"emissions":{"kg":8754}
 	},{
+		"id":"RYR1212",
+		"time":"2020-08-15T06:35:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Bydgoszcz Ignacy Jan Paderewski","ICAO":"EPBY","IATA":"BZG","geo":[17.97770,53.09680],"cc":"PL","continent":"EU"},
+		"dist":{"km":1326,"type":"gc"},
+		"emissions":{"kg":16345}
+	},{
 		"id":"RYR2152",
 		"time":"2020-08-15T07:25:00+0100",
 		"airline":"Ryanair",

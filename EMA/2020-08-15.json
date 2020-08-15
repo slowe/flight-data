@@ -1,6 +1,14 @@
 {
 	"from": {"n":"East Midlands Airport","ICAO":"EGNX","IATA":"EMA","geo":[-1.32806,52.83110],"cc":"GB","continent":"EU"},
 	"flights":[{
+		"id":"AJT928",
+		"time":"2020-08-15T03:50:00+0100",
+		"airline":"Amerijet International",
+		"aircraft":{"code":"B763","name":"BOEING 767-300ER/F"},
+		"to":{"n":"Miami Intl","ICAO":"KMIA","IATA":"MIA","geo":[-80.29060,25.79320],"cc":"US","continent":"NA"},
+		"dist":{"km":7035,"type":"gc"},
+		"emissions":{"kg":133382}
+	},{
 		"id":"EXS695",
 		"time":"2020-08-15T05:55:00+0100",
 		"airline":"Jet2.com",
