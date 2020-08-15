@@ -272,5 +272,13 @@
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":442,"type":"gc"},
 		"emissions":{"kg":6295}
+	},{
+		"id":"RYR1253",
+		"time":"2020-08-15T17:55:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Int'l Katowice in Pyrzowice","ICAO":"EPKT","IATA":"KTW","geo":[19.08000,50.47430],"cc":"PL","continent":"EU"},
+		"dist":{"km":1455,"type":"gc"},
+		"emissions":{"kg":17563}
 	}]
 }
