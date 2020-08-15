@@ -1,0 +1,12 @@
+{
+	"from": {"n":"Humberside Airport","ICAO":"EGNJ","IATA":"HUY","geo":[-0.35083,53.57440],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"KLM1486",
+		"time":"2020-08-16T10:00:00+0100",
+		"airline":"KLM",
+		"aircraft":{"code":"E75L","name":""},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":5839,"type":"gc"},
+		"emissions":{"kg":0}
+	}]
+}
