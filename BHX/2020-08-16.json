@@ -273,6 +273,14 @@
 		"dist":{"km":1517,"type":"gc"},
 		"emissions":{"kg":18137}
 	},{
+		"id":"RYR2151",
+		"time":"2020-08-16T18:15:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Alicante","ICAO":"LEAL","IATA":"ALC","geo":[-0.55816,38.28220],"cc":"ES","continent":"EU"},
+		"dist":{"km":1580,"type":"gc"},
+		"emissions":{"kg":18730}
+	},{
 		"id":"RYR2162",
 		"time":"2020-08-16T18:15:00+0100",
 		"airline":"Ryanair",
@@ -280,5 +288,21 @@
 		"to":{"n":"Palma de Mallorca (or Son Sant Joan)","ICAO":"LEPA","IATA":"PMI","geo":[2.73881,39.55170],"cc":"ES","continent":"EU"},
 		"dist":{"km":1476,"type":"gc"},
 		"emissions":{"kg":17759}
+	},{
+		"id":"AIC6132",
+		"time":"2020-08-16T18:20:00+0100",
+		"airline":"Air India",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"George Best Belfast City","ICAO":"EGAC","IATA":"BHD","geo":[-5.87250,54.61810],"cc":"GB","continent":"EU"},
+		"dist":{"km":363,"type":"gc"},
+		"emissions":{"kg":3071}
+	},{
+		"id":"AIC6110",
+		"time":"2020-08-16T18:50:00+0100",
+		"airline":"Air India",
+		"aircraft":{"code":"E75L","name":""},
+		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
+		"dist":{"km":418,"type":"gc"},
+		"emissions":{"kg":0}
 	}]
 }
