@@ -384,5 +384,21 @@
 		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
 		"dist":{"km":403,"type":"gc"},
 		"emissions":{"kg":7536}
+	},{
+		"id":"WZZ3316",
+		"time":"2020-08-16T21:35:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Cluj-Napoca Int'l (Someşeni)","ICAO":"LRCL","IATA":"CLJ","geo":[23.68620,46.78520],"cc":"RO","continent":"EU"},
+		"dist":{"km":1927,"type":"gc"},
+		"emissions":{"kg":21757}
+	},{
+		"id":"EZY514",
+		"time":"2020-08-16T21:40:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A319","name":"AIRBUS A319"},
+		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
+		"dist":{"km":418,"type":"gc"},
+		"emissions":{"kg":7251}
 	}]
 }
