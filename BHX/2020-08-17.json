@@ -240,5 +240,13 @@
 		"to":{"n":"Madeira Int'l (Funchal)","ICAO":"LPMA","IATA":"FNC","geo":[-16.77450,32.69790],"cc":"PT","continent":"EU"},
 		"dist":{"km":2509,"type":"gc"},
 		"emissions":{"kg":27445}
+	},{
+		"id":"EXS1239",
+		"time":"2020-08-17T15:30:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Antalya","ICAO":"LTAI","IATA":"AYT","geo":[30.80050,36.89870],"cc":"TR","continent":"AS"},
+		"dist":{"km":3063,"type":"gc"},
+		"emissions":{"kg":32648}
 	}]
 }
