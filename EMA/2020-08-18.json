@@ -1,0 +1,12 @@
+{
+	"from": {"n":"East Midlands Airport","ICAO":"EGNX","IATA":"EMA","geo":[-1.32806,52.83110],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"RYR7622",
+		"time":"2020-08-18T06:15:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Rzeszow/Jasionka","ICAO":"EPRZ","IATA":"RZE","geo":[22.01900,50.11000],"cc":"PL","continent":"EU"},
+		"dist":{"km":1639,"type":"gc"},
+		"emissions":{"kg":19284}
+	}]
+}
