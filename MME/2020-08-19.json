@@ -1,0 +1,12 @@
+{
+	"from": {"n":"Durham Tees Valley Airport","ICAO":"EGNV","IATA":"MME","geo":[-1.42941,54.50920],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"KLM1534",
+		"time":"2020-08-19T10:20:00+0100",
+		"airline":"KLM",
+		"aircraft":{"code":"E170","name":"EMB ERJ170 (170-100)"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":5839,"type":"gc"},
+		"emissions":{"kg":40737}
+	}]
+}
