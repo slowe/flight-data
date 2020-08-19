@@ -8,5 +8,189 @@
 		"to":{"n":"Palma de Mallorca (or Son Sant Joan)","ICAO":"LEPA","IATA":"PMI","geo":[2.73881,39.55170],"cc":"ES","continent":"EU"},
 		"dist":{"km":1755,"type":"gc"},
 		"emissions":{"kg":19078}
+	},{
+		"id":"ATW952",
+		"time":"2020-08-20T06:05:00+0100",
+		"airline":"Athens Airways",
+		"aircraft":{"code":"B737","name":""},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":522,"type":"gc"},
+		"emissions":{"kg":7859}
+	},{
+		"id":"KLM952",
+		"time":"2020-08-20T06:05:00+0100",
+		"airline":"KLM",
+		"aircraft":{"code":"E170","name":"EMB ERJ170 (170-100)"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":522,"type":"gc"},
+		"emissions":{"kg":5757}
+	},{
+		"id":"EZY6407",
+		"time":"2020-08-20T07:00:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
+		"dist":{"km":2055,"type":"gc"},
+		"emissions":{"kg":22946}
+	},{
+		"id":"RYR2347",
+		"time":"2020-08-20T08:50:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Palma de Mallorca (or Son Sant Joan)","ICAO":"LEPA","IATA":"PMI","geo":[2.73881,39.55170],"cc":"ES","continent":"EU"},
+		"dist":{"km":1755,"type":"gc"},
+		"emissions":{"kg":20370}
+	},{
+		"id":"ATW954",
+		"time":"2020-08-20T09:30:00+0100",
+		"airline":"Athens Airways",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":522,"type":"gc"},
+		"emissions":{"kg":6902}
+	},{
+		"id":"RYR5159",
+		"time":"2020-08-20T09:30:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Malaga","ICAO":"LEMG","IATA":"AGP","geo":[-4.49911,36.67490],"cc":"ES","continent":"EU"},
+		"dist":{"km":2055,"type":"gc"},
+		"emissions":{"kg":23186}
+	},{
+		"id":"EXS597",
+		"time":"2020-08-20T09:45:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Faro","ICAO":"LPFR","IATA":"FAO","geo":[-7.96591,37.01440],"cc":"PT","continent":"EU"},
+		"dist":{"km":2062,"type":"gc"},
+		"emissions":{"kg":23250}
+	},{
+		"id":"KLM954",
+		"time":"2020-08-20T10:35:00+0100",
+		"airline":"KLM",
+		"aircraft":{"code":"E170","name":"EMB ERJ170 (170-100)"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":522,"type":"gc"},
+		"emissions":{"kg":5757}
+	},{
+		"id":"EXS545",
+		"time":"2020-08-20T10:50:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Arrecife (Lanzarote)","ICAO":"GCRR","IATA":"ACE","geo":[-13.60520,28.94550],"cc":"ES","continent":"EU"},
+		"dist":{"km":3057,"type":"gc"},
+		"emissions":{"kg":32589}
+	},{
+		"id":"AFR1059",
+		"time":"2020-08-20T11:25:00+0100",
+		"airline":"Air France",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
+		"dist":{"km":730,"type":"gc"},
+		"emissions":{"kg":8477}
+	},{
+		"id":"HOP1059",
+		"time":"2020-08-20T11:25:00+0100",
+		"airline":"HOP!",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Charles de Gaulle/Roissy","ICAO":"LFPG","IATA":"CDG","geo":[2.55000,49.01280],"cc":"FR","continent":"EU"},
+		"dist":{"km":730,"type":"gc"},
+		"emissions":{"kg":8477}
+	},{
+		"id":"BAW1327",
+		"time":"2020-08-20T11:45:00+0100",
+		"airline":"British Airways",
+		"aircraft":{"code":"A319","name":"AIRBUS A319"},
+		"to":{"n":"London Heathrow","ICAO":"EGLL","IATA":"LHR","geo":[-0.46194,51.47060],"cc":"GB","continent":"EU"},
+		"dist":{"km":405,"type":"gc"},
+		"emissions":{"kg":7134}
+	},{
+		"id":"EXS541",
+		"time":"2020-08-20T12:05:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Gran Canaria Int'l","ICAO":"GCLP","IATA":"LPA","geo":[-15.38660,27.93190],"cc":"ES","continent":"EU"},
+		"dist":{"km":3213,"type":"gc"},
+		"emissions":{"kg":34048}
+	},{
+		"id":"ATW960",
+		"time":"2020-08-20T13:45:00+0100",
+		"airline":"Athens Airways",
+		"aircraft":{"code":"E170","name":"EMB ERJ170 (170-100)"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":522,"type":"gc"},
+		"emissions":{"kg":5757}
+	},{
+		"id":"LOG5",
+		"time":"2020-08-20T14:13:20+0100",
+		"airline":"",
+		"aircraft":{"code":"E135","name":""},
+		"to":{"n":"Aberdeen","ICAO":"EGPD","IATA":"ABZ","geo":[-2.19778,57.20190],"cc":"GB","continent":"EU"},
+		"dist":{"km":242,"type":"gc"},
+		"emissions":{"kg":2759}
+	},{
+		"id":"EZY567",
+		"time":"2020-08-20T14:45:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Bristol Int'l","ICAO":"EGGD","IATA":"BRS","geo":[-2.71909,51.38270],"cc":"GB","continent":"EU"},
+		"dist":{"km":412,"type":"gc"},
+		"emissions":{"kg":7623}
+	},{
+		"id":"EZY553",
+		"time":"2020-08-20T15:29:10+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
+		"dist":{"km":292,"type":"gc"},
+		"emissions":{"kg":6507}
+	},{
+		"id":"EZY6433",
+		"time":"2020-08-20T15:35:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Ioannis Kapodistrias Int'l","ICAO":"LGKR","IATA":"CFU","geo":[19.91170,39.60190],"cc":"GR","continent":"EU"},
+		"dist":{"km":2349,"type":"gc"},
+		"emissions":{"kg":25690}
+	},{
+		"id":"RYR4080",
+		"time":"2020-08-20T16:40:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Alicante","ICAO":"LEAL","IATA":"ALC","geo":[-0.55816,38.28220],"cc":"ES","continent":"EU"},
+		"dist":{"km":1867,"type":"gc"},
+		"emissions":{"kg":21421}
+	},{
+		"id":"ATW964",
+		"time":"2020-08-20T17:30:00+0100",
+		"airline":"Athens Airways",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":522,"type":"gc"},
+		"emissions":{"kg":8807}
+	},{
+		"id":"KLM964",
+		"time":"2020-08-20T17:30:00+0100",
+		"airline":"KLM",
+		"aircraft":{"code":"E170","name":"EMB ERJ170 (170-100)"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":522,"type":"gc"},
+		"emissions":{"kg":5757}
+	},{
+		"id":"EZY559",
+		"time":"2020-08-20T21:19:10+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A319","name":"AIRBUS A319"},
+		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
+		"dist":{"km":292,"type":"gc"},
+		"emissions":{"kg":6139}
+	},{
+		"id":"EZY569",
+		"time":"2020-08-20T21:45:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Bristol Int'l","ICAO":"EGGD","IATA":"BRS","geo":[-2.71909,51.38270],"cc":"GB","continent":"EU"},
+		"dist":{"km":412,"type":"gc"},
+		"emissions":{"kg":7623}
 	}]
 }
