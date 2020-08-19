@@ -216,5 +216,13 @@
 		"to":{"n":"Paphos Int'l","ICAO":"LCPH","IATA":"PFO","geo":[32.48570,34.71800],"cc":"CY","continent":"AS"},
 		"dist":{"km":3343,"type":"gc"},
 		"emissions":{"kg":35276}
+	},{
+		"id":"RYR1465",
+		"time":"2020-08-19T15:35:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Krakow Int'l","ICAO":"EPKK","IATA":"KRK","geo":[19.78480,50.07770],"cc":"PL","continent":"EU"},
+		"dist":{"km":1517,"type":"gc"},
+		"emissions":{"kg":18137}
 	}]
 }
