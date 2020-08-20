@@ -287,7 +287,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
 		"dist":{"km":418,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":8730}
 	},{
 		"id":"AIC6118",
 		"time":"2020-08-20T18:50:00+0100",
