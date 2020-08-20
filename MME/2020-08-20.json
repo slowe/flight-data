@@ -6,15 +6,15 @@
 		"airline":"Eastern Airways",
 		"aircraft":{"code":"JS41","name":""},
 		"to":{"n":"George Best Belfast City","ICAO":"EGAC","IATA":"BHD","geo":[-5.87250,54.61810],"cc":"GB","continent":"EU"},
-		"dist":{"km":6103,"type":"gc"},
-		"emissions":{"kg":18043}
+		"dist":{"km":286,"type":"gc"},
+		"emissions":{"kg":1352}
 	},{
 		"id":"SUS9199",
 		"time":"2020-08-20T13:35:00+0100",
 		"airline":"Sun Air of Scandinavia",
 		"aircraft":{"code":"HA4T","name":""},
 		"to":{"n":"Billund","ICAO":"EKBI","IATA":"BLL","geo":[9.15178,55.74030],"cc":"DK","continent":"EU"},
-		"dist":{"km":6260,"type":"gc"},
-		"emissions":{"kg":21252}
+		"dist":{"km":686,"type":"gc"},
+		"emissions":{"kg":3930}
 	}]
 }
