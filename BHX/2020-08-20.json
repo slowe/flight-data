@@ -288,5 +288,29 @@
 		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
 		"dist":{"km":418,"type":"gc"},
 		"emissions":{"kg":0}
+	},{
+		"id":"AIC6118",
+		"time":"2020-08-20T18:50:00+0100",
+		"airline":"Air India",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
+		"dist":{"km":403,"type":"gc"},
+		"emissions":{"kg":3263}
+	},{
+		"id":"RYR734",
+		"time":"2020-08-20T19:35:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Milan Rastislav Stefanik (Bratislava)","ICAO":"LZIB","IATA":"BTS","geo":[17.21270,48.17020],"cc":"SK","continent":"EU"},
+		"dist":{"km":1424,"type":"gc"},
+		"emissions":{"kg":17270}
+	},{
+		"id":"AIC6106",
+		"time":"2020-08-20T19:55:00+0100",
+		"airline":"Air India",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"George Best Belfast City","ICAO":"EGAC","IATA":"BHD","geo":[-5.87250,54.61810],"cc":"GB","continent":"EU"},
+		"dist":{"km":363,"type":"gc"},
+		"emissions":{"kg":3071}
 	}]
 }
