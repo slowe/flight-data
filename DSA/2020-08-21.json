@@ -7,7 +7,7 @@
 		"aircraft":{"code":"32Q","name":""},
 		"to":{"n":"Warsaw Frederic Chopin","ICAO":"EPWA","IATA":"WAW","geo":[20.96710,52.16570],"cc":"PL","continent":"EU"},
 		"dist":{"km":1479,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":20482}
 	},{
 		"id":"WZZ3314",
 		"time":"2020-08-21T19:45:00+0100",
