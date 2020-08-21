@@ -1,0 +1,36 @@
+{
+	"from": {"n":"Birmingham International Airport","ICAO":"EGBB","IATA":"BHX","geo":[-1.74803,52.45390],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"KLM1420",
+		"time":"2020-08-22T06:00:00+0100",
+		"airline":"KLM",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":442,"type":"gc"},
+		"emissions":{"kg":6295}
+	},{
+		"id":"CLH959",
+		"time":"2020-08-22T06:10:00+0100",
+		"airline":"Lufthansa CityLine",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
+		"dist":{"km":767,"type":"gc"},
+		"emissions":{"kg":8754}
+	},{
+		"id":"EXS1215",
+		"time":"2020-08-22T06:40:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Alicante","ICAO":"LEAL","IATA":"ALC","geo":[-0.55816,38.28220],"cc":"ES","continent":"EU"},
+		"dist":{"km":1580,"type":"gc"},
+		"emissions":{"kg":18730}
+	},{
+		"id":"RYR1212",
+		"time":"2020-08-22T06:45:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Bydgoszcz Ignacy Jan Paderewski","ICAO":"EPBY","IATA":"BZG","geo":[17.97770,53.09680],"cc":"PL","continent":"EU"},
+		"dist":{"km":1326,"type":"gc"},
+		"emissions":{"kg":16345}
+	}]
+}
