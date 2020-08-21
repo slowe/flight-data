@@ -241,6 +241,14 @@
 		"dist":{"km":455,"type":"gc"},
 		"emissions":{"kg":3595}
 	},{
+		"id":"ATW964",
+		"time":"2020-08-21T17:30:00+0100",
+		"airline":"Athens Airways",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":522,"type":"gc"},
+		"emissions":{"kg":8807}
+	},{
 		"id":"KLM964",
 		"time":"2020-08-21T17:30:00+0100",
 		"airline":"KLM",

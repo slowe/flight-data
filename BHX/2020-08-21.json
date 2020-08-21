@@ -280,5 +280,21 @@
 		"to":{"n":"Copernicus Wrocław","ICAO":"EPWR","IATA":"WRO","geo":[16.88580,51.10270],"cc":"PL","continent":"EU"},
 		"dist":{"km":1288,"type":"gc"},
 		"emissions":{"kg":15794}
+	},{
+		"id":"RYR2083",
+		"time":"2020-08-21T16:35:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Barajas Int'l","ICAO":"LEMD","IATA":"MAD","geo":[-3.56264,40.47193],"cc":"ES","continent":"EU"},
+		"dist":{"km":1340,"type":"gc"},
+		"emissions":{"kg":16484}
+	},{
+		"id":"RYR3711",
+		"time":"2020-08-21T16:45:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Faro","ICAO":"LPFR","IATA":"FAO","geo":[-7.96591,37.01440],"cc":"PT","continent":"EU"},
+		"dist":{"km":1786,"type":"gc"},
+		"emissions":{"kg":20660}
 	}]
 }
