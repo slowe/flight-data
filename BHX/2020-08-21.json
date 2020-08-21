@@ -240,5 +240,45 @@
 		"to":{"n":"Zakynthos Int'l, Dionysios Solomos","ICAO":"LGZA","IATA":"ZTH","geo":[20.88430,37.75090],"cc":"GR","continent":"EU"},
 		"dist":{"km":2398,"type":"gc"},
 		"emissions":{"kg":26402}
+	},{
+		"id":"EZY194",
+		"time":"2020-08-21T15:40:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A319","name":"AIRBUS A319"},
+		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
+		"dist":{"km":383,"type":"gc"},
+		"emissions":{"kg":6943}
+	},{
+		"id":"EXS1247",
+		"time":"2020-08-21T16:00:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Milas-Bodrum","ICAO":"LTFE","IATA":"BJV","geo":[27.66430,37.25060],"cc":"TR","continent":"AS"},
+		"dist":{"km":2840,"type":"gc"},
+		"emissions":{"kg":30551}
+	},{
+		"id":"EXS1265",
+		"time":"2020-08-21T16:00:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Tenerife South (Reina Sofia)","ICAO":"GCTS","IATA":"TFS","geo":[-16.57250,28.04450],"cc":"ES","continent":"EU"},
+		"dist":{"km":2981,"type":"gc"},
+		"emissions":{"kg":31877}
+	},{
+		"id":"EXS1209",
+		"time":"2020-08-21T16:15:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dalaman","ICAO":"LTBS","IATA":"DLM","geo":[28.79250,36.71310],"cc":"TR","continent":"AS"},
+		"dist":{"km":2952,"type":"gc"},
+		"emissions":{"kg":31608}
+	},{
+		"id":"WZZ1808",
+		"time":"2020-08-21T16:25:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Copernicus Wrocław","ICAO":"EPWR","IATA":"WRO","geo":[16.88580,51.10270],"cc":"PL","continent":"EU"},
+		"dist":{"km":1288,"type":"gc"},
+		"emissions":{"kg":15794}
 	}]
 }

@@ -240,5 +240,45 @@
 		"to":{"n":"Alicante","ICAO":"LEAL","IATA":"ALC","geo":[-0.55816,38.28220],"cc":"ES","continent":"EU"},
 		"dist":{"km":1684,"type":"gc"},
 		"emissions":{"kg":19489}
+	},{
+		"id":"RYR9898",
+		"time":"2020-08-21T19:45:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Alicante","ICAO":"LEAL","IATA":"ALC","geo":[-0.55816,38.28220],"cc":"ES","continent":"EU"},
+		"dist":{"km":1684,"type":"gc"},
+		"emissions":{"kg":19709}
+	},{
+		"id":"EZY7195",
+		"time":"2020-08-21T20:00:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A319","name":"AIRBUS A319"},
+		"to":{"n":"Faro","ICAO":"LPFR","IATA":"FAO","geo":[-7.96591,37.01440],"cc":"PT","continent":"EU"},
+		"dist":{"km":1859,"type":"gc"},
+		"emissions":{"kg":19999}
+	},{
+		"id":"RYR9646",
+		"time":"2020-08-21T20:20:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Krakow Int'l","ICAO":"EPKK","IATA":"KRK","geo":[19.78480,50.07770],"cc":"PL","continent":"EU"},
+		"dist":{"km":1595,"type":"gc"},
+		"emissions":{"kg":18874}
+	},{
+		"id":"EZY613",
+		"time":"2020-08-21T20:38:20+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A319","name":"AIRBUS A319"},
+		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
+		"dist":{"km":264,"type":"gc"},
+		"emissions":{"kg":5891}
+	},{
+		"id":"RYR449",
+		"time":"2020-08-21T22:24:10+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":227,"type":"gc"},
+		"emissions":{"kg":6036}
 	}]
 }

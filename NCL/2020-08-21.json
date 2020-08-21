@@ -240,5 +240,13 @@
 		"to":{"n":"Southampton","ICAO":"EGHI","IATA":"SOU","geo":[-1.35680,50.95030],"cc":"GB","continent":"EU"},
 		"dist":{"km":455,"type":"gc"},
 		"emissions":{"kg":3595}
+	},{
+		"id":"KLM964",
+		"time":"2020-08-21T17:30:00+0100",
+		"airline":"KLM",
+		"aircraft":{"code":"E170","name":"EMB ERJ170 (170-100)"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":522,"type":"gc"},
+		"emissions":{"kg":5757}
 	}]
 }
