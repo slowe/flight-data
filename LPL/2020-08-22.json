@@ -295,6 +295,6 @@
 		"aircraft":{"code":"32N","name":""},
 		"to":{"n":"Gdansk Lech Walesa","ICAO":"EPGD","IATA":"GDN","geo":[18.46620,54.37760],"cc":"PL","continent":"EU"},
 		"dist":{"km":1398,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":19588}
 	}]
 }
