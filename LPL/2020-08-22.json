@@ -57,6 +57,14 @@
 		"dist":{"km":264,"type":"gc"},
 		"emissions":{"kg":6246}
 	},{
+		"id":"EZY601",
+		"time":"2020-08-22T07:06:40+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
+		"dist":{"km":264,"type":"gc"},
+		"emissions":{"kg":6246}
+	},{
 		"id":"RYR9895",
 		"time":"2020-08-22T07:10:00+0100",
 		"airline":"Ryanair",

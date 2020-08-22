@@ -288,5 +288,29 @@
 		"to":{"n":"Kos Island Int'l, Ippokratis (Hippocrates)","ICAO":"LGKO","IATA":"KGS","geo":[27.09170,36.79330],"cc":"GR","continent":"EU"},
 		"dist":{"km":2842,"type":"gc"},
 		"emissions":{"kg":30568}
+	},{
+		"id":"EXS1265",
+		"time":"2020-08-22T16:50:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Tenerife South (Reina Sofia)","ICAO":"GCTS","IATA":"TFS","geo":[-16.57250,28.04450],"cc":"ES","continent":"EU"},
+		"dist":{"km":2981,"type":"gc"},
+		"emissions":{"kg":31877}
+	},{
+		"id":"CLH2511",
+		"time":"2020-08-22T17:10:00+0100",
+		"airline":"Lufthansa CityLine",
+		"aircraft":{"code":"CRJ9","name":""},
+		"to":{"n":"Munich Int'l","ICAO":"EDDM","IATA":"MUC","geo":[11.69030,48.13780],"cc":"DE","continent":"EU"},
+		"dist":{"km":1067,"type":"gc"},
+		"emissions":{"kg":9092}
+	},{
+		"id":"KLM1432",
+		"time":"2020-08-22T17:40:00+0100",
+		"airline":"KLM",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":442,"type":"gc"},
+		"emissions":{"kg":6295}
 	}]
 }
