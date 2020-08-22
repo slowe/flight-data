@@ -352,5 +352,21 @@
 		"to":{"n":"Milan Rastislav Stefanik (Bratislava)","ICAO":"LZIB","IATA":"BTS","geo":[17.21270,48.17020],"cc":"SK","continent":"EU"},
 		"dist":{"km":1424,"type":"gc"},
 		"emissions":{"kg":17270}
+	},{
+		"id":"WZZ2218",
+		"time":"2020-08-22T19:45:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Budapest Ferenc Liszt International Airport","ICAO":"LHBP","IATA":"BUD","geo":[19.26109,47.42976],"cc":"HU","continent":"EU"},
+		"dist":{"km":1598,"type":"gc"},
+		"emissions":{"kg":18686}
+	},{
+		"id":"RYR669",
+		"time":"2020-08-22T20:55:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dublin Int'l","ICAO":"EIDW","IATA":"DUB","geo":[-6.27007,53.42130],"cc":"IE","continent":"EU"},
+		"dist":{"km":321,"type":"gc"},
+		"emissions":{"kg":6923}
 	}]
 }
