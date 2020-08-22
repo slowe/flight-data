@@ -1,6 +1,14 @@
 {
 	"from": {"n":"Birmingham International Airport","ICAO":"EGBB","IATA":"BHX","geo":[-1.74803,52.45390],"cc":"GB","continent":"EU"},
 	"flights":[{
+		"id":"EXS1209",
+		"time":"2020-08-22T05:50:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dalaman","ICAO":"LTBS","IATA":"DLM","geo":[28.79250,36.71310],"cc":"TR","continent":"AS"},
+		"dist":{"km":2952,"type":"gc"},
+		"emissions":{"kg":31608}
+	},{
 		"id":"KLM1420",
 		"time":"2020-08-22T06:00:00+0100",
 		"airline":"KLM",
@@ -16,6 +24,22 @@
 		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
 		"dist":{"km":767,"type":"gc"},
 		"emissions":{"kg":8754}
+	},{
+		"id":"EXS1313",
+		"time":"2020-08-22T06:10:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Dubrovnik","ICAO":"LDDU","IATA":"DBV","geo":[18.26820,42.56140],"cc":"HR","continent":"EU"},
+		"dist":{"km":1854,"type":"gc"},
+		"emissions":{"kg":21304}
+	},{
+		"id":"EXS1315",
+		"time":"2020-08-22T06:10:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Bergerac","ICAO":"LFBE","IATA":"EGC","geo":[0.51861,44.82530],"cc":"FR","continent":"EU"},
+		"dist":{"km":865,"type":"gc"},
+		"emissions":{"kg":12022}
 	},{
 		"id":"EXS1215",
 		"time":"2020-08-22T06:40:00+0100",
