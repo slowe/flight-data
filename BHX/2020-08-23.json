@@ -17,6 +17,14 @@
 		"dist":{"km":442,"type":"gc"},
 		"emissions":{"kg":5230}
 	},{
+		"id":"EXS1223",
+		"time":"2020-08-23T06:10:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Ioannis Kapodistrias Int'l","ICAO":"LGKR","IATA":"CFU","geo":[19.91170,39.60190],"cc":"GR","continent":"EU"},
+		"dist":{"km":2186,"type":"gc"},
+		"emissions":{"kg":24421}
+	},{
 		"id":"EXS1289",
 		"time":"2020-08-23T06:15:00+0100",
 		"airline":"Jet2.com",
