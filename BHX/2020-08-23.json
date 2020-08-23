@@ -17,6 +17,14 @@
 		"dist":{"km":442,"type":"gc"},
 		"emissions":{"kg":5230}
 	},{
+		"id":"EXS1289",
+		"time":"2020-08-23T06:15:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Pula","ICAO":"LDPL","IATA":"PUY","geo":[13.92220,44.89350],"cc":"HR","continent":"EU"},
+		"dist":{"km":1421,"type":"gc"},
+		"emissions":{"kg":17242}
+	},{
 		"id":"RYR1121",
 		"time":"2020-08-23T06:35:00+0100",
 		"airline":"Ryanair",
