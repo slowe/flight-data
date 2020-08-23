@@ -303,7 +303,7 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
 		"dist":{"km":418,"type":"gc"},
-		"emissions":{"kg":8730}
+		"emissions":{"kg":0}
 	},{
 		"id":"AIC6118",
 		"time":"2020-08-23T18:50:00+0100",
@@ -312,5 +312,13 @@
 		"to":{"n":"Edinburgh","ICAO":"EGPH","IATA":"EDI","geo":[-3.37250,55.95000],"cc":"GB","continent":"EU"},
 		"dist":{"km":403,"type":"gc"},
 		"emissions":{"kg":3263}
+	},{
+		"id":"MAY3901",
+		"time":"2020-08-23T19:30:00+0100",
+		"airline":"",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Malta Int'l (Luqa)","ICAO":"LMML","IATA":"MLA","geo":[14.47750,35.85750],"cc":"MT","continent":"EU"},
+		"dist":{"km":2245,"type":"gc"},
+		"emissions":{"kg":24970}
 	}]
 }
