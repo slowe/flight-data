@@ -73,6 +73,14 @@
 		"dist":{"km":1684,"type":"gc"},
 		"emissions":{"kg":19709}
 	},{
+		"id":"EZY7193",
+		"time":"2020-08-23T07:10:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A319","name":"AIRBUS A319"},
+		"to":{"n":"Faro","ICAO":"LPFR","IATA":"FAO","geo":[-7.96591,37.01440],"cc":"PT","continent":"EU"},
+		"dist":{"km":1859,"type":"gc"},
+		"emissions":{"kg":19999}
+	},{
 		"id":"RYR9862",
 		"time":"2020-08-23T08:10:00+0100",
 		"airline":"Ryanair",
@@ -280,5 +288,13 @@
 		"to":{"n":"Iasi Int'l","ICAO":"LRIA","IATA":"IAS","geo":[27.62060,47.17850],"cc":"RO","continent":"EU"},
 		"dist":{"km":2254,"type":"gc"},
 		"emissions":{"kg":24804}
+	},{
+		"id":"WZZ1012",
+		"time":"2020-08-23T21:55:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Int'l Katowice in Pyrzowice","ICAO":"EPKT","IATA":"KTW","geo":[19.08000,50.47430],"cc":"PL","continent":"EU"},
+		"dist":{"km":1532,"type":"gc"},
+		"emissions":{"kg":18074}
 	}]
 }
