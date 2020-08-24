@@ -233,6 +233,14 @@
 		"dist":{"km":1340,"type":"gc"},
 		"emissions":{"kg":16484}
 	},{
+		"id":"EXS1225",
+		"time":"2020-08-24T15:30:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Madeira Int'l (Funchal)","ICAO":"LPMA","IATA":"FNC","geo":[-16.77450,32.69790],"cc":"PT","continent":"EU"},
+		"dist":{"km":2509,"type":"gc"},
+		"emissions":{"kg":27445}
+	},{
 		"id":"EXS1293",
 		"time":"2020-08-24T15:30:00+0100",
 		"airline":"Jet2.com",
