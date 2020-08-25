@@ -6,7 +6,7 @@
 		"airline":"Eastern Airways",
 		"aircraft":{"code":"JS41","name":""},
 		"to":{"n":"Aberdeen","ICAO":"EGPD","IATA":"ABZ","geo":[-2.19778,57.20190],"cc":"GB","continent":"EU"},
-		"dist":{"km":6370,"type":"gc"},
-		"emissions":{"kg":18809}
+		"dist":{"km":420,"type":"gc"},
+		"emissions":{"kg":1734}
 	}]
 }

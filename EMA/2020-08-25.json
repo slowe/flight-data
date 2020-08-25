@@ -25,6 +25,14 @@
 		"dist":{"km":1639,"type":"gc"},
 		"emissions":{"kg":19284}
 	},{
+		"id":"BOX330",
+		"time":"2020-08-25T06:25:36+0100",
+		"airline":"",
+		"aircraft":{"code":"B77L","name":"BOEING 777-200"},
+		"to":{"n":"Los Angeles Intl","ICAO":"KLAX","IATA":"LAX","geo":[-118.40800,33.94250],"cc":"US","continent":"NA"},
+		"dist":{"km":8625,"type":"gc"},
+		"emissions":{"kg":254283}
+	},{
 		"id":"RYR6031",
 		"time":"2020-08-25T07:00:00+0100",
 		"airline":"Ryanair",
