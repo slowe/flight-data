@@ -240,5 +240,37 @@
 		"to":{"n":"Malta Int'l (Luqa)","ICAO":"LMML","IATA":"MLA","geo":[14.47750,35.85750],"cc":"MT","continent":"EU"},
 		"dist":{"km":2245,"type":"gc"},
 		"emissions":{"kg":24970}
+	},{
+		"id":"CLH2511",
+		"time":"2020-08-25T17:10:00+0100",
+		"airline":"Lufthansa CityLine",
+		"aircraft":{"code":"CRJ9","name":""},
+		"to":{"n":"Munich Int'l","ICAO":"EDDM","IATA":"MUC","geo":[11.69030,48.13780],"cc":"DE","continent":"EU"},
+		"dist":{"km":1067,"type":"gc"},
+		"emissions":{"kg":9092}
+	},{
+		"id":"KLM1432",
+		"time":"2020-08-25T17:40:00+0100",
+		"airline":"KLM",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":442,"type":"gc"},
+		"emissions":{"kg":6295}
+	},{
+		"id":"AIC6132",
+		"time":"2020-08-25T18:20:00+0100",
+		"airline":"Air India",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"George Best Belfast City","ICAO":"EGAC","IATA":"BHD","geo":[-5.87250,54.61810],"cc":"GB","continent":"EU"},
+		"dist":{"km":363,"type":"gc"},
+		"emissions":{"kg":3071}
+	},{
+		"id":"AIC6162",
+		"time":"2020-08-25T18:30:00+0100",
+		"airline":"Air India",
+		"aircraft":{"code":"DH8D","name":"BOMBARDIER DASH 8 Q400"},
+		"to":{"n":"Aberdeen","ICAO":"EGPD","IATA":"ABZ","geo":[-2.19778,57.20190],"cc":"GB","continent":"EU"},
+		"dist":{"km":529,"type":"gc"},
+		"emissions":{"kg":3877}
 	}]
 }

@@ -248,5 +248,13 @@
 		"to":{"n":"Gdansk Lech Walesa","ICAO":"EPGD","IATA":"GDN","geo":[18.46620,54.37760],"cc":"PL","continent":"EU"},
 		"dist":{"km":1398,"type":"gc"},
 		"emissions":{"kg":0}
+	},{
+		"id":"WZZ2212",
+		"time":"2020-08-25T22:00:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Budapest Ferenc Liszt International Airport","ICAO":"LHBP","IATA":"BUD","geo":[19.26109,47.42976],"cc":"HU","continent":"EU"},
+		"dist":{"km":1692,"type":"gc"},
+		"emissions":{"kg":19564}
 	}]
 }
