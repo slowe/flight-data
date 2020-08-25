@@ -272,5 +272,13 @@
 		"to":{"n":"Aberdeen","ICAO":"EGPD","IATA":"ABZ","geo":[-2.19778,57.20190],"cc":"GB","continent":"EU"},
 		"dist":{"km":529,"type":"gc"},
 		"emissions":{"kg":3877}
+	},{
+		"id":"RYR6336",
+		"time":"2020-08-25T18:35:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Sofia Airport","ICAO":"LBSF","IATA":"SOF","geo":[23.41144,42.69669],"cc":"BG","continent":"EU"},
+		"dist":{"km":2163,"type":"gc"},
+		"emissions":{"kg":24197}
 	}]
 }
