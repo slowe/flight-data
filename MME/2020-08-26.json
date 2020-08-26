@@ -6,7 +6,7 @@
 		"airline":"KLM",
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
-		"dist":{"km":5839,"type":"gc"},
-		"emissions":{"kg":0}
+		"dist":{"km":478,"type":"gc"},
+		"emissions":{"kg":9389}
 	}]
 }
