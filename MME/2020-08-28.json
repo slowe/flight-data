@@ -1,0 +1,20 @@
+{
+	"from": {"n":"Durham Tees Valley Airport","ICAO":"EGNV","IATA":"MME","geo":[-1.42941,54.50920],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"KLM1534",
+		"time":"2020-08-28T10:15:00+0100",
+		"airline":"KLM",
+		"aircraft":{"code":"E75L","name":""},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":5839,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"EZE7744",
+		"time":"2020-08-28T11:40:00+0100",
+		"airline":"Eastern Airways",
+		"aircraft":{"code":"JS41","name":""},
+		"to":{"n":"George Best Belfast City","ICAO":"EGAC","IATA":"BHD","geo":[-5.87250,54.61810],"cc":"GB","continent":"EU"},
+		"dist":{"km":6103,"type":"gc"},
+		"emissions":{"kg":18043}
+	}]
+}
