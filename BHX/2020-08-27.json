@@ -9,6 +9,14 @@
 		"dist":{"km":2981,"type":"gc"},
 		"emissions":{"kg":31877}
 	},{
+		"id":"CLH959",
+		"time":"2020-08-27T06:00:00+0100",
+		"airline":"Lufthansa CityLine",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Frankfurt Int'l","ICAO":"EDDF","IATA":"FRA","geo":[8.57056,50.03333],"cc":"DE","continent":"EU"},
+		"dist":{"km":767,"type":"gc"},
+		"emissions":{"kg":8754}
+	},{
 		"id":"KLM1420",
 		"time":"2020-08-27T06:00:00+0100",
 		"airline":"KLM",
