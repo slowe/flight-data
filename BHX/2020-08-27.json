@@ -241,6 +241,14 @@
 		"dist":{"km":2606,"type":"gc"},
 		"emissions":{"kg":30335}
 	},{
+		"id":"CLH2511",
+		"time":"2020-08-27T17:10:00+0100",
+		"airline":"Lufthansa CityLine",
+		"aircraft":{"code":"CRJ9","name":""},
+		"to":{"n":"Munich Int'l","ICAO":"EDDM","IATA":"MUC","geo":[11.69030,48.13780],"cc":"DE","continent":"EU"},
+		"dist":{"km":1067,"type":"gc"},
+		"emissions":{"kg":9092}
+	},{
 		"id":"RYR2151",
 		"time":"2020-08-27T17:10:00+0100",
 		"airline":"Ryanair",
@@ -248,5 +256,29 @@
 		"to":{"n":"Alicante","ICAO":"LEAL","IATA":"ALC","geo":[-0.55816,38.28220],"cc":"ES","continent":"EU"},
 		"dist":{"km":1580,"type":"gc"},
 		"emissions":{"kg":18730}
+	},{
+		"id":"EZY514",
+		"time":"2020-08-27T17:25:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A319","name":"AIRBUS A319"},
+		"to":{"n":"Glasgow Int'l","ICAO":"EGPF","IATA":"GLA","geo":[-4.43306,55.87190],"cc":"GB","continent":"EU"},
+		"dist":{"km":418,"type":"gc"},
+		"emissions":{"kg":7251}
+	},{
+		"id":"KLM1432",
+		"time":"2020-08-27T17:40:00+0100",
+		"airline":"KLM",
+		"aircraft":{"code":"B737","name":""},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":442,"type":"gc"},
+		"emissions":{"kg":7156}
+	},{
+		"id":"EZY196",
+		"time":"2020-08-27T18:05:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Belfast Int'l","ICAO":"EGAA","IATA":"BFS","geo":[-6.21583,54.65750],"cc":"GB","continent":"EU"},
+		"dist":{"km":383,"type":"gc"},
+		"emissions":{"kg":7355}
 	}]
 }
