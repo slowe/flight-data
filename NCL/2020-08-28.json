@@ -1,6 +1,14 @@
 {
 	"from": {"n":"Newcastle Airport","ICAO":"EGNT","IATA":"NCL","geo":[-1.69167,55.03750],"cc":"GB","continent":"EU"},
 	"flights":[{
+		"id":"KLC952",
+		"time":"2020-08-28T05:55:00+0100",
+		"airline":"KLM Cityhopper",
+		"aircraft":{"code":"E190","name":"EMBRAER ERJ190"},
+		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
+		"dist":{"km":522,"type":"gc"},
+		"emissions":{"kg":6902}
+	},{
 		"id":"ATW952",
 		"time":"2020-08-28T06:05:00+0100",
 		"airline":"Athens Airways",
@@ -239,6 +247,6 @@
 		"aircraft":{"code":"E75L","name":""},
 		"to":{"n":"Amsterdam Schiphol","ICAO":"EHAM","IATA":"AMS","geo":[4.76389,52.30860],"cc":"NL","continent":"EU"},
 		"dist":{"km":522,"type":"gc"},
-		"emissions":{"kg":0}
+		"emissions":{"kg":9881}
 	}]
 }
