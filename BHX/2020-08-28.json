@@ -273,6 +273,14 @@
 		"dist":{"km":383,"type":"gc"},
 		"emissions":{"kg":6943}
 	},{
+		"id":"EXS1247",
+		"time":"2020-08-28T16:00:00+0100",
+		"airline":"Jet2.com",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Milas-Bodrum","ICAO":"LTFE","IATA":"BJV","geo":[27.66430,37.25060],"cc":"TR","continent":"AS"},
+		"dist":{"km":2840,"type":"gc"},
+		"emissions":{"kg":30551}
+	},{
 		"id":"EXS1265",
 		"time":"2020-08-28T16:00:00+0100",
 		"airline":"Jet2.com",
