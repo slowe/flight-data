@@ -272,5 +272,13 @@
 		"to":{"n":"Alicante","ICAO":"LEAL","IATA":"ALC","geo":[-0.55816,38.28220],"cc":"ES","continent":"EU"},
 		"dist":{"km":1867,"type":"gc"},
 		"emissions":{"kg":21191}
+	},{
+		"id":"EZY569",
+		"time":"2020-08-28T21:35:00+0100",
+		"airline":"easyJet",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Bristol Int'l","ICAO":"EGGD","IATA":"BRS","geo":[-2.71909,51.38270],"cc":"GB","continent":"EU"},
+		"dist":{"km":412,"type":"gc"},
+		"emissions":{"kg":7623}
 	}]
 }
