@@ -384,5 +384,13 @@
 		"to":{"n":"Warsaw Frederic Chopin","ICAO":"EPWA","IATA":"WAW","geo":[20.96710,52.16570],"cc":"PL","continent":"EU"},
 		"dist":{"km":1539,"type":"gc"},
 		"emissions":{"kg":21149}
+	},{
+		"id":"RYR2162",
+		"time":"2020-08-28T20:25:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Palma de Mallorca (or Son Sant Joan)","ICAO":"LEPA","IATA":"PMI","geo":[2.73881,39.55170],"cc":"ES","continent":"EU"},
+		"dist":{"km":1476,"type":"gc"},
+		"emissions":{"kg":17759}
 	}]
 }
