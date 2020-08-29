@@ -145,6 +145,14 @@
 		"dist":{"km":959,"type":"gc"},
 		"emissions":{"kg":12036}
 	},{
+		"id":"RYR9628",
+		"time":"2020-08-29T13:20:00+0100",
+		"airline":"Ryanair",
+		"aircraft":{"code":"B738","name":"BOEING 737-800"},
+		"to":{"n":"Poznań-Ławica","ICAO":"EPPO","IATA":"POZ","geo":[16.82630,52.42100],"cc":"PL","continent":"EU"},
+		"dist":{"km":1321,"type":"gc"},
+		"emissions":{"kg":16303}
+	},{
 		"id":"RYR9886",
 		"time":"2020-08-29T14:10:00+0100",
 		"airline":"Ryanair",
