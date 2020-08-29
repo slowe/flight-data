@@ -9,6 +9,14 @@
 		"dist":{"km":7035,"type":"gc"},
 		"emissions":{"kg":133382}
 	},{
+		"id":"ABR1471",
+		"time":"2020-08-29T05:01:34+0100",
+		"airline":"",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"","ICAO":"","IATA":"","geo":[47.29639,-11.58428],"cc":"TF","continent":"AF"},
+		"dist":{"km":8530,"type":"gc"},
+		"emissions":{"kg":98582}
+	},{
 		"id":"EXS695",
 		"time":"2020-08-29T06:05:00+0100",
 		"airline":"Jet2.com",
