@@ -7,7 +7,7 @@
 		"aircraft":{"code":"32N","name":""},
 		"to":{"n":"Poznań-Ławica","ICAO":"EPPO","IATA":"POZ","geo":[16.82630,52.42100],"cc":"PL","continent":"EU"},
 		"dist":{"km":1198,"type":"gc"},
-		"emissions":{"kg":17372}
+		"emissions":{"kg":0}
 	},{
 		"id":"WZZ1616",
 		"time":"2020-09-01T20:55:00+0100",
@@ -23,6 +23,6 @@
 		"aircraft":{"code":"32N","name":""},
 		"to":{"n":"Int'l Katowice in Pyrzowice","ICAO":"EPKT","IATA":"KTW","geo":[19.08000,50.47430],"cc":"PL","continent":"EU"},
 		"dist":{"km":1412,"type":"gc"},
-		"emissions":{"kg":19738}
+		"emissions":{"kg":0}
 	}]
 }
