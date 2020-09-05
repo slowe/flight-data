@@ -6,23 +6,23 @@
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Poznań-Ławica","ICAO":"EPPO","IATA":"POZ","geo":[16.82630,52.42100],"cc":"PL","continent":"EU"},
-		"dist":{"km":6043,"type":"gc"},
-		"emissions":{"kg":60144}
+		"dist":{"km":1198,"type":"gc"},
+		"emissions":{"kg":14958}
 	},{
 		"id":"WZZ1616",
 		"time":"2020-09-05T20:55:00+0100",
 		"airline":"Wizz Air",
 		"aircraft":{"code":"32N","name":""},
 		"to":{"n":"Gdansk Lech Walesa","ICAO":"EPGD","IATA":"GDN","geo":[18.46620,54.37760],"cc":"PL","continent":"EU"},
-		"dist":{"km":6285,"type":"gc"},
-		"emissions":{"kg":0}
+		"dist":{"km":1276,"type":"gc"},
+		"emissions":{"kg":18230}
 	},{
 		"id":"WZZ1016",
 		"time":"2020-09-05T21:55:00+0100",
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Int'l Katowice in Pyrzowice","ICAO":"EPKT","IATA":"KTW","geo":[19.08000,50.47430],"cc":"PL","continent":"EU"},
-		"dist":{"km":5902,"type":"gc"},
-		"emissions":{"kg":58835}
+		"dist":{"km":1412,"type":"gc"},
+		"emissions":{"kg":16950}
 	}]
 }
