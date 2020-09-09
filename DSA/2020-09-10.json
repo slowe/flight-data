@@ -1,0 +1,44 @@
+{
+	"from": {"n":"Robin Hood Doncaster Sheffield Airport","ICAO":"EGCN","IATA":"DSA","geo":[-1.01066,53.48054],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"WZZ1816",
+		"time":"2020-09-10T16:45:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Copernicus Wrocław","ICAO":"EPWR","IATA":"WRO","geo":[16.88580,51.10270],"cc":"PL","continent":"EU"},
+		"dist":{"km":5907,"type":"gc"},
+		"emissions":{"kg":58880}
+	},{
+		"id":"WZZ1916",
+		"time":"2020-09-10T16:50:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"32N","name":""},
+		"to":{"n":"Poznań-Ławica","ICAO":"EPPO","IATA":"POZ","geo":[16.82630,52.42100],"cc":"PL","continent":"EU"},
+		"dist":{"km":6043,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"WZZ1616",
+		"time":"2020-09-10T20:55:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"32N","name":""},
+		"to":{"n":"Gdansk Lech Walesa","ICAO":"EPGD","IATA":"GDN","geo":[18.46620,54.37760],"cc":"PL","continent":"EU"},
+		"dist":{"km":6285,"type":"gc"},
+		"emissions":{"kg":0}
+	},{
+		"id":"WZZ3016",
+		"time":"2020-09-10T21:45:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A321","name":"AIRBUS A321"},
+		"to":{"n":"Bucharest Henri Coandă Int'l","ICAO":"LROP","IATA":"OTP","geo":[26.08500,44.57111],"cc":"RO","continent":"EU"},
+		"dist":{"km":5590,"type":"gc"},
+		"emissions":{"kg":66017}
+	},{
+		"id":"WZZ1016",
+		"time":"2020-09-10T21:55:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"32N","name":""},
+		"to":{"n":"Int'l Katowice in Pyrzowice","ICAO":"EPKT","IATA":"KTW","geo":[19.08000,50.47430],"cc":"PL","continent":"EU"},
+		"dist":{"km":5902,"type":"gc"},
+		"emissions":{"kg":0}
+	}]
+}
