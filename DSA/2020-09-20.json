@@ -6,31 +6,31 @@
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A321","name":"AIRBUS A321"},
 		"to":{"n":"Krakow Int'l","ICAO":"EPKK","IATA":"KRK","geo":[19.78480,50.07770],"cc":"PL","continent":"EU"},
-		"dist":{"km":5883,"type":"gc"},
-		"emissions":{"kg":69261}
+		"dist":{"km":1475,"type":"gc"},
+		"emissions":{"kg":20436}
 	},{
 		"id":"WZZ2510",
 		"time":"2020-09-20T19:05:00+0100",
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Riga Int'l","ICAO":"EVRA","IATA":"RIX","geo":[23.97110,56.92360],"cc":"LV","continent":"EU"},
-		"dist":{"km":6688,"type":"gc"},
-		"emissions":{"kg":66168}
+		"dist":{"km":1622,"type":"gc"},
+		"emissions":{"kg":18911}
 	},{
 		"id":"WZZ1816",
 		"time":"2020-09-20T20:40:00+0100",
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Copernicus Wrocław","ICAO":"EPWR","IATA":"WRO","geo":[16.88580,51.10270],"cc":"PL","continent":"EU"},
-		"dist":{"km":5907,"type":"gc"},
-		"emissions":{"kg":58880}
+		"dist":{"km":1243,"type":"gc"},
+		"emissions":{"kg":15373}
 	},{
 		"id":"WZZ3016",
 		"time":"2020-09-20T21:45:00+0100",
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A321","name":"AIRBUS A321"},
 		"to":{"n":"Bucharest Henri Coandă Int'l","ICAO":"LROP","IATA":"OTP","geo":[26.08500,44.57111],"cc":"RO","continent":"EU"},
-		"dist":{"km":5590,"type":"gc"},
-		"emissions":{"kg":66017}
+		"dist":{"km":2194,"type":"gc"},
+		"emissions":{"kg":28396}
 	}]
 }
