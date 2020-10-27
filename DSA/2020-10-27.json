@@ -1,0 +1,12 @@
+{
+	"from": {"n":"Robin Hood Doncaster Sheffield Airport","ICAO":"EGCN","IATA":"DSA","geo":[-1.01066,53.48054],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"WUK5923",
+		"time":"2020-10-27T11:00:00+0000",
+		"airline":"",
+		"aircraft":{"code":"A321","name":"AIRBUS A321"},
+		"to":{"n":"Gran Canaria Int'l","ICAO":"GCLP","IATA":"LPA","geo":[-15.38660,27.93190],"cc":"ES","continent":"EU"},
+		"dist":{"km":3516,"type":"gc"},
+		"emissions":{"kg":43041}
+	}]
+}
