@@ -6,15 +6,15 @@
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Cluj-Napoca Int'l (Someşeni)","ICAO":"LRCL","IATA":"CLJ","geo":[23.68620,46.78520],"cc":"RO","continent":"EU"},
-		"dist":{"km":5695,"type":"gc"},
-		"emissions":{"kg":56905}
+		"dist":{"km":1901,"type":"gc"},
+		"emissions":{"kg":21507}
 	},{
 		"id":"WUK5927",
 		"time":"2020-10-29T13:15:00+0000",
 		"airline":"",
 		"aircraft":{"code":"A321","name":"AIRBUS A321"},
 		"to":{"n":"Tenerife South (Reina Sofia)","ICAO":"GCTS","IATA":"TFS","geo":[-16.57250,28.04450],"cc":"ES","continent":"EU"},
-		"dist":{"km":3587,"type":"gc"},
-		"emissions":{"kg":43832}
+		"dist":{"km":3105,"type":"gc"},
+		"emissions":{"kg":38487}
 	}]
 }
