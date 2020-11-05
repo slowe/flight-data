@@ -6,7 +6,7 @@
 		"airline":"",
 		"aircraft":{"code":"A321","name":"AIRBUS A321"},
 		"to":{"n":"Tenerife South (Reina Sofia)","ICAO":"GCTS","IATA":"TFS","geo":[-16.57250,28.04450],"cc":"ES","continent":"EU"},
-		"dist":{"km":3587,"type":"gc"},
-		"emissions":{"kg":43832}
+		"dist":{"km":3105,"type":"gc"},
+		"emissions":{"kg":38487}
 	}]
 }
