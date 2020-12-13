@@ -6,7 +6,7 @@
 		"airline":"",
 		"aircraft":{"code":"A321","name":"AIRBUS A321"},
 		"to":{"n":"Suceava","ICAO":"LRSV","IATA":"SCV","geo":[26.35410,47.68750],"cc":"RO","continent":"EU"},
-		"dist":{"km":5888,"type":"gc"},
-		"emissions":{"kg":69319}
+		"dist":{"km":2024,"type":"gc"},
+		"emissions":{"kg":26512}
 	}]
 }
