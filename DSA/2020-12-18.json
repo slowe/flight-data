@@ -6,15 +6,15 @@
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Vilnius Int'l","ICAO":"EYVI","IATA":"VNO","geo":[25.28580,54.63410],"cc":"LT","continent":"EU"},
-		"dist":{"km":6505,"type":"gc"},
-		"emissions":{"kg":64461}
+		"dist":{"km":1712,"type":"gc"},
+		"emissions":{"kg":19753}
 	},{
 		"id":"WZZ2510",
 		"time":"2020-12-18T07:50:00+0000",
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Riga Int'l","ICAO":"EVRA","IATA":"RIX","geo":[23.97110,56.92360],"cc":"LV","continent":"EU"},
-		"dist":{"km":6688,"type":"gc"},
-		"emissions":{"kg":66168}
+		"dist":{"km":1622,"type":"gc"},
+		"emissions":{"kg":18911}
 	}]
 }
