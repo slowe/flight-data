@@ -6,7 +6,7 @@
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Vilnius Int'l","ICAO":"EYVI","IATA":"VNO","geo":[25.28580,54.63410],"cc":"LT","continent":"EU"},
-		"dist":{"km":6505,"type":"gc"},
-		"emissions":{"kg":64461}
+		"dist":{"km":1712,"type":"gc"},
+		"emissions":{"kg":19753}
 	}]
 }
