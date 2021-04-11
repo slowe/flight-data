@@ -6,7 +6,7 @@
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A21N","name":"AIRBUS A321"},
 		"to":{"n":"Bucharest Henri Coandă Int'l","ICAO":"LROP","IATA":"OTP","geo":[26.08500,44.57111],"cc":"RO","continent":"EU"},
-		"dist":{"km":5590,"type":"gc"},
-		"emissions":{"kg":56217}
+		"dist":{"km":2194,"type":"gc"},
+		"emissions":{"kg":23135}
 	}]
 }
