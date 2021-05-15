@@ -6,7 +6,7 @@
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A21N","name":"AIRBUS A321"},
 		"to":{"n":"Warsaw Frederic Chopin","ICAO":"EPWA","IATA":"WAW","geo":[20.96710,52.16570],"cc":"PL","continent":"EU"},
-		"dist":{"km":6128,"type":"gc"},
-		"emissions":{"kg":61460}
+		"dist":{"km":1479,"type":"gc"},
+		"emissions":{"kg":16176}
 	}]
 }
