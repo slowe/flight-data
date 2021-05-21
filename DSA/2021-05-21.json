@@ -6,15 +6,15 @@
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Bucharest Henri Coandă Int'l","ICAO":"LROP","IATA":"OTP","geo":[26.08500,44.57111],"cc":"RO","continent":"EU"},
-		"dist":{"km":5590,"type":"gc"},
-		"emissions":{"kg":55924}
+		"dist":{"km":2194,"type":"gc"},
+		"emissions":{"kg":24242}
 	},{
 		"id":"WZZ3314",
 		"time":"2021-05-21T21:45:00+0100",
 		"airline":"Wizz Air",
 		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
 		"to":{"n":"Cluj-Napoca Int'l (Someşeni)","ICAO":"LRCL","IATA":"CLJ","geo":[23.68620,46.78520],"cc":"RO","continent":"EU"},
-		"dist":{"km":5695,"type":"gc"},
-		"emissions":{"kg":56905}
+		"dist":{"km":1901,"type":"gc"},
+		"emissions":{"kg":21507}
 	}]
 }
