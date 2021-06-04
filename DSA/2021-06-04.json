@@ -16,5 +16,13 @@
 		"to":{"n":"Cluj-Napoca Int'l (Someşeni)","ICAO":"LRCL","IATA":"CLJ","geo":[23.68620,46.78520],"cc":"RO","continent":"EU"},
 		"dist":{"km":1901,"type":"gc"},
 		"emissions":{"kg":21507}
+	},{
+		"id":"WZZ1616",
+		"time":"2021-06-04T22:25:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Gdansk Lech Walesa","ICAO":"EPGD","IATA":"GDN","geo":[18.46620,54.37760],"cc":"PL","continent":"EU"},
+		"dist":{"km":1276,"type":"gc"},
+		"emissions":{"kg":15680}
 	}]
 }
