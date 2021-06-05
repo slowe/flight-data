@@ -6,7 +6,7 @@
 		"airline":"",
 		"aircraft":{"code":"A321","name":"AIRBUS A321"},
 		"to":{"n":"Alicante","ICAO":"LEAL","IATA":"ALC","geo":[-0.55816,38.28220],"cc":"ES","continent":"EU"},
-		"dist":{"km":4261,"type":"gc"},
-		"emissions":{"kg":51299}
+		"dist":{"km":1692,"type":"gc"},
+		"emissions":{"kg":22836}
 	}]
 }
