@@ -16,5 +16,13 @@
 		"to":{"n":"Cluj-Napoca Int'l (Someşeni)","ICAO":"LRCL","IATA":"CLJ","geo":[23.68620,46.78520],"cc":"RO","continent":"EU"},
 		"dist":{"km":1901,"type":"gc"},
 		"emissions":{"kg":21507}
+	},{
+		"id":"AZG4898",
+		"time":"2021-06-07T23:49:42+0100",
+		"airline":"",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"","ICAO":"","IATA":"","geo":[47.29639,-11.58428],"cc":"TF","continent":"AF"},
+		"dist":{"km":8562,"type":"gc"},
+		"emissions":{"kg":98932}
 	}]
 }
