@@ -1,0 +1,12 @@
+{
+	"from": {"n":"Robin Hood Doncaster Sheffield Airport","ICAO":"EGCN","IATA":"DSA","geo":[-1.01066,53.48054],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"WZZ1445",
+		"time":"2021-08-01T00:00:25+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"","name":""},
+		"to":{"n":"","ICAO":"","IATA":"","geo":[47.29639,-11.58428],"cc":"TF","continent":"AF"},
+		"dist":{"km":5383,"type":"gc"},
+		"emissions":{"kg":63727}
+	}]
+}
