@@ -6,7 +6,7 @@
 		"airline":"Wizz Air",
 		"aircraft":{"code":"","name":""},
 		"to":{"n":"","ICAO":"","IATA":"","geo":[47.29639,-11.58428],"cc":"TF","continent":"AF"},
-		"dist":{"km":5383,"type":"gc"},
-		"emissions":{"kg":63727}
+		"dist":{"km":8562,"type":"gc"},
+		"emissions":{"kg":98932}
 	}]
 }
