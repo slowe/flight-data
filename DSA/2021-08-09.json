@@ -6,7 +6,7 @@
 		"airline":"",
 		"aircraft":{"code":"A321","name":"AIRBUS A321"},
 		"to":{"n":"Cluj-Napoca Int'l (Someşeni)","ICAO":"LRCL","IATA":"CLJ","geo":[23.68620,46.78520],"cc":"RO","continent":"EU"},
-		"dist":{"km":5695,"type":"gc"},
-		"emissions":{"kg":67183}
+		"dist":{"km":1901,"type":"gc"},
+		"emissions":{"kg":25149}
 	}]
 }
