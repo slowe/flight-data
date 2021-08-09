@@ -1,0 +1,12 @@
+{
+	"from": {"n":"Robin Hood Doncaster Sheffield Airport","ICAO":"EGCN","IATA":"DSA","geo":[-1.01066,53.48054],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"WZZ1316",
+		"time":"2021-08-10T08:15:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A21N","name":"AIRBUS A321"},
+		"to":{"n":"Warsaw Frederic Chopin","ICAO":"EPWA","IATA":"WAW","geo":[20.96710,52.16570],"cc":"PL","continent":"EU"},
+		"dist":{"km":6128,"type":"gc"},
+		"emissions":{"kg":61460}
+	}]
+}
