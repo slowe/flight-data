@@ -8,5 +8,13 @@
 		"to":{"n":"Warsaw Frederic Chopin","ICAO":"EPWA","IATA":"WAW","geo":[20.96710,52.16570],"cc":"PL","continent":"EU"},
 		"dist":{"km":1479,"type":"gc"},
 		"emissions":{"kg":16176}
+	},{
+		"id":"WZZ1016",
+		"time":"2021-08-10T22:45:00+0100",
+		"airline":"Wizz Air",
+		"aircraft":{"code":"A320","name":"AIRBUS A320-100/200"},
+		"to":{"n":"Int'l Katowice in Pyrzowice","ICAO":"EPKT","IATA":"KTW","geo":[19.08000,50.47430],"cc":"PL","continent":"EU"},
+		"dist":{"km":1412,"type":"gc"},
+		"emissions":{"kg":16950}
 	}]
 }
