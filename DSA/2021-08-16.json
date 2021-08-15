@@ -1,0 +1,12 @@
+{
+	"from": {"n":"Robin Hood Doncaster Sheffield Airport","ICAO":"EGCN","IATA":"DSA","geo":[-1.01066,53.48054],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"WUK3314",
+		"time":"2021-08-16T06:50:00+0100",
+		"airline":"",
+		"aircraft":{"code":"A321","name":"AIRBUS A321"},
+		"to":{"n":"Cluj-Napoca Int'l (Someşeni)","ICAO":"LRCL","IATA":"CLJ","geo":[23.68620,46.78520],"cc":"RO","continent":"EU"},
+		"dist":{"km":5695,"type":"gc"},
+		"emissions":{"kg":67183}
+	}]
+}
