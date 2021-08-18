@@ -6,7 +6,7 @@
 		"airline":"",
 		"aircraft":{"code":"A321","name":"AIRBUS A321"},
 		"to":{"n":"Burgas Int'l (Sarafovo)","ICAO":"LBBG","IATA":"BOJ","geo":[27.51520,42.56960],"cc":"BG","continent":"EU"},
-		"dist":{"km":5479,"type":"gc"},
-		"emissions":{"kg":64782}
+		"dist":{"km":2422,"type":"gc"},
+		"emissions":{"kg":30928}
 	}]
 }
