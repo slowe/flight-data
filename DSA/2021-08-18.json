@@ -1,0 +1,12 @@
+{
+	"from": {"n":"Robin Hood Doncaster Sheffield Airport","ICAO":"EGCN","IATA":"DSA","geo":[-1.01066,53.48054],"cc":"GB","continent":"EU"},
+	"flights":[{
+		"id":"WUK5935",
+		"time":"2021-08-18T05:50:00+0100",
+		"airline":"",
+		"aircraft":{"code":"A321","name":"AIRBUS A321"},
+		"to":{"n":"Burgas Int'l (Sarafovo)","ICAO":"LBBG","IATA":"BOJ","geo":[27.51520,42.56960],"cc":"BG","continent":"EU"},
+		"dist":{"km":5479,"type":"gc"},
+		"emissions":{"kg":64782}
+	}]
+}
